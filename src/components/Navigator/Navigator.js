@@ -4,8 +4,8 @@
 import React, { Component } from 'react';
 import NavigatorList from './NavigatorList';
 // load in JSON data from file
-import dataKeywords from '../../data/keywords.json'
-import dataTango from '../../data/tango_indices.json'
+import dataKeywords from '../../data/ckeywords.json'
+import dataTango from '../../data/ctango_indices.json'
 import './navigator.css'
 
 class Navigator extends Component {
