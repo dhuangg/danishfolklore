@@ -11,3 +11,21 @@ export function getChildren(list,key,value){
     }
     return items;
 }
+
+//return array of values with the same key
+export function getSiblings(list,key){
+    if(key==='MAIN' || key==='TOPIC' || key==='PPS' || key===''){
+        return list;
+    }
+    if(typeof list !== 'undefined' && typeof key !== 'undefined'){
+        var prev = [];
+        for(var i=0;i<list.length;i++){
+            var curr = list[i][key];
+            if(!prev.includes(curr)){
+                prev.push(curr);
+            }
+        }
+        return prev;
+    }
+    alert("Can't get siblings!");
+}

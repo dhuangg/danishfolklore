@@ -10,51 +10,53 @@ class NavigatorList extends Component {
         super();
         this.createList = this.createList.bind(this);
         this.callNavigator = this.callNavigator.bind(this);
+        this.state = {
+            selectValue:''
+        };
     }
 
-    getSiblings(list,key){
-        if(key===''){
-            return list;
-        }
-        if(typeof list !== 'undefined' && typeof key !== 'undefined'){
-            var prev = [];
-            for(var i=0;i<list.length;i++){
-                var curr = list[i][key];
-                if(!prev.includes(curr)){
-                    prev.push(curr);
-                }
-            }
-            return prev;
-        }
-        return;
-    }
     callNavigator(list,elementKey){
         this.props.addNav(list,elementKey);
     }
-    createList(list,key){
-        var filteredList = this.getSiblings(list,key);
-        if(typeof filteredList !== 'undefined'){
+
+    createList(list){
+        console.log(list);
+       // var filteredList = getSiblings(list,key);
+        if(typeof list !== 'undefined'){
             //elementKey = key within data that you want to display (i.e. keyword_names)
-            console.log(filteredList);
-            return filteredList.map(function(value,i){
-                return <NavigatorItem key={i} elementKey={key} value={value} list={list}
-                                                                            navigatorCall={this.callNavigator.bind(this)}/> }.bind(this));
+            return list.map(function(value,i){
+                return <NavigatorItem key={i} value={value} list={list} navigatorCall={this.callNavigator.bind(this)}/> }.bind(this));
         } else {
             return;
         }
+    }
 
+    createDropdown(list){
+        return list.map(function(value,i){
+            return <option key={i} value={value} list={list}>{value}</option> });
+    }
+
+    handleMenuChange(e){
+        this.setState({selectValue:e.target.value});
+        //pass selected value back to navigator
+        this.props.addNav(e.target.value,'');
     }
 
     render() {
         return (
             <div className="NavigatorList">
-                <ul>
-                {this.createList.bind(this, this.props.list,this.props.elementKey)()}
-                </ul>
-                <div className="arrow-down left"></div>
+                {
+                <form>
+                    <select value={this.state.selectValue} onChange={this.handleMenuChange.bind(this)}>
+                        {this.createDropdown.bind(this,this.props.list)()}
+                    </select>
+                </form>
+                }
             </div>
         );
     }
 }
-
+/*
+* <div className="arrow-down left"></div>
+* */
 export default NavigatorList;
