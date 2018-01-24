@@ -29,7 +29,6 @@ class Navigator extends Component {
         //console.log(listsModel)
     }
     //remove sibling lists from visible navigator
-    //TODO:remove previously selected element from path
     cleanNavList(selectedList){
         var selList = selectedList;
         //get indices of other list of same level and delete
@@ -42,12 +41,10 @@ class Navigator extends Component {
                 i--;
             }
         }
-        //console.log(this.state.lists);
     }
 
     handleAddNavList(list){
         this.state.path.push(list);
-        //this.state.path = this.state.path + list + ';';
         if(list in listsModel){
            //check if topic index nav are both in this.state.lists
            this.cleanNavList(listsModel[list]);
