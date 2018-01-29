@@ -1,0 +1,108 @@
+<story><story_id>545</story_id>
+  <publication_info>DS_IV_1749</publication_info>
+  <full_name>407 - 0.00 - DS_IV_1749</full_name>
+  <informant_id>407</informant_id>
+  <informant_last_name>Jeppesen</informant_last_name>
+  <informant_first_name>J.</informant_first_name>
+  <informant_full_name>Forstander J. Jeppesen</informant_full_name>
+  <order_told>0.00</order_told>
+  <fieldtrip><id/>None recorded</fieldtrip>
+  <places>
+    <place><type>place_recorded</type>
+      <place_id>878</place_id>
+      <name>Staby</name>
+      <display_name>Staby (place recorded)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>85</place_id>
+      <name>Br&#230;sten</name>
+      <display_name>Br&#230;sten (place mentioned)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>1016</place_id>
+      <name>Skibet</name>
+      <display_name>Skibet (place mentioned)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>1017</place_id>
+      <name>Ruu</name>
+      <display_name>Ruu (place mentioned)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>1018</place_id>
+      <name>Vilstrup</name>
+      <display_name>Vilstrup (place mentioned)</display_name>
+    </place>
+  </places>
+  <stories_mentioned>
+    <story><story_id>687</story_id>
+      <informant_id>390</informant_id>
+      <publication_info>DS_IV_1762</publication_info>
+      <full_name>390 - 0.00 - DS_IV_1762</full_name>
+      <url>data/stories/687.dfl</url>
+    </story>
+    <story><story_id>801</story_id>
+      <informant_id>442</informant_id>
+      <publication_info>DS_IV_1755</publication_info>
+      <full_name>442 - 0.00 - DS_IV_1755</full_name>
+      <url>data/stories/801.dfl</url>
+    </story>
+    <story><story_id>637</story_id>
+      <informant_id>245</informant_id>
+      <publication_info>DS_IV_1729</publication_info>
+      <full_name>245 - 0.00 - DS_IV_1729</full_name>
+      <url>data/stories/637.dfl</url>
+    </story>
+    <story><story_id>476</story_id>
+      <informant_id>385</informant_id>
+      <publication_info>DS_IV_1711</publication_info>
+      <full_name>385 - 0.00 - DS_IV_1711</full_name>
+      <url>data/stories/476.dfl</url>
+    </story>
+    <story><story_id>392</story_id>
+      <informant_id>123</informant_id>
+      <publication_info>DS_IV_1689</publication_info>
+      <full_name>123 - 2.18 - DS_IV_1689</full_name>
+      <url>data/stories/392.dfl</url>
+    </story>
+  </stories_mentioned>
+  <fielddiary_page_start>N/A</fielddiary_page_start>
+  <fielddiary_page_end>N/A</fielddiary_page_end>
+  <bibliographic_info/>
+  <bibliography_references/>
+  <annotation/>
+  <danish_manuscript/>
+  <english_manuscript/>
+  <danish_publication>I Br&#230;sten og i Skibet var der ikke mere end et enkelt menneske levende efter pesten i hvert sogn, og det var en karl og en lille pige. Der var n&#230;sten skov over det hele, og de havde vanskeligt ved at finde hinanden. S&#229; ringede de med kirkeklokken, han i Br&#230;sten og hun i Skibet, og s&#229; gik de efter lyden. Han traf hende p&#229; en h&#246;j banke, hvor hun sad og gr&#230;d, og den banke hedder endnu Gr&#230;debj&#230;rg. Andre siger, at de traf hinanden p&#229; en bakke mellem Vilstrup og Ruu, som hedder Glasbj&#230;rg. De blev s&#229; gift, og fra dem siges den egns befolkning at nedstamme.</danish_publication>
+  <english_publication>In Br&#230;sten and Skibet there was not more than a single person alive after the plague in each parish, and it was a young man and a little girl. There was forest over practically the entire area, and they had a hard time finding each other. So they rang the church bells, he the one in Br&#230;sten and she the one in Skibet and they went after the sound. He found her on top of a high hill where she sat crying, and that hill is still called Crying hill (Gr&#230;debj&#230;rg). Others say that they met each other on a hill between Vilstrup and Ruu which is called Glass mountain (Glasbj&#230;rg). They got married and it is said that the area&#8217;s population descends from them.</english_publication>
+  <keywords>
+    <keyword><id>88</id><frequency>1</frequency><keyword>bells</keyword>bells</keyword>
+    <keyword><id>227</id><frequency>1</frequency><keyword>church</keyword>church</keyword>
+    <keyword><id>285</id><frequency>2</frequency><keyword>crying</keyword>crying</keyword>
+    <keyword><id>438</id><frequency>1</frequency><keyword>forest</keyword>forest</keyword>
+    <keyword><id>467</id><frequency>1</frequency><keyword>girl</keyword>girl</keyword>
+    <keyword><id>468</id><frequency>1</frequency><keyword>glass</keyword>glass</keyword>
+    <keyword><id>530</id><frequency>4</frequency><keyword>hill</keyword>hill</keyword>
+    <keyword><id>753</id><frequency>1</frequency><keyword>marriage</keyword>marriage</keyword>
+    <keyword><id>809</id><frequency>1</frequency><keyword>mountain</keyword>mountain</keyword>
+    <keyword><id>903</id><frequency>1</frequency><keyword>parish</keyword>parish</keyword>
+    <keyword><id>959</id><frequency>1</frequency><keyword>plague</keyword>plague</keyword>
+    <keyword><id>1165</id><frequency>1</frequency><keyword>sounds</keyword>sounds</keyword>
+    <keyword><id>1374</id><frequency>1</frequency><keyword>young</keyword>young</keyword>
+  </keywords>
+  <etk_index><id>22</id>
+    <heading_danish>Pest og sygdomme</heading_danish>
+    <heading_english>Plague and illnesses</heading_english>
+  </etk_index>
+  <tango_indices>
+    <tango_index><id>11</id><display_name>People: Girl</display_name></tango_index>
+    <tango_index><id>12</id><display_name>People: Man</display_name></tango_index>
+    <tango_index><id>28</id><display_name>Places: Church</display_name></tango_index>
+    <tango_index><id>31</id><display_name>Places: Forest / Woods</display_name></tango_index>
+    <tango_index><id>46</id><display_name>Tools, Items and Conveyances: Bell</display_name></tango_index>
+    <tango_index><id>83</id><display_name>Actions or events: Death</display_name></tango_index>
+    <tango_index><id>84</id><display_name>Actions or events: Disease</display_name></tango_index>
+    <tango_index><id>127</id><display_name>Resolution: Positive</display_name></tango_index>
+  </tango_indices>
+  <genre><id>2</id><name>Legend</name></genre>
+</story>

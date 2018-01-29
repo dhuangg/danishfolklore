@@ -1,0 +1,91 @@
+<story><story_id>540</story_id>
+  <publication_info>DS_II_D_45</publication_info>
+  <full_name>512 - 0.00 - DS_II_D_45</full_name>
+  <informant_id>512</informant_id>
+  <informant_last_name>Pedersen</informant_last_name>
+  <informant_first_name>Herman</informant_first_name>
+  <informant_full_name>Stationsforstander Herman Pedersen</informant_full_name>
+  <order_told>0.00</order_told>
+  <fieldtrip><id/>None recorded</fieldtrip>
+  <places>
+    <place><type>place_recorded</type>
+      <place_id>789</place_id>
+      <name>Hammerum</name>
+      <display_name>Hammerum (place recorded)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>949</place_id>
+      <name>Odense</name>
+      <display_name>Odense (place mentioned)</display_name>
+    </place>
+  </places>
+  <stories_mentioned>
+    <story><story_id>483</story_id>
+      <informant_id>346</informant_id>
+      <publication_info>DS_II_D_48</publication_info>
+      <full_name>346 - 0.00 - DS_II_D_48</full_name>
+      <url>data/stories/483.dfl</url>
+    </story>
+    <story><story_id>280</story_id>
+      <informant_id>235</informant_id>
+      <publication_info>DS_II_D_50</publication_info>
+      <full_name>235 - 1.59 - DS_II_D_50</full_name>
+      <url>data/stories/280.dfl</url>
+    </story>
+    <story><story_id>566</story_id>
+      <informant_id>187</informant_id>
+      <publication_info>DS_II_D_40</publication_info>
+      <full_name>187 - 0.00 - DS_II_D_40</full_name>
+      <url>data/stories/566.dfl</url>
+    </story>
+    <story><story_id>294</story_id>
+      <informant_id>235</informant_id>
+      <publication_info>DSnr_II_D_39</publication_info>
+      <full_name>235 - 2.11 - DSnr_II_D_39</full_name>
+      <url>data/stories/294.dfl</url>
+    </story>
+  </stories_mentioned>
+  <fielddiary_page_start>N/A</fielddiary_page_start>
+  <fielddiary_page_end>N/A</fielddiary_page_end>
+  <bibliographic_info/>
+  <bibliography_references/>
+  <annotation/>
+  <danish_manuscript/>
+  <english_manuscript/>
+  <danish_publication>I Odense &#229; boer der en &#229;mand. Hvert &#229;r kr&#230;ver han sit offer, og skeer det et enkelt &#229;r, at der ingen drukner deri, s&#229; skal han nok s&#246;rge for at f&#229; to det n&#230;ste &#229;r. S&#229;ledes fort&#230;lles der, at da der en gang gik to sm&#229; drenge og legede ved &#229;bredden, faldt den ene af dem i vandet. Den anden l&#248;b til for at hj&#230;lpe ham op; men idet han fik fat i sin legekammerats h&#229;nd, r&#229;bte &#229;manden op af vandet: "Nej, jeg vil have jer begge, jeg fik ingen i fjor," og i det samme gled drengen ud i vandet, og de druknede begge. Et par m&#230;nd, der fra den modsatte bred i nogen frastand var vidne til ulykken, vilde med en b&#229;d ile b&#246;rnene til hj&#230;lp, men de kom for sent. Drengene var druknede, og man fandt aldrig deres lig; &#229;manden havde beholdt dem.
+     Fortalt mig af mange i og omkring Odense, bl. a. af min egen moder og min moster, Maren Kirstine Johansen, der boede i Dr&#230;by, og af gamle Madam Brun og Smed Rasmussen i Odense.</danish_publication>
+  <english_publication>A river man lives in Odense river. Every year he requires a victim, and if it happens during a single year that nobody drowns, then he&#8217;ll make sure to take two the next year. There's a story that two small boys once went and played by the river banks and one of them fell into the water. &#8220;No, I want both of you, I didn&#8217;t get any last year,&#8221; and at the same time the other boy slipped out into the water and they both drowned. A couple of men who witnessed the accident from the other bank at a little distance wanted to try and help the boys but they came too late. The boys were drowned and they never found their bodies; the river man had held onto them. 
+     This was told to me in and around Odense by many people, among them my own mother and my aunt, Maren Kirstine Johansen, who lived in Dr&#230;by, and by old Madam Brun and Smith Rasmussen in Odense.</english_publication>
+  <keywords>
+    <keyword><id>7</id><frequency>1</frequency><keyword>accidents</keyword>accidents</keyword>
+    <keyword><id>56</id><frequency>1</frequency><keyword>aunt</keyword>aunt</keyword>
+    <keyword><id>118</id><frequency>1</frequency><keyword>body</keyword>body</keyword>
+    <keyword><id>130</id><frequency>4</frequency><keyword>boy</keyword>boy</keyword>
+    <keyword><id>358</id><frequency>3</frequency><keyword>drowning</keyword>drowning</keyword>
+    <keyword><id>392</id><frequency>1</frequency><keyword>fall</keyword>fall</keyword>
+    <keyword><id>629</id><frequency>1</frequency><keyword>kirstine_johansen</keyword>Kirstine Johansen</keyword>
+    <keyword><id>745</id><frequency>1</frequency><keyword>maren</keyword>Maren</keyword>
+    <keyword><id>803</id><frequency>1</frequency><keyword>mother</keyword>mother</keyword>
+    <keyword><id>873</id><frequency>1</frequency><keyword>old</keyword>old</keyword>
+    <keyword><id>1034</id><frequency>4</frequency><keyword>river</keyword>river</keyword>
+    <keyword><id>1146</id><frequency>1</frequency><keyword>smithing</keyword>smithing</keyword>
+    <keyword><id>1297</id><frequency>1</frequency><keyword>victim</keyword>victim</keyword>
+    <keyword><id>1320</id><frequency>2</frequency><keyword>water</keyword>water</keyword>
+    <keyword><id>1370</id><frequency>4</frequency><keyword>year</keyword>year</keyword>
+  </keywords>
+  <etk_index><id>5</id>
+    <heading_danish>Vandets &#229;nder</heading_danish>
+    <heading_english>Water spirits</heading_english>
+  </etk_index>
+  <tango_indices>
+    <tango_index><id>4</id><display_name>People: Boy</display_name></tango_index>
+    <tango_index><id>12</id><display_name>People: Man</display_name></tango_index>
+    <tango_index><id>42</id><display_name>Places: Stream / River</display_name></tango_index>
+    <tango_index><id>68</id><display_name>Supernatural Beings: Unspecified</display_name></tango_index>
+    <tango_index><id>83</id><display_name>Actions or events: Death</display_name></tango_index>
+    <tango_index><id>85</id><display_name>Actions or events: Drowning</display_name></tango_index>
+    <tango_index><id>128</id><display_name>Resolution: Negative</display_name></tango_index>
+    <tango_index><id>131</id><display_name>Stylistics: Direct Conversation</display_name></tango_index>
+  </tango_indices>
+  <genre><id>2</id><name>Legend</name></genre>
+</story>

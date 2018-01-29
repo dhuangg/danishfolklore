@@ -1,0 +1,81 @@
+<story><story_id>426</story_id>
+  <publication_info>DS_II_J_47</publication_info>
+  <full_name>123 - 3.23 - DS_II_J_47</full_name>
+  <informant_id>123</informant_id>
+  <informant_last_name>Johansen</informant_last_name>
+  <informant_first_name>Peder</informant_first_name>
+  <informant_full_name>Peder Johansen</informant_full_name>
+  <order_told>3.23</order_told>
+  <fieldtrip><id>2</id>Feb 1888</fieldtrip>
+  <fieldtrip_start_date>1888-02-04</fieldtrip_start_date>
+  <fieldtrip_end_date>1888-02-17</fieldtrip_end_date>
+  <places>
+    <place><type>place_recorded</type>
+      <place_id>175</place_id>
+      <name>Fuldbro m&#248;lle</name>
+      <display_name>Fuldbro m&#248;lle (place recorded)</display_name>
+    </place>
+  </places>
+  <stories_mentioned>
+    <story><story_id>384</story_id>
+      <informant_id>123</informant_id>
+      <publication_info>DS_III_2367</publication_info>
+      <full_name>123 - 2.10 - DS_III_2367</full_name>
+      <url>data/stories/384.dfl</url>
+    </story>
+    <story><story_id>653</story_id>
+      <informant_id>477</informant_id>
+      <publication_info>DS_II_J_70</publication_info>
+      <full_name>477 - 0.00 - DS_II_J_70</full_name>
+      <url>data/stories/653.dfl</url>
+    </story>
+  </stories_mentioned>
+  <fielddiary_page_start>3803a</fielddiary_page_start>
+  <fielddiary_page_end>3803a</fielddiary_page_end>
+  <bibliographic_info/>
+  <bibliography_references/>
+  <annotation>Lights are commonly believed to burn over treasures (PJ 2.10). Peder adds that lights also burn over things that are hidden or secret. The kongelys (king light) is clearly related to the notion of buried treasures left behind by kings or treasures large enough to ransom a king (PJ 2.10). The notion of a light burning over a buried treasure is similar to the Anglo-American belief of a pot of gold at the end of a rainbow. Just as with the rainbow's end, it is impossible to reach a kongelys.</annotation>
+  <danish_manuscript>Det Mske er ikke f&#248;d der kan gaa til et
+Kongelys. De flytter dem og staar br&#230;nder
+hvor der ligger et Kongel&#248;sen. Ved Svejstrup
+er der en [H&#248;j] Kold (en fladning med Skr&#230;nt-
+til 3 Sider) der kaldes Hjordens Kold for
+der ligger alt deres F&#230; begravet i en Kule
+som d&#248;de i Kv&#230;gpesten. Og der fort&#230;lles
+at der har staaet et Lys og br&#230;ndt som
+&#230;ldre Folk har set, men det forsvandt.
+naar en kom n&#230;rmere. Lys br&#230;nder over
+noget som er skjult eller hemmeligt.
+</danish_manuscript>
+  <english_manuscript>The person who can walk to a "kongelys" hasn't been born yet. They move around and burn where a king's ransom is buried. Near Svejstrup there's a kold (a flat area with slopes on three sides) which is called Hjordens kold (The Shepherd's kold), because that's where all the animals that died during the cattle plague were buried. They also say that a light used to burn out here, which old people have seen, but it disappeared as you got closer. Lights burn over things that are either hidden or secret.</english_manuscript>
+  <danish_publication>Det menneske er ikke f&#248;dt, der kan g&#229; til et kongelys. De st&#229;r og br&#230;nder, hvor der ligger et kongel&#248;sen. Ved Svejstrup er der en kold (en fladning med skr&#230;nt til tre sider), der kaldes Hjordens kold, for der ligger alt deres f&#230; begravet, som d&#248;de i kv&#230;gpesten, det kom ned i en stor kule. Der fort&#230;lles, at her ogs&#229; har st&#229;et et lys og br&#230;ndt, som &#230;ldre folk har set, men det forsvandt, n&#229;r &#233;n kom n&#230;rmere. Lys br&#230;nder over noget, som er skjult eller hemmeligt.</danish_publication>
+  <english_publication>The person who can walk to a &#8220;kongelys&#8221; hasn&#8217;t been born yet. The light burns where a king&#8217;s ransom is buried. Near Svejstrup there&#8217;s a kold (a flat area with slopes on three sides) which is called Hjortens kold (The Shepherd&#8217;s kold), because that&#8217;s where all the sheep that died during the sheep plague were buried. They also say that a light used to burn out there, which the old people have seen, but it disappeared as you got closer. Lights burn over things that are either hidden or secret. </english_publication>
+  <keywords>
+    <keyword><id>102</id><frequency>1</frequency><keyword>birth</keyword>birth</keyword>
+    <keyword><id>158</id><frequency>2</frequency><keyword>burial</keyword>burial</keyword>
+    <keyword><id>317</id><frequency>1</frequency><keyword>death</keyword>death</keyword>
+    <keyword><id>331</id><frequency>1</frequency><keyword>disappearance</keyword>disappearance</keyword>
+    <keyword><id>413</id><frequency>3</frequency><keyword>fire</keyword>fire</keyword>
+    <keyword><id>624</id><frequency>1</frequency><keyword>king</keyword>king</keyword>
+    <keyword><id>708</id><frequency>1</frequency><keyword>lights</keyword>lights</keyword>
+    <keyword><id>873</id><frequency>1</frequency><keyword>old</keyword>old</keyword>
+    <keyword><id>959</id><frequency>1</frequency><keyword>plague</keyword>plague</keyword>
+    <keyword><id>1014</id><frequency>1</frequency><keyword>ransom</keyword>ransom</keyword>
+    <keyword><id>1082</id><frequency>1</frequency><keyword>secrets</keyword>secrets</keyword>
+    <keyword><id>1095</id><frequency>2</frequency><keyword>sheep</keyword>sheep</keyword>
+    <keyword><id>1099</id><frequency>1</frequency><keyword>shepherd</keyword>shepherd</keyword>
+    <keyword><id>1256</id><frequency>1</frequency><keyword>three</keyword>three</keyword>
+  </keywords>
+  <etk_index><id>10</id>
+    <heading_danish>Lys og varsler</heading_danish>
+    <heading_english>Lights and portents</heading_english>
+  </etk_index>
+  <tango_indices>
+    <tango_index><id>53</id><display_name>Tools, Items and Conveyances: Treasure / Money</display_name></tango_index>
+    <tango_index><id>68</id><display_name>Supernatural Beings: Unspecified</display_name></tango_index>
+    <tango_index><id>72</id><display_name>Animals: Farm animal</display_name></tango_index>
+    <tango_index><id>77</id><display_name>Animals: Sheep</display_name></tango_index>
+    <tango_index><id>130</id><display_name>Resolution: None / Unspecified</display_name></tango_index>
+  </tango_indices>
+  <genre><id>1</id><name>Belief</name></genre>
+</story>

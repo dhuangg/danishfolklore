@@ -1,0 +1,103 @@
+<story><story_id>386</story_id>
+  <publication_info>MA_II_424</publication_info>
+  <full_name>123 - 2.12 - MA_II_424</full_name>
+  <informant_id>123</informant_id>
+  <informant_last_name>Johansen</informant_last_name>
+  <informant_first_name>Peder</informant_first_name>
+  <informant_full_name>Peder Johansen</informant_full_name>
+  <order_told>2.12</order_told>
+  <fieldtrip><id>2</id>Feb 1888</fieldtrip>
+  <fieldtrip_start_date>1888-02-04</fieldtrip_start_date>
+  <fieldtrip_end_date>1888-02-17</fieldtrip_end_date>
+  <places>
+    <place><type>place_recorded</type>
+      <place_id>175</place_id>
+      <name>Fuldbro m&#248;lle</name>
+      <display_name>Fuldbro m&#248;lle (place recorded)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>615</place_id>
+      <name>Svejstrup</name>
+      <display_name>Svejstrup (place mentioned)</display_name>
+    </place>
+  </places>
+  <stories_mentioned>
+    <story><story_id>221</story_id>
+      <informant_id>235</informant_id>
+      <publication_info>JAH_II_213</publication_info>
+      <full_name>235 - 1.02 - JAH_II_213</full_name>
+      <url>data/stories/221.dfl</url>
+    </story>
+  </stories_mentioned>
+  <fielddiary_page_start>3776a</fielddiary_page_start>
+  <fielddiary_page_end>3776b</fielddiary_page_end>
+  <bibliographic_info/>
+  <bibliography_references/>
+  <annotation>The German rope maker's unusual expression, "God be dead", is the main focus of the story. The unsettling image of a weasel eating through a bucket of tripe is counteracted by the amusing image of the weasel being sent head over heels from the cudgel blow.</annotation>
+  <danish_manuscript>S. var der en gl. Rebslaaer i Svejstrup h.
+kaldte sig en H&#248;rsvinger. H. var en Tysker og
+lidt gal i Maalet. Da jeg blev gift da havde
+jeg 7 Kl&#230;deskjorter, nu har jeg Gs D&#248;d ikke s.
+meget jeg kan t&#248;rre min R&#248;v med. S. en Dag
+var jeg gaaet til Hem efter Tarme og da jeg
+kommer hjem s&#230;tter jeg Spanden i Forstuen med
+
+3776B
+T&#248;rmene i. Da jeg havde siddet lidt s. h&#248;rer
+jeg noget der buldrer ude i Spanden. Jeg siger
+da til min s&#248;n Kristian: Gaa ud og se efter
+hvad der er i Sp. H. gik men kunde intet
+se. Om lidt beg. det igien. S. s. jeg til min
+S&#248;n Niels: Gaa du da ud og se efter....
+N. gik og kunde heller intet se. S. s. jeg til
+min lille Lavrs. Men du L. lad mig se
+om du er en vakker Kn&#230;gt og kan se ....
+L. gik, kunde heller ingen se. S. rejste jeg 
+mig, tog Lys i 1 Hand og Stok i 2. Da jeg
+kom derud var det G. D&#248;d en Ilder som
+aad af Tarmene, og s. drev jeg den en
+over Ryggen, te den sprang over T&#248;rve
+skruen. men fy hvor den Satan han fes.
+</danish_manuscript>
+  <english_manuscript>There was an old rope maker in Svejstrup, he called himself a flax beater. He was a German and a bit odd in his speech. When I got married I had seven cloth shirts, now I don't have, God be dead, enough to wipe my ass with. One time I'd gone to Hem for intestines and when I get home I put the bucket in the anteroom, with the intestines in it. After I'd sat there for a little while I hear something banging about in the bucket. I say to my son Kristian: "Go and see what's in the bucket." He went out but he couldn't see anything. A little later, it started again. Then I said to my son Niels: "Go out and see what's in the bucket." Niels went out and couldn't see anything either. Then I said to my little Lars. "Lars, let me see if you're a good boy, and see what's in the bucket." Lars went out, and couldn't see anything either. Then I got up and took a lantern in one hand and a cudgel in the other. When I got out there, there was, God be dead, a weasel eating the intestines, and then I smacked it one across the back so it jumped right over the peat pile. But boy did that devil take off.</english_manuscript>
+  <danish_publication>Der var en gammel rebsl&#229;er i Svejstrup, han var en Tysker og lidt gal i m&#229;let. Han kaldte sig en h&#246;rsvinger, og han fortalte en gang f&#248;lgende: Da jeg blev gift, da havde jeg syv kl&#230;deskjoler, nu har jeg Guds d&#248;d ikke s&#229; meget, jeg kan t&#246;rre min r&#246;v med. S&#229; en dag var jeg g&#229;et til Hem efter tarme, og da jeg kommer igjen, s&#230;tter jeg spanden i forstuen med tarmene i. Da jeg havde siddet lidt, s&#229; h&#248;rer jeg noget, der buldrer ude i spanden. Jeg siger da til min s&#246;n Kristian: "G&#229; ud og se efter, hvad der er i spanden?" Han gik, men kunde intet se. Om lidt begynder det igjen. S&#229; siger jeg til min s&#246;n Niels: "G&#229; du ud og se efter, hvad der er i spanden". Niels gik og kunde heller intet se. S&#229; siger jeg til min lille Lavs: "Men du, Lavs, lad mig se, om du er en vakker kn&#230;gt og kan se efter, hvad der er i spanden". Lavs gik, men kunde heller ingen ting se. S&#229; rejste jeg mig, tog et lys i den ene h&#229;nd og en stok i den anden. Da jeg kom derud, var det Guds d&#248;d en ilder, som &#229;d af tarmene. S&#229; drev jeg den &#233;n over ryggen, te den sprang helt over t&#246;rveskruen. Men fy, hvor den Satan han fes.</danish_publication>
+  <english_publication>There was an old rope maker in Svejstrup, he was a German and a bit odd in his speech. He called himself a flax beater, and once he told the following: When I got married I had seven cloth shirts, now I don&#8217;t have, God be dead, enough to wipe my ass with. One time I&#8217;d gone to Hem for intestines and when I got home I put the bucket with the intestines in it in the anteroom. After I&#8217;d sat there for a little while I hear something banging about in the bucket. I say to my son Kristian: &#8220;Go and see what&#8217;s in the bucket.&#8221; He went out but he couldn&#8217;t see anything. A little later, it started again. Then I said to my son Niels: &#8220;Go out and see what&#8217;s in the bucket.&#8221; Niels went out and couldn&#8217;t see anything either. Then I said to my little Lars. &#8220;Lars, let me see if you&#8217;re a good boy, and see what&#8217;s in the bucket.&#8221; Lars went out, and couldn&#8217;t see anything either. Then I got up and took a lantern in one hand and a cudgel in the other. When I got out there, there was, God be dead, a weasel eating the intestines. Then I smacked it one across the back so it jumped right over the peat pile. But boy did that devil take off.</english_publication>
+  <keywords>
+    <keyword><id>52</id><frequency>1</frequency><keyword>ass</keyword>ass</keyword>
+    <keyword><id>68</id><frequency>1</frequency><keyword>banging</keyword>banging</keyword>
+    <keyword><id>130</id><frequency>2</frequency><keyword>boy</keyword>boy</keyword>
+    <keyword><id>151</id><frequency>5</frequency><keyword>bucket</keyword>bucket</keyword>
+    <keyword><id>236</id><frequency>1</frequency><keyword>clothing</keyword>clothing</keyword>
+    <keyword><id>317</id><frequency>2</frequency><keyword>death</keyword>death</keyword>
+    <keyword><id>324</id><frequency>1</frequency><keyword>devil</keyword>devil</keyword>
+    <keyword><id>418</id><frequency>1</frequency><keyword>flax</keyword>flax</keyword>
+    <keyword><id>462</id><frequency>1</frequency><keyword>german</keyword>german</keyword>
+    <keyword><id>472</id><frequency>2</frequency><keyword>god</keyword>god</keyword>
+    <keyword><id>537</id><frequency>1</frequency><keyword>home</keyword>home</keyword>
+    <keyword><id>563</id><frequency>3</frequency><keyword>intestines</keyword>intestines</keyword>
+    <keyword><id>672</id><frequency>1</frequency><keyword>kristian</keyword>Kristian</keyword>
+    <keyword><id>685</id><frequency>1</frequency><keyword>lantern</keyword>lantern</keyword>
+    <keyword><id>686</id><frequency>3</frequency><keyword>lars</keyword>Lars</keyword>
+    <keyword><id>753</id><frequency>1</frequency><keyword>marriage</keyword>marriage</keyword>
+    <keyword><id>834</id><frequency>2</frequency><keyword>niels</keyword>Niels</keyword>
+    <keyword><id>873</id><frequency>1</frequency><keyword>old</keyword>old</keyword>
+    <keyword><id>922</id><frequency>1</frequency><keyword>peat</keyword>peat</keyword>
+    <keyword><id>1045</id><frequency>1</frequency><keyword>ropemaker</keyword>ropemaker</keyword>
+    <keyword><id>1089</id><frequency>1</frequency><keyword>seven</keyword>seven</keyword>
+    <keyword><id>1102</id><frequency>1</frequency><keyword>shirt</keyword>shirt</keyword>
+    <keyword><id>1154</id><frequency>2</frequency><keyword>son</keyword>son</keyword>
+    <keyword><id>1323</id><frequency>1</frequency><keyword>weasel</keyword>weasel</keyword>
+  </keywords>
+  <etk_index><id>42</id>
+    <heading_danish>Molbo og Aggerbohistorier</heading_danish>
+    <heading_english>Stories of Molbo and Aggerbo (Numbskull tales)</heading_english>
+  </etk_index>
+  <tango_indices>
+    <tango_index><id>10</id><display_name>People: Foreigner</display_name></tango_index>
+    <tango_index><id>49</id><display_name>Tools, Items and Conveyances: Food and Drink</display_name></tango_index>
+    <tango_index><id>100</id><display_name>Actions or events: Work</display_name></tango_index>
+    <tango_index><id>127</id><display_name>Resolution: Positive</display_name></tango_index>
+    <tango_index><id>136</id><display_name>Animals: Wild</display_name></tango_index>
+  </tango_indices>
+  <genre><id>3</id><name>Description</name></genre>
+</story>

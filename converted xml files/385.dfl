@@ -1,0 +1,176 @@
+<story><story_id>385</story_id>
+  <publication_info>DS_I_767</publication_info>
+  <full_name>123 - 2.11 - DS_I_767</full_name>
+  <informant_id>123</informant_id>
+  <informant_last_name>Johansen</informant_last_name>
+  <informant_first_name>Peder</informant_first_name>
+  <informant_full_name>Peder Johansen</informant_full_name>
+  <order_told>2.11</order_told>
+  <fieldtrip><id>2</id>Feb 1888</fieldtrip>
+  <fieldtrip_start_date>1888-02-04</fieldtrip_start_date>
+  <fieldtrip_end_date>1888-02-17</fieldtrip_end_date>
+  <places>
+    <place><type>place_recorded</type>
+      <place_id>175</place_id>
+      <name>Fuldbro m&#248;lle</name>
+      <display_name>Fuldbro m&#248;lle (place recorded)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>22</place_id>
+      <name>Alken</name>
+      <display_name>Alken (place mentioned)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>110</place_id>
+      <name>Dakbj&#230;rg</name>
+      <display_name>Dakbj&#230;rg (place mentioned)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>400</place_id>
+      <name>M&#229;nnes</name>
+      <display_name>M&#229;nnes (place mentioned)</display_name>
+    </place>
+  </places>
+  <stories_mentioned>
+    <story><story_id>180</story_id>
+      <informant_id>241</informant_id>
+      <publication_info>DSnr_I_901</publication_info>
+      <full_name>241 - 4.09 - DSnr_I_901</full_name>
+      <url>data/stories/180.dfl</url>
+    </story>
+    <story><story_id>220</story_id>
+      <informant_id>235</informant_id>
+      <publication_info>DS_II_A_57</publication_info>
+      <full_name>235 - 1.01 - DS_II_A_57</full_name>
+      <url>data/stories/220.dfl</url>
+    </story>
+    <story><story_id>262</story_id>
+      <informant_id>235</informant_id>
+      <publication_info>DS_II_A_99</publication_info>
+      <full_name>235 - 1.42 - DS_II_A_99</full_name>
+      <url>data/stories/262.dfl</url>
+    </story>
+    <story><story_id>281</story_id>
+      <informant_id>235</informant_id>
+      <publication_info>DS_II_A_100</publication_info>
+      <full_name>235 - 1.60 - DS_II_A_100</full_name>
+      <url>data/stories/281.dfl</url>
+    </story>
+    <story><story_id>347</story_id>
+      <informant_id>90</informant_id>
+      <publication_info>DS_II_A_98</publication_info>
+      <full_name>90 - 2.15 - DS_II_A_98</full_name>
+      <url>data/stories/347.dfl</url>
+    </story>
+    <story><story_id>432</story_id>
+      <informant_id>123</informant_id>
+      <publication_info>JFm_XIII_38</publication_info>
+      <full_name>123 - 4.04 - JFm_XIII_38</full_name>
+      <url>data/stories/432.dfl</url>
+    </story>
+    <story><story_id>522</story_id>
+      <informant_id>519</informant_id>
+      <publication_info>DS_I_774</publication_info>
+      <full_name>519 - 0.00 - DS_I_774</full_name>
+      <url>data/stories/522.dfl</url>
+    </story>
+    <story><story_id>790</story_id>
+      <informant_id>382</informant_id>
+      <publication_info>DS_I_898</publication_info>
+      <full_name>382 - 0.00 - DS_I_898</full_name>
+      <url>data/stories/790.dfl</url>
+    </story>
+    <story><story_id>862</story_id>
+      <informant_id/>
+      <publication_info>DS_I_756</publication_info>
+      <full_name>0 - 0.00 - DS_I_756</full_name>
+      <url>data/stories/862.dfl</url>
+    </story>
+    <story><story_id>554</story_id>
+      <informant_id>128</informant_id>
+      <publication_info>DS_I_717</publication_info>
+      <full_name>128 - 0.00 - DS_I_717</full_name>
+      <url>data/stories/554.dfl</url>
+    </story>
+    <story><story_id>579</story_id>
+      <informant_id>106</informant_id>
+      <publication_info>DS_I_748</publication_info>
+      <full_name>106 - 0.00 - DS_I_748</full_name>
+      <url>data/stories/579.dfl</url>
+    </story>
+    <story><story_id>511</story_id>
+      <informant_id>457</informant_id>
+      <publication_info>DS_I_755</publication_info>
+      <full_name>457 - 0.00 - DS_I_755</full_name>
+      <url>data/stories/511.dfl</url>
+    </story>
+    <story><story_id>608</story_id>
+      <informant_id>352</informant_id>
+      <publication_info>DS_II_A_91</publication_info>
+      <full_name>352 - 0.00 - DS_II_A_91</full_name>
+      <url>data/stories/608.dfl</url>
+    </story>
+  </stories_mentioned>
+  <fielddiary_page_start>3776a</fielddiary_page_start>
+  <fielddiary_page_end>3776a</fielddiary_page_end>
+  <bibliographic_info/>
+  <bibliography_references/>
+  <annotation>The dance of the mound dwellers is widely attested in Danish folk narrative (DS I 717, 748, 755). Here, the dance is quite energetic and the mound is raised on four glowing poles, suggesting that the dance takes place at night. The little man keeping watch over the dance wears the typical red stocking hat of the Danish farm worker. The red stocking hat is well-known as part of the standard attire of the farm guardian spirit, the nisse and has also been adopted in contemporary culture for Santa Claus's little helpers.
+
+     After his generalized description of the mound dwellers' dance, Peder relates a more specific legend of kidnapping. Here, the victim is danced to death by the mound folk (see also KMP 1.01, 1.42 and 1.60; AMJ 2.15). Satan also dances people to death, and so an intertextual relationship is established between the mound folk and Satan. The dancing occurs during normal farming activity and the girl has done nothing to bring this upon herself. In other variants, the hired hand seeks out the mound dwellers on his or her own accord. The death of the hired girl clearly threatens to disrupt the functioning of the farm, and has  implications for the physical well-being of the farm workers, the fecundity of the community in the future, and the economic survival of the farm. Jakob J&#248;rgensen (DS I 717) and K. P. Dalin (DS II A 91) tell remarkably similar variants of this story.
+
+    In the published version of the story, Tang Kristensen added the remark "and stayed dead," to the end of the story.</annotation>
+  <danish_manuscript>De er kommen ned igjennel Maannes Hule og
+har set Dakbj. staa paa 4 gloende P&#230;le
+og Bj&#230;rgf. har svunget dem derunder efter
+fuld Musik og en bitte Mand med en stor
+r&#248;d Lue paa sad og kikkede i Toppen af
+H&#248;jen. Og til Bevis paa, at der har v&#230;-
+ret noget der s. var de i Alken ude at
+hverre H&#248; en Middag ude ved H&#248;jen og s.
+den ene af Pig hu vilde ikke med hjem hu
+tykte hu var s. tung og de andre gik og
+lod hende ligge. Da de kom tilbage stod
+Fraaden ud af Halsen paa hende og da
+havde Troldt&#248;jet danst hende ihjel. H. var
+d&#248;d.
+</danish_manuscript>
+  <english_manuscript>They came down through M&#229;nnes hollow and saw that Dakbj&#230;rg was raised up on four glowing poles, and the mound folk were swinging about in there to music played all-out, and a little man with a big red cap on sat and kept a watch from the top of the mound. And for proof that there was something there, they were out haying in Alken one afternoon near the mound and one of the hired girls didn't want to go home, she felt so heavy, and so the others went and let her lie there. When they came back, she was frothing at the mouth and those devils had danced her to death. She was dead.</english_manuscript>
+  <danish_publication>De er komne ned gjennem M&#229;nnes hule og har set Dakbj&#230;rg st&#229; p&#229; fire gloende p&#230;le, og bj&#230;rgfolkene har svunget dem derunder for fuld musik, og en bitte mand med en stor r&#248;d lue p&#229; sad og kikkede i toppen af h&#246;jen. At der har v&#230;ret noget der, er sikkert nok, for en gang var de ude at hverre h&#248; i Alken s&#229;dan ved middagstid, og det var i n&#230;rheden af h&#246;jen. S&#229; skulde de hjem at &#230;de deres middagsmad, men den ene pige hun vilde ikke med, hun tykte, hun var s&#229; tung, og s&#229; gik de andre og lod hende ligge. Da de kom tilbage, stod fr&#229;den ud af halsen p&#229; hende, og da havde troldt&#246;jet dandst hende ihjel, hun var d&#248;d og blev d&#248;d.</danish_publication>
+  <english_publication>They came down through M&#229;nnes hollow and saw that Dakbj&#230;rg was raised up on four glowing poles, and the mound folk were swinging about in there to music played all-out, and a little man wearing a big red cap sat and looked on from the top of the mound. There&#8217;s no doubt that there was something out there because once they were out haying in Alken at around lunch time, and that was nearby the mound. They were going to go home and eat their lunch but one of the girls didn&#8217;t want to go along, she said that she felt really heavy, and so the others went and let her be. When they came back, she was frothing at the mouth and those devils had danced her to death. She was dead and stayed dead.</english_publication>
+  <keywords>
+    <keyword><id>173</id><frequency>1</frequency><keyword>cap</keyword>cap</keyword>
+    <keyword><id>297</id><frequency>1</frequency><keyword>dancing</keyword>dancing</keyword>
+    <keyword><id>317</id><frequency>3</frequency><keyword>death</keyword>death</keyword>
+    <keyword><id>324</id><frequency>1</frequency><keyword>devil</keyword>devil</keyword>
+    <keyword><id>467</id><frequency>1</frequency><keyword>girl</keyword>girl</keyword>
+    <keyword><id>470</id><frequency>1</frequency><keyword>glowing_poles</keyword>glowing poles</keyword>
+    <keyword><id>511</id><frequency>1</frequency><keyword>hay</keyword>hay</keyword>
+    <keyword><id>535</id><frequency>1</frequency><keyword>hollow</keyword>hollow</keyword>
+    <keyword><id>537</id><frequency>1</frequency><keyword>home</keyword>home</keyword>
+    <keyword><id>728</id><frequency>2</frequency><keyword>lunch</keyword>lunch</keyword>
+    <keyword><id>804</id><frequency>2</frequency><keyword>mound</keyword>mound</keyword>
+    <keyword><id>806</id><frequency>1</frequency><keyword>mound_folk</keyword>mound folk</keyword>
+    <keyword><id>813</id><frequency>1</frequency><keyword>mouth</keyword>mouth</keyword>
+    <keyword><id>816</id><frequency>1</frequency><keyword>music</keyword>music</keyword>
+    <keyword><id>1021</id><frequency>1</frequency><keyword>red</keyword>red</keyword>
+  </keywords>
+  <etk_index><id>1</id>
+    <heading_danish>Bj&#230;rgfolk</heading_danish>
+    <heading_english>Mound dwellers (Hidden folk)</heading_english>
+  </etk_index>
+  <tango_indices>
+    <tango_index><id>9</id><display_name>People: Farmhand / Shepherd</display_name></tango_index>
+    <tango_index><id>11</id><display_name>People: Girl</display_name></tango_index>
+    <tango_index><id>31</id><display_name>Places: Forest / Woods</display_name></tango_index>
+    <tango_index><id>38</id><display_name>Places: Mound</display_name></tango_index>
+    <tango_index><id>63</id><display_name>Supernatural Beings: Mound folk</display_name></tango_index>
+    <tango_index><id>82</id><display_name>Actions or events: Dancing</display_name></tango_index>
+    <tango_index><id>83</id><display_name>Actions or events: Death</display_name></tango_index>
+    <tango_index><id>90</id><display_name>Actions or events: Kidnapping</display_name></tango_index>
+    <tango_index><id>100</id><display_name>Actions or events: Work</display_name></tango_index>
+    <tango_index><id>110</id><display_name>Time, Season, Weather: Noon</display_name></tango_index>
+    <tango_index><id>128</id><display_name>Resolution: Negative</display_name></tango_index>
+  </tango_indices>
+  <genre><id>2</id><name>Legend</name></genre>
+</story>

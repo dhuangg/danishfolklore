@@ -1,0 +1,207 @@
+<story><story_id>384</story_id>
+  <publication_info>DS_III_2367</publication_info>
+  <full_name>123 - 2.10 - DS_III_2367</full_name>
+  <informant_id>123</informant_id>
+  <informant_last_name>Johansen</informant_last_name>
+  <informant_first_name>Peder</informant_first_name>
+  <informant_full_name>Peder Johansen</informant_full_name>
+  <order_told>2.10</order_told>
+  <fieldtrip><id>2</id>Feb 1888</fieldtrip>
+  <fieldtrip_start_date>1888-02-04</fieldtrip_start_date>
+  <fieldtrip_end_date>1888-02-17</fieldtrip_end_date>
+  <places>
+    <place><type>place_recorded</type>
+      <place_id>175</place_id>
+      <name>Fuldbro m&#248;lle</name>
+      <display_name>Fuldbro m&#248;lle (place recorded)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>522</place_id>
+      <name>Silkeborg</name>
+      <display_name>Silkeborg (place mentioned)</display_name>
+    </place>
+  </places>
+  <stories_mentioned>
+    <story><story_id>358</story_id>
+      <informant_id>90</informant_id>
+      <publication_info>DSnr_II_B_130</publication_info>
+      <full_name>90 - 3.04 - DSnr_II_B_130</full_name>
+      <url>data/stories/358.dfl</url>
+    </story>
+    <story><story_id>508</story_id>
+      <informant_id>319</informant_id>
+      <publication_info>DS_III_2440</publication_info>
+      <full_name>319 - 0.00 - DS_III_2440</full_name>
+      <url>data/stories/508.dfl</url>
+    </story>
+    <story><story_id>804</story_id>
+      <informant_id>306</informant_id>
+      <publication_info>DS_III_2302</publication_info>
+      <full_name>306 - 0.00 - DS_III_2302</full_name>
+      <url>data/stories/804.dfl</url>
+    </story>
+    <story><story_id>426</story_id>
+      <informant_id>123</informant_id>
+      <publication_info>DS_II_J_47</publication_info>
+      <full_name>123 - 3.23 - DS_II_J_47</full_name>
+      <url>data/stories/426.dfl</url>
+    </story>
+    <story><story_id>783</story_id>
+      <informant_id>467</informant_id>
+      <publication_info>DS_VI_75</publication_info>
+      <full_name>467 - 0.00 - DS_VI_75</full_name>
+      <url>data/stories/783.dfl</url>
+    </story>
+    <story><story_id>549</story_id>
+      <informant_id>466</informant_id>
+      <publication_info>DS_VI_95</publication_info>
+      <full_name>466 - 0.00 - DS_VI_95</full_name>
+      <url>data/stories/549.dfl</url>
+    </story>
+    <story><story_id>777</story_id>
+      <informant_id>402</informant_id>
+      <publication_info>DS_III_2164</publication_info>
+      <full_name>402 - 0.00 - DS_III_2164</full_name>
+      <url>data/stories/777.dfl</url>
+    </story>
+    <story><story_id>646</story_id>
+      <informant_id>514</informant_id>
+      <publication_info>DS_III_2168</publication_info>
+      <full_name>514 - 0.00 - DS_III_2168</full_name>
+      <url>data/stories/646.dfl</url>
+    </story>
+    <story><story_id>256</story_id>
+      <informant_id>235</informant_id>
+      <publication_info>DS_VII_1628</publication_info>
+      <full_name>235 - 1.36 - DS_VII_1628</full_name>
+      <url>data/stories/256.dfl</url>
+    </story>
+    <story><story_id>19</story_id>
+      <informant_id>150</informant_id>
+      <publication_info>DS_III_303</publication_info>
+      <full_name>150 - 1.16 - DS_III_303</full_name>
+      <url>data/stories/19.dfl</url>
+    </story>
+  </stories_mentioned>
+  <fielddiary_page_start>3775a</fielddiary_page_start>
+  <fielddiary_page_end>3776a</fielddiary_page_end>
+  <bibliographic_info>Lindow 1982
+Taussig 1980
+Foster 1965</bibliographic_info>
+  <bibliography_references>
+    <reference><id>745</id><category>general</category>
+      <display_string>[Article] Lindow, John. 1982. Swedish Legends of Buried Treasure. Vol. 95 of &lt;i&gt;The Journal of American Folklore&lt;/i&gt; 377: 257-279.</display_string>
+    </reference>
+    <reference><id>459</id><category>general</category>
+      <display_string>[Book] Taussig, Michael T. 1980. &lt;i&gt;The devil and commodity fetishism in South America&lt;/i&gt;. Chapel Hill: University of North Carolina Press.</display_string>
+    </reference>
+    <reference><id>423</id><category>general</category>
+      <display_string>[Article] Foster, George. 1965. Peasant Society and the Image of Limited Good. Vol. 67 of &lt;i&gt;American Anthropologist&lt;/i&gt;, 293-315.</display_string>
+    </reference>
+  </bibliography_references>
+  <annotation>The treasure described here, a "king's ransom," is the amount of money it would take to get a king ransomed, presumably a fabulously enormous sum (PJ 3.23). Peder includes two widely attested beliefs: first, the belief in the existence of the "Black School," in this case located in Copenhagen (as opposed to the more common location in Wittenberg) (see DS VI 75; DS VI 95) and second, the belief that candles burn for treasure (DS III 2164; DS III 2168). An unusual feature of Peder's story is that the candle burns for everything but treasure. The discussion of the stones with inscriptions on it is reminiscent of Bitte Jens's story of the rune stone found out in a field (BJK 3.03).
+
+     The treasure hunt proceeds in a markedly similar manner to the fishing expedition in the preceding story (PJ 2.09). Here, the disturbance comes from a host of unusual or unexpected animals, another common motif. The farmhand's outburst confirms that the animals are the spawn of Satan. The appearance of an elk further underscores this connection (see KMP 1.36). 
+
+     The individual pursuit of wealth, with its implicit disavowal of the community, aligns well with the destructive tendencies of Satan. At the same time, it also aligns well with the newly emergent market economies, where untold wealth could be obtained in one fell swoop (Taussig 1980).</annotation>
+  <danish_manuscript>Der ligger en Kongel&#248;sning i Silkeborg Skov
+og derover staar en stor Eg, men den er
+sandet til og s. var der en Mand der be-
+kostede en hel Del paa at grave den
+ud og de havde kast dem s. langt ned at
+de var kommen til Roden af Egen. Dertil
+kom de [ikke] og ikke l&#230;ngere, lige s. st&#230;rk som
+de kastede, lige s. st&#230;rk skred det. De kun-
+de b&#248;lle ligesom de vilde l&#230;ngere ned kun
+de de ikke komme. Min Oldefader har v&#230;ret
+ved et Sted til hvor der er en Konge
+
+3775B
+l&#248;sning til. Det er ved Siden af en H&#248;j og
+naar en staar [ved Siden af] paa H&#248;jen og ser ned
+ved et vist Klokkesl&#230;t, Kl. 4 om Efterm. og
+ser [ned] skraat ned paa Fod. af H&#248;jen s.
+kan en stor firkantet Sten med Indskrifter
+paa. Men det er ul&#230;selig og gaar en derhen
+og vil se, s. er der ikke andet end Jorden. Der
+var ogsaa bleven kast efter det og de havde og
+fundet Stenen men den Mand var nok s. for-
+sigtig som de fleste andre, der graver efter
+saadan noget, for h. draget over paa den
+sorte Skole i Kbh. og der fik h. sig et blaat
+Lys, hvor det Lys br&#230;nder der findes der
+ingen Skatter, hvor det gaar ud der skal en
+s&#248;ge, der er Skatt. og det beviste sig ogsaa
+rigtig nok, da h. t&#230;ndte Lys. br&#230;ndte det
+alle andre Steder end der, der kunde det 
+ikke br&#230;nde. S. gav ham og hans Karl sig
+til at kaste efter det og der kom alle Slags
+Dyr og vilde forstyrre dem, for de maatte
+jo ikke [lade] sn. eller gaa fra det. De havde
+det s. vidt, at de havde ved Hank. af Kj.
+S. kommer der en stor Kronhjort og den giver sig
+til at skrabe paa Hans Haand, der havde ved
+den ene &#216;ksen. S. kunde h. ikke blotte sig l&#230;n
+gere, men sagde: Nej om du s. er gl. Erik selv
+s. giver a ikke slip. Pludselig uden at
+
+3776A
+de kunde forstaa det laa Karle og Hakker og
+Spader ved hver sin side af H&#248;jen og den var
+j&#230;vnet som der aldrig var kastet der. De
+pr&#248;vede siden paa at grave, men kom ikke
+til det tiere, for der er det ved det, at en
+Kongel&#248;sning sykker dobbelt s. dybt til n&#230;
+ste G. naar de faar gravet efter det.
+</danish_manuscript>
+  <english_manuscript>There's a king's ransom out in Silkeborg forest and a large oak stands over it, but it's sanded over. There was a man who invested a lot on digging it out and they had dug so far down that they had come to the roots of the oak. They got that far but no farther, just as fast as they dug, [the sand] slid back in. They could work as hard as they wanted, they couldn't get any farther down. My grandfather was at another place where there was a king's ransom. It was by the side of a mound and when one stands on the mound and looks down at a certain time, four o'clock in the afternoon, and looks straight down at the foot of it then one can see a large square stone with inscriptions on it. But it's illegible and if one goes to look, then there is nothing but earth. They'd dug after that too and they'd also found the stone but this man was more careful than most others who dig for that kind of thing since he had gone over to the Black School in Copenhagen and he had gotten himself a blue candle there. Wherever the candle burns, there is no treasure to be found, where it goes out, that's where one should look, that is where the treasure is. It turned out to be true enough because, when he lit the candle, it burned every place except there, it couldn't burn there. Then he and his farmhand started to dig for it and all sorts of animals came and wanted to disturb them because they couldn't speak or leave. They had gotten so far that they had the handle of the kettle. Then a giant buck elk appears and it begins to scrape his hand, the one who had hold of the one axe, and then he couldn't keep quiet any longer and said: "No, if you're Old Erik himself, I won't let go." All of a sudden, without them being able to understand it, the men and the picks and shovels lay on each their side of the mound and it was leveled like it had never been dug up before. They tried to dig again but they never got to it again because a king's ransom sinks twice as deep the next time when someone has dug for it.</english_manuscript>
+  <danish_publication>Der ligger en kongel&#248;sning i Silkeborg skov, og derover st&#229;r en stor eg, men den er sandet til. S&#229; var der en mand, der kostede en hel del p&#229; at grave den ud, og de havde kastet dem s&#229; langt ned, at de var komne til roden af egen, men l&#230;ngere kunde de ikke komme, for lige s&#229; st&#230;rkt som de kastede, lige s&#229; st&#230;rkt skred det. De kunde bulle, ligesom de vilde, l&#230;ngere ned kunde de ikke komme. Min oldefader har v&#230;ret ved &#233;t sted til, hvor der er en kongel&#248;sning. Det er ved siden af en h&#246;j, og n&#229;r en st&#229;r p&#229; h&#246;jen og ser skr&#229;t ned p&#229; foden af den ved et vist klokkesl&#230;t, nemlig klokken fire om eftermiddagen, s&#229; kan en se en stor firkantet sten med indskrifter p&#229;. Men det er ul&#230;seligt, og g&#229;r en der hen og vil se, s&#229; er der ikke andet end jorden. Der var ogs&#229; blevet kastet efter skatten, men den mand var nok s&#229; forsigtig som de fleste andre, der graver efter s&#229;dant noget, for han draget over p&#229; den sorte skole i Kj&#246;benhavn, og der fik han sig et bl&#229;t lys. Hvor det lys br&#230;nder, der findes der ingen skatte, men hvor det g&#229;r ud, der skal en s&#248;ge, der er skatten. Det beviste sig ogs&#229; rigtigt nok, da han t&#230;ndte lyset, for det br&#230;ndte alle andre steder end der, der kunde det ikke br&#230;nde. S&#229; gav ham og hans karl sig til at kaste efter skatten, og der kom alle slags dyr og vilde forstyrre dem, for de m&#229;tte jo ikke snakke eller g&#229; fra det. Der er jo det ved det, at en kongel&#248;sning s&#248;kker dobbelt s&#229; dybt til n&#230;ste gang, n&#229;r de f&#229;er gravet efter den og ikke f&#229;r den. De havde det s&#229; vidt, at de havde ved hanken af kjedelen. S&#229; kommer der en stor kronhjort, og den giver sig til at skrabe p&#229; hans h&#229;nd, der havde ved &#248;ksen, og s&#229; kunde han ikke blotte sig l&#230;ngere, men sagde: "Nej, om du er s&#229; Gamle-Erik selv, s&#229; giver a ikke slip." Pludselig, uden at de kunde forst&#229; det, l&#229; karle og hakker og spader ved hver sin side af h&#246;jen, og den var j&#230;vnet, som der aldrig var kastet der. De pr&#248;vede siden p&#229; at grave igjen, men kom ikke til skatten tiere.</danish_publication>
+  <english_publication>There&#8217;s a king's ransom out in Silkeborg forest and a large oak stands over it, but it's sanded over. There was a man who invested a lot in digging it out and they had dug so far down that they had come to the roots of the oak. But they didn't get farther than that because just as fast as they dug, the sand slid back into the hole. They could work as hard as they wanted, they couldn't get any farther down. My grandfather was at a place where there was a king's ransom. It was by the side of a mound and when one stands on the mound and looks down at a certain time, four o'clock in the afternoon actually, and looks straight down at the foot of it then one can see a large square stone with inscriptions on it. But it's illegible and if one goes to look, then there is nothing but earth. They dug after that too and they'd also found the stone but this man was more careful than most others who dig for that kind of thing since he had gone over to the Black School in Copenhagen and he had gotten himself a blue candle there. Wherever the candle burns, there is no treasure to be found, where it goes out, that's where one should look, that is where the treasure is. It turned out to be true enough because, when he lit the candle, it burned every place except there, it couldn't burn there. Then he and his farmhand started to dig for it and all sorts of animals came and wanted to disturb them because they couldn't speak or leave. They had gotten so far that they had the handle of the kettle. Then a giant buck elk appears and it begins to scrape his hand, the one who had hold of the axe, and then he couldn't keep quiet any longer and said: &#8220;No, if you're Old Erik himself, I won't let go.&#8221; All of a sudden, without them being able to understand it, the men and the picks and shovels lay on each their side of the mound and it was leveled like it had never been dug up before. They tried to dig again but they didn't get to it again because a king's ransom sinks twice as deep the next time when someone has dug for it.</english_publication>
+  <keywords>
+    <keyword><id>14</id><frequency>1</frequency><keyword>afternoon</keyword>afternoon</keyword>
+    <keyword><id>37</id><frequency>1</frequency><keyword>animals</keyword>animals</keyword>
+    <keyword><id>59</id><frequency>1</frequency><keyword>axe</keyword>axe</keyword>
+    <keyword><id>106</id><frequency>1</frequency><keyword>black</keyword>black</keyword>
+    <keyword><id>114</id><frequency>1</frequency><keyword>blue</keyword>blue</keyword>
+    <keyword><id>171</id><frequency>3</frequency><keyword>candle</keyword>candle</keyword>
+    <keyword><id>233</id><frequency>1</frequency><keyword>clock</keyword>clock</keyword>
+    <keyword><id>326</id><frequency>9</frequency><keyword>digging</keyword>digging</keyword>
+    <keyword><id>339</id><frequency>1</frequency><keyword>disturbance</keyword>disturbance</keyword>
+    <keyword><id>368</id><frequency>1</frequency><keyword>earth</keyword>earth</keyword>
+    <keyword><id>395</id><frequency>1</frequency><keyword>farm_hand</keyword>farmhand</keyword>
+    <keyword><id>413</id><frequency>3</frequency><keyword>fire</keyword>fire</keyword>
+    <keyword><id>433</id><frequency>1</frequency><keyword>foot</keyword>foot</keyword>
+    <keyword><id>438</id><frequency>1</frequency><keyword>forest</keyword>forest</keyword>
+    <keyword><id>465</id><frequency>1</frequency><keyword>giant</keyword>giant</keyword>
+    <keyword><id>478</id><frequency>1</frequency><keyword>grandfather</keyword>grandfather</keyword>
+    <keyword><id>618</id><frequency>1</frequency><keyword>kettle</keyword>kettle</keyword>
+    <keyword><id>624</id><frequency>3</frequency><keyword>king</keyword>king</keyword>
+    <keyword><id>804</id><frequency>3</frequency><keyword>mound</keyword>mound</keyword>
+    <keyword><id>870</id><frequency>2</frequency><keyword>oak</keyword>oak</keyword>
+    <keyword><id>875</id><frequency>1</frequency><keyword>old_erik</keyword>Old Erik</keyword>
+    <keyword><id>1014</id><frequency>3</frequency><keyword>ransom</keyword>ransom</keyword>
+    <keyword><id>1043</id><frequency>1</frequency><keyword>root</keyword>root</keyword>
+    <keyword><id>1066</id><frequency>1</frequency><keyword>sand</keyword>sand</keyword>
+    <keyword><id>1075</id><frequency>1</frequency><keyword>school</keyword>school</keyword>
+    <keyword><id>1110</id><frequency>1</frequency><keyword>shovel</keyword>shovel</keyword>
+    <keyword><id>1123</id><frequency>1</frequency><keyword>sinking</keyword>sinking</keyword>
+    <keyword><id>1195</id><frequency>2</frequency><keyword>stone</keyword>stone</keyword>
+    <keyword><id>1280</id><frequency>2</frequency><keyword>treasure</keyword>treasure</keyword>
+    <keyword><id>1361</id><frequency>1</frequency><keyword>work</keyword>work</keyword>
+  </keywords>
+  <etk_index><id>15</id>
+    <heading_danish>Sagn om skatte</heading_danish>
+    <heading_english>Legends about treasure</heading_english>
+  </etk_index>
+  <tango_indices>
+    <tango_index><id>12</id><display_name>People: Man</display_name></tango_index>
+    <tango_index><id>31</id><display_name>Places: Forest / Woods</display_name></tango_index>
+    <tango_index><id>53</id><display_name>Tools, Items and Conveyances: Treasure / Money</display_name></tango_index>
+    <tango_index><id>68</id><display_name>Supernatural Beings: Unspecified</display_name></tango_index>
+    <tango_index><id>79</id><display_name>Animals: None / Unspecified</display_name></tango_index>
+    <tango_index><id>111</id><display_name>Time, Season, Weather: Evening</display_name></tango_index>
+    <tango_index><id>128</id><display_name>Resolution: Negative</display_name></tango_index>
+    <tango_index><id>131</id><display_name>Stylistics: Direct Conversation</display_name></tango_index>
+  </tango_indices>
+  <genre><id>2</id><name>Legend</name></genre>
+</story>

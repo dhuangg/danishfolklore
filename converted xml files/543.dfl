@@ -1,0 +1,73 @@
+<story><story_id>543</story_id>
+  <publication_info>DS_V_1507</publication_info>
+  <full_name>343 - 0.00 - DS_V_1507</full_name>
+  <informant_id>343</informant_id>
+  <informant_last_name>Bundg&#229;rd</informant_last_name>
+  <informant_first_name>Iver</informant_first_name>
+  <informant_full_name>Iver Bundg&#229;rd</informant_full_name>
+  <order_told>0.00</order_told>
+  <fieldtrip><id/>None recorded</fieldtrip>
+  <places>
+    <place><type>place_recorded</type>
+      <place_id>248</place_id>
+      <name>Havbj&#230;rg</name>
+      <display_name>Havbj&#230;rg (place recorded)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>311</place_id>
+      <name>Jebj&#230;rg hede</name>
+      <display_name>Jebj&#230;rg hede (place mentioned)</display_name>
+    </place>
+  </places>
+  <stories_mentioned>
+    <story><story_id>234</story_id>
+      <informant_id>235</informant_id>
+      <publication_info>DS_V_1430</publication_info>
+      <full_name>235 - 1.15 - DS_V_1430</full_name>
+      <url>data/stories/234.dfl</url>
+    </story>
+    <story><story_id>729</story_id>
+      <informant_id>517</informant_id>
+      <publication_info>DS_V_1501</publication_info>
+      <full_name>517 - 0.00 - DS_V_1501</full_name>
+      <url>data/stories/729.dfl</url>
+    </story>
+    <story><story_id>812</story_id>
+      <informant_id>104</informant_id>
+      <publication_info>DS_V_1477</publication_info>
+      <full_name>104 - 0.00 - DS_V_1477</full_name>
+      <url>data/stories/812.dfl</url>
+    </story>
+  </stories_mentioned>
+  <fielddiary_page_start>N/A</fielddiary_page_start>
+  <fielddiary_page_end>N/A</fielddiary_page_end>
+  <bibliographic_info/>
+  <bibliography_references/>
+  <annotation/>
+  <danish_manuscript/>
+  <english_manuscript/>
+  <danish_publication>I Jebj&#230;rg hede gik der ogs&#229; en landm&#229;ler til visse tider i mange &#229;r, og han gik og r&#229;bte: "Hvor skal a s&#230;tt 'en, og hvor skal a s&#230;tt 'en?" S&#229; var der en dreng, der h&#248;rte det, han sagde: "S&#230;t den, hvor du har taget den, i Fanden navn." &#8212; "Det svar skulde a have haft for mange &#229;r siden, s&#229; havde a v&#230;ret frelst."</danish_publication>
+  <english_publication>For many years at certain times, a land surveyor went again in Jebj&#230;rg heath. He went and shouted, "Where should I put one, and where should I put the other?" Then there was a boy who heard this and he said: "Put it where you took it, in the name of the devil!" -- "I should have gotten that answer many years ago, then I would have been saved."</english_publication>
+  <keywords>
+    <keyword><id>130</id><frequency>1</frequency><keyword>boy</keyword>boy</keyword>
+    <keyword><id>324</id><frequency>1</frequency><keyword>devil</keyword>devil</keyword>
+    <keyword><id>517</id><frequency>1</frequency><keyword>heath</keyword>heath</keyword>
+    <keyword><id>683</id><frequency>1</frequency><keyword>land_surveyor</keyword>land surveyor</keyword>
+    <keyword><id>822</id><frequency>1</frequency><keyword>name</keyword>name</keyword>
+  </keywords>
+  <etk_index><id>25</id>
+    <heading_danish>Gjenf&#230;rd p&#229; uretf&#230;rdig jord</heading_danish>
+    <heading_english>Revenants on ill-gotten land</heading_english>
+  </etk_index>
+  <tango_indices>
+    <tango_index><id>4</id><display_name>People: Boy</display_name></tango_index>
+    <tango_index><id>12</id><display_name>People: Man</display_name></tango_index>
+    <tango_index><id>30</id><display_name>Places: Field</display_name></tango_index>
+    <tango_index><id>88</id><display_name>Actions or events: Haunting</display_name></tango_index>
+    <tango_index><id>95</id><display_name>Actions or events: Punishment</display_name></tango_index>
+    <tango_index><id>97</id><display_name>Actions or events: Theft</display_name></tango_index>
+    <tango_index><id>127</id><display_name>Resolution: Positive</display_name></tango_index>
+    <tango_index><id>131</id><display_name>Stylistics: Direct Conversation</display_name></tango_index>
+  </tango_indices>
+  <genre><id>2</id><name>Legend</name></genre>
+</story>

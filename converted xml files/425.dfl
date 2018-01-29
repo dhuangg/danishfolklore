@@ -1,0 +1,89 @@
+<story><story_id>425</story_id>
+  <publication_info>DS_II_J_69</publication_info>
+  <full_name>123 - 3.22 - DS_II_J_69</full_name>
+  <informant_id>123</informant_id>
+  <informant_last_name>Johansen</informant_last_name>
+  <informant_first_name>Peder</informant_first_name>
+  <informant_full_name>Peder Johansen</informant_full_name>
+  <order_told>3.22</order_told>
+  <fieldtrip><id>2</id>Feb 1888</fieldtrip>
+  <fieldtrip_start_date>1888-02-04</fieldtrip_start_date>
+  <fieldtrip_end_date>1888-02-17</fieldtrip_end_date>
+  <places>
+    <place><type>place_recorded</type>
+      <place_id>175</place_id>
+      <name>Fuldbro m&#248;lle</name>
+      <display_name>Fuldbro m&#248;lle (place recorded)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>67</place_id>
+      <name>Boes</name>
+      <display_name>Boes (place mentioned)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>110</place_id>
+      <name>Dakbj&#230;rg</name>
+      <display_name>Dakbj&#230;rg (place mentioned)</display_name>
+    </place>
+  </places>
+  <stories_mentioned>
+    <story><story_id>653</story_id>
+      <informant_id>477</informant_id>
+      <publication_info>DS_II_J_70</publication_info>
+      <full_name>477 - 0.00 - DS_II_J_70</full_name>
+      <url>data/stories/653.dfl</url>
+    </story>
+  </stories_mentioned>
+  <fielddiary_page_start>3802b</fielddiary_page_start>
+  <fielddiary_page_end>3803a</fielddiary_page_end>
+  <bibliographic_info>Peter Weiss. 2002. "Anatomy of a Lightning Ball." Science News 161(6): 87.</bibliographic_info>
+  <bibliography_references>
+    <reference><id>424</id><category>general</category>
+      <display_string>[Article] Weiss, Peter. 2002. Anatomy of a Lightning Ball. Vol. 161 of &lt;i&gt;Science News&lt;/i&gt; 6: 87.</display_string>
+    </reference>
+  </bibliography_references>
+  <annotation>Morild is a phenomenon similar to ball lightning that has been reported in conjunction with thunder storms (Weiss 2002). In most stories of morild, the light simply vanishes, with no ill effects. In some cases, the witnesses to the light become ill (DS  II J 70). Boes mill lies directly across Mos lake from Fuldbro mill.</annotation>
+  <danish_manuscript>A kommer en Nat og vil fra Boes M&#248;lle, a 
+arbejdede der, og s. tr&#230;kker det op med s. v&#230;l-
+dig et Tordenvejr, men det var ikke lige over
+og regnede heller ikke. Som a lige gaar om
+ved Dakbj&#230;rg. da m&#230;rker a noget omkring
+mig. Der stod en Lue op af Kaskjeten paa
+mig og Ild i Skj&#230;gget. A blev r&#230;d for a hav
+M&#229;rild
+
+3803A
+de h&#248;rt s. meget om det Bj&#230;rg og var ikke glad
+ved det. S. a l&#248;b hjem.
+</danish_manuscript>
+  <english_manuscript>I was walking one night and had left from Boes M&#248;lle where I'd been working, and then a real thunder storm starts, but it wasn't directly overhead and it hadn't started raining either. Just as I'm walking past Dakbj&#230;rg, I notice something around me. Flame shot up out of my hat, and I had fire in my beard. I got scared because I'd heard a lot about that mound and I wasn't happy about it. So I ran home. M&#229;rild.</english_manuscript>
+  <danish_publication>A g&#229;r en nat fra Boes m&#248;lle, hvor a havde arbejdet, og s&#229; tr&#230;kker det op med s&#229; v&#230;ldigt et tordenvejr, men det var ikke lige over og regnede heller ikke. Som a lige g&#229;r om ved Dakbj&#230;rg, da m&#230;rker a noget omkring mig. Der stod en lue op af kaskjetten p&#229; mig og var ild i skj&#230;gget. A blev r&#230;d, for a havde h&#248;rt meget om det bj&#230;rg og var ikke glad ved det, og l&#248;b hjem. Men det var jo m&#229;&#229;rild.</danish_publication>
+  <english_publication>I was walking one night from Boes mill where I&#8217;d been working, and then a real thunder storm starts, but it wasn&#8217;t directly overhead and it hadn&#8217;t started raining either. Just as I&#8217;m walking past Dakbj&#230;rg, I notice something around me. Flame shot up out of my hat and I had fire in my beard. I got scared because I&#8217;d heard a lot about that mound and I wasn&#8217;t happy being there and I ran home. But that was m&#229;&#229;rild. </english_publication>
+  <keywords>
+    <keyword><id>80</id><frequency>1</frequency><keyword>beard</keyword>beard</keyword>
+    <keyword><id>413</id><frequency>2</frequency><keyword>fire</keyword>fire</keyword>
+    <keyword><id>498</id><frequency>1</frequency><keyword>happy</keyword>happy</keyword>
+    <keyword><id>506</id><frequency>1</frequency><keyword>hat</keyword>hat</keyword>
+    <keyword><id>537</id><frequency>1</frequency><keyword>home</keyword>home</keyword>
+    <keyword><id>783</id><frequency>1</frequency><keyword>mill</keyword>mill</keyword>
+    <keyword><id>809</id><frequency>1</frequency><keyword>mountain</keyword>mountain</keyword>
+    <keyword><id>848</id><frequency>1</frequency><keyword>night</keyword>night</keyword>
+    <keyword><id>1011</id><frequency>1</frequency><keyword>rain</keyword>rain</keyword>
+    <keyword><id>1106</id><frequency>1</frequency><keyword>shooting</keyword>shooting</keyword>
+    <keyword><id>1199</id><frequency>1</frequency><keyword>storm</keyword>storm</keyword>
+    <keyword><id>1361</id><frequency>1</frequency><keyword>work</keyword>work</keyword>
+  </keywords>
+  <etk_index><id>10</id>
+    <heading_danish>Lys og varsler</heading_danish>
+    <heading_english>Lights and portents</heading_english>
+  </etk_index>
+  <tango_indices>
+    <tango_index><id>30</id><display_name>Places: Field</display_name></tango_index>
+    <tango_index><id>38</id><display_name>Places: Mound</display_name></tango_index>
+    <tango_index><id>68</id><display_name>Supernatural Beings: Unspecified</display_name></tango_index>
+    <tango_index><id>112</id><display_name>Time, Season, Weather: Night </display_name></tango_index>
+    <tango_index><id>124</id><display_name>Time, Season, Weather: Rain</display_name></tango_index>
+    <tango_index><id>129</id><display_name>Resolution: Ambiguous</display_name></tango_index>
+  </tango_indices>
+  <genre><id>2</id><name>Legend</name></genre>
+</story>
