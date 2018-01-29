@@ -8,11 +8,15 @@ import NavigatorItem from './NavigatorItem'
 class NavigatorStoryListItem extends Component {
     constructor(){
         super();
+        this.handleStoryClick = this.handleStoryClick.bind(this)
     }
-
+    handleStoryClick(e){
+        this.props.getStoryData(this.props.story.story_id)
+    }
+    //
     render() {
         return (
-            <li className="NavigatorStoryListItem">
+            <li className="NavigatorStoryListItem" onClick={this.handleStoryClick}>
                 {this.props.story.full_name}
             </li>
         );

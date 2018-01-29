@@ -55,10 +55,13 @@ function getSiblings(list,key,isObj) {
 export function getStories(path){
     var workingPath = path;
     var indexOfBlank = workingPath.indexOf("");
+    console.log(workingPath);
     if(indexOfBlank!==-1){
-        workingPath.splice(indexOfBlank,1);
+        workingPath.slice(indexOfBlank,indexOfBlank+1);
     }
     var storiesAndPlaces = getStoriesPlacesHelper(workingPath, listsModel['Main']);
+    console.log(workingPath);
+    console.log(path);
     return storiesAndPlaces.stories
 }
 
@@ -71,17 +74,14 @@ function getStoriesPlacesHelper(pathArr, obj) {
         for (var i = 0; i < obj.childArray.length; i++) {
             var str = obj.childArray[i];
             if (str === listName) {
-                var newPath = pathArr.splice(1, pathArr.length);
+                var newPath = pathArr.slice(1, pathArr.length+1);
                 return getStoriesPlacesHelper(newPath, listsModel[str]);
             }
         }
     } else {
         //this stuff looks for the last item in the pathname
         var listOfFinalStuff = obj.children;
-        //TODO: after selecting a list once, selecting a list again, the object's children become undefined (after calling getSiblings). need to get it to be defined
-        console.log(obj);
-        console.log(pathArr);
-        console.log(listOfFinalStuff);
+        //TODO: figure out why ETK indices aren't displaying
         //filters the children down to only stuff in the last item in path name
         for(var k = 0; k<listOfFinalStuff.length; k++){
             if(listOfFinalStuff[k].name === pathArr[0]){
