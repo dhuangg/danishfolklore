@@ -1,0 +1,28 @@
+.Heading{
+    background-color:#3B3838;
+    padding:1vh;
+    color:white;
+}
+.danish-folklore{font-weight:800;}
+.etk{
+    font-size:.82em;
+    padding-top:3%;
+    padding-left:5%;
+    border-left: 1px solid white;
+}
+.flag{
+    padding-top:1.5%;
+    width:50%;
+    height:30%;
+}
+.Hamburger-Menu{
+    padding-top:.8%;
+    padding-left:3%;
+    cursor:pointer;
+}
+.Hamburger-Menu div{
+    width: 35px;
+    height: 5px;
+    background-color: #7F7F7F;
+    margin: 6px 0;
+}

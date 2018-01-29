@@ -1,3 +1,51 @@
+.Navigator{
+
+}
+.stories{
+    background-color:#F2F2F2;
+    height:80vh;
+    padding:1% 0 1% 1.5%;
+}
+.stories h4{
+    font-weight:bold;
+}
+
+.stories .time-filter .text{
+    padding-top:1%;
+}
+.stories .time-filter input[type=text]{
+    background-color:transparent;
+    border:none;
+    outline:none;
+    -webkit-appearance: none;
+    border-bottom:1px black solid;
+    box-shadow: none;
+    text-align:center;
+}
+.stories-container{
+    height:85%;
+    width:97%;
+    overflow-y:scroll;
+    background-color:#FFFFFF;
+}
+.stories-container ul.book{
+    list-style-type:none;
+    padding:0;
+    margin:0;
+}
+.stories-container ul.book li{
+    background:url('assets/bookicon.png')no-repeat left top;
+    height:3em;
+    padding-left:3.2em;
+    padding-top:.7em;
+}
+.stories-container ul.book li:hover{
+    background-color:lightgray;
+}
+.navigation{
+    padding-top:1%;
+    background-color:lightgray;
+}
 .NavigatorStoryListItem:hover{
     cursor:pointer;
 }

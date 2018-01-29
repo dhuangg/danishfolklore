@@ -54,8 +54,8 @@ class Navigator extends Component {
     }
 
     handleStoryQuery(story_id){
-        var path = 'non-converted xml files/stories/'+ String(story_id)
-
+        var path = '../../data/stories_unconverted_js/'+ String(story_id)+'.json';
+        this.props.addStoryPath(path);
     }
 
     handleAddNavList(list){
@@ -85,17 +85,37 @@ class Navigator extends Component {
        }
     }
 
+    timeFilterHandler(){
+
+    }
+
     render() {
         var navLists = this.state.lists.map((list,i) => {
             return <NavigatorList list={list.childArray} elementKey={list.name} key={i} addNav={this.handleAddNavList.bind(this)}/>
         });
         return (
             <div className="Navigator">
-                {navLists}
-                <div className="list-of-stories">
-                    <ul>
-                        {this.state.storyList}
-                    </ul>
+                <div className="navigation grid-x grid-padding-x">
+                    {navLists}
+                </div>
+                <div className="grid-x">
+                    <div className="mapping-component medium-8 cell">
+                        <img src={require('./assets/etkmap.png')} alt="Placeholder Map Component"/>
+                    </div>
+                    <div className="stories medium-4 cell">
+                        <form className="time-filter grid-x" onChange={this.timeFilterHandler.bind(this)}>
+                            <div className="medium-1 text">From</div>
+                            <input className="medium-4" type="text" name="FromYear" defaultValue="1887"/>
+                            <div className="medium-1 text">To</div>
+                            <input className="medium-4" type="text" name="ToYear" defaultValue="1899"/>
+                        </form>
+                        <h4>Associate Stories</h4>
+                        <div className="stories-container">
+                            <ul className="book">
+                                {this.state.storyList}
+                            </ul>
+                        </div>
+                    </div>
                 </div>
 
             </div>

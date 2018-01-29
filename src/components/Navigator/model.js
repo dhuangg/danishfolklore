@@ -55,13 +55,10 @@ function getSiblings(list,key,isObj) {
 export function getStories(path){
     var workingPath = path;
     var indexOfBlank = workingPath.indexOf("");
-    console.log(workingPath);
     if(indexOfBlank!==-1){
         workingPath.slice(indexOfBlank,indexOfBlank+1);
     }
     var storiesAndPlaces = getStoriesPlacesHelper(workingPath, listsModel['Main']);
-    console.log(workingPath);
-    console.log(path);
     return storiesAndPlaces.stories
 }
 

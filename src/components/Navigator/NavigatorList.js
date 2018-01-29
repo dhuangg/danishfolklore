@@ -44,7 +44,7 @@ class NavigatorList extends Component {
 
     render() {
         return (
-            <div className="NavigatorList">
+            <div className="NavigatorList medium-3 cell">
                 {
                 <form>
                     <select value={this.state.selectValue} onChange={this.handleMenuChange.bind(this)}>
