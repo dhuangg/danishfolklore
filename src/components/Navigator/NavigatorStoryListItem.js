@@ -10,7 +10,8 @@ class NavigatorStoryListItem extends Component {
         this.handleStoryClick = this.handleStoryClick.bind(this)
     }
     handleStoryClick(e){
-        this.props.getStoryData(this.props.story.story_id)
+        //6) if item is selected, pass to the TabViewer to decide which view to display for the new tab
+        this.props.getStoryData(this.props.story.story_id, this.props.story.full_name);
     }
     //
     render() {

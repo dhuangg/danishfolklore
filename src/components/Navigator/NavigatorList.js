@@ -11,7 +11,7 @@ class NavigatorList extends Component {
         this.createList = this.createList.bind(this);
         this.callNavigator = this.callNavigator.bind(this);
         this.state = {
-            selectValue:''
+            selectValue:'[Select]'
         };
     }
 

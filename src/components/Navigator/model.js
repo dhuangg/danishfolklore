@@ -6,13 +6,19 @@ import dataTango from '../../data/ctango_indices.json'
 import dataETK from '../../data/cetk_indices.json'
 import dataGenre from '../../data/cgenres.json'
 import dataFieldtrips from '../../data/cfieldtrips.json'
+import informants from '../../data/cinformants.json'
+import storySearch from '../../data/cstories.json'
+import places from '../../data/cplaces.json'
 
 const data = {
     keywords:dataKeywords.keyword,
     tango:dataTango.tango_index,
     etk:dataETK.etk_index,
     genre:dataGenre.genre,
-    fieldtrips:dataFieldtrips.fieldtrip
+    fieldtrips:dataFieldtrips.fieldtrip,
+    people: informants.informant,
+    places: places.place,
+    stories: storySearch.story
 };
 
 //return array of same key:pair value (i.e. gets me a list of all children of "Places")
@@ -27,6 +33,7 @@ function getChildren(list,key,value,isObj){
             }
         }
     }
+    items.push('[Select]');
     return items;
 }
 
@@ -47,22 +54,36 @@ function getSiblings(list,key,isObj) {
                 }
             }
         }
+        prev.push('[Select]');
         return prev;
     }
     alert("Can't get siblings!");
 }
 
-export function getStories(path){
+export function getItems(path, listType){
+    //2) clean the path
     var workingPath = path;
     var indexOfBlank = workingPath.indexOf("");
     if(indexOfBlank!==-1){
         workingPath.slice(indexOfBlank,indexOfBlank+1);
     }
-    var storiesAndPlaces = getStoriesPlacesHelper(workingPath, listsModel['Main']);
-    return storiesAndPlaces.stories
+    // console.log(path, listType);
+    //3) call on helper to get list of objects
+    var listOfItems = getItemsHelper(workingPath, listsModel['Main']);
+    //4) have return array based on people, places, fieldtrips, stories
+    if(listType==='stories'){
+        console.log(listOfItems);
+        if(listOfItems.stories.constructor === Array){
+            //this is the situation when there's only 1 item in the list, it's just an object (i.e. "Rhymes" under Tango Indices)
+            return listOfItems.stories;
+        } else {
+            return [listOfItems.stories];
+        }
+    }
 }
 
-function getStoriesPlacesHelper(pathArr, obj) {
+function getItemsHelper(pathArr, obj) {
+    console.log(obj);
     var storiesArray;
     var placesArray;
     var finalReturnObj;
@@ -72,47 +93,72 @@ function getStoriesPlacesHelper(pathArr, obj) {
             var str = obj.childArray[i];
             if (str === listName) {
                 var newPath = pathArr.slice(1, pathArr.length+1);
-                return getStoriesPlacesHelper(newPath, listsModel[str]);
+                return getItemsHelper(newPath, listsModel[str]);
             }
         }
     } else {
         //this stuff looks for the last item in the pathname
         var listOfFinalStuff = obj.children;
-        //TODO: figure out why ETK indices aren't displaying
+        console.log('what we are looking for: ',obj);
         //filters the children down to only stuff in the last item in path name
         for(var k = 0; k<listOfFinalStuff.length; k++){
-            if(listOfFinalStuff[k].name === pathArr[0]){
-                storiesArray = listOfFinalStuff[k].stories.story;
-                placesArray = listOfFinalStuff[k].places.place
+            if(listOfFinalStuff[k].name === pathArr[0] || listOfFinalStuff[k].heading_english === pathArr[0]) {
+                    if('stories' in listOfFinalStuff[k]) {
+                        storiesArray = listOfFinalStuff[k].stories.story;
+                        placesArray = listOfFinalStuff[k].places.place
+                    }
+                }
             }
-        }
     }
+
     finalReturnObj = {stories: storiesArray, places: placesArray};
     if(finalReturnObj.stories!==undefined && finalReturnObj.places!==undefined){
         return finalReturnObj;
     }
 
 }
-
+//TODO: clean up undefined/empty values (i.e. last value of fieldtrip search results
 export const listsModel = {
     'Main':{
         name:'Main',
-        childArray:['Data Navigator','Topic & Index Navigator'],
+        childArray:['Data Navigator','Topic & Index Navigator','[Select]'],
         children:[this['Data Navigator'],this['Topic & Index Navigator']],
         level:0
     },
     'Data Navigator':{
         name:'People, Places, Stories',
-        childArray : ['People', 'Places', 'Stories'],
+        childArray : ['People', 'Places', 'Stories','[Select]'],
         parent:this['Main'],
+        children:[this['People']],
         level:1
     },
     'Topic & Index Navigator':{
         name:'Topic & Index Navigator',
-        childArray:['ETK Indice', 'Tangherlini Indices', 'Genres', 'Fieldtrips'],
+        childArray:['ETK Indice', 'Tangherlini Indices', 'Genres', 'Fieldtrips','[Select]'],
         parent:this['Main'],
         children:[this['ETK'],this['Keywords'],this['Fieldtrips'],this['Genre'],this['Tangherlini Indices']],
         level:1
+    },
+    'People':{
+        name:'People',
+        childArray:getSiblings(data.people,'full_name', false),
+        parent:this['Data Navigator'],
+        children:getSiblings(data.people,'full_name',true),
+        level:2
+    },
+    'Places':{
+        name:'Places',
+        childArray:getSiblings(data.places,'name', false),
+        parent:this['Data Navigator'],
+        children:getSiblings(data.places,'name',true),
+        level:2
+    },
+    'Stories':{
+        name:'Stories',
+        childArray:getSiblings(data.stories,'full_name', false),
+        parent:this['Data Navigator'],
+        children:getSiblings(data.stories,'full_name',true),
+        level:2
     },
     'ETK Indice':{
         name:'ETK Indice',
@@ -149,18 +195,18 @@ export const listsModel = {
         children:getSiblings(data.tango,'type',true),
         level:2
     },
-    'People':{
-        name:'People',
-        childArray:getChildren(data.tango,'type','People', false),
+    'People Classes':{
+        name:'People Classes',
+        childArray:getChildren(data.tango,'type','People Classes', false),
         parent:this['Topic & Navigator'],
-        children:getChildren(data.tango,'type','People',true),
+        children:getChildren(data.tango,'type','People Classes',true),
         level:3
     },
-    'Places':{
+    'Place Classes':{
         name:'Places',
-        childArray:getChildren(data.tango,'type','Places', false),
+        childArray:getChildren(data.tango,'type','Places Classes', false),
         parent:this['Topic & Navigator'],
-        children:getChildren(data.tango,'type','Places',true),
+        children:getChildren(data.tango,'type','Places Classes',true),
         level:3
     },
     'Tools, Items and Conveyances':{

@@ -4,6 +4,7 @@
 import React, { Component } from 'react';
 import Navigator from '../Navigator/Navigator';
 import StoryView from '../StoryView/StoryView';
+import {getStoryByID} from "./model";
 import './TabViewer.css'
 
 class TabViewer extends Component {
@@ -11,36 +12,156 @@ class TabViewer extends Component {
     constructor(){
         super();
         this.state = {
-            storyViews:[],
-            storyPath:''
+            views:[],
+            storyPath:'',
+            inView:[]
         };
-        this.handleStoryPath = this.handleStoryPath.bind(this);
+        this.handleStoryID = this.handleStoryID.bind(this);
+        this.handlePPSID = this.handlePPSID.bind(this);
+        this.tabController = this.tabController.bind(this);
+        this.switchTab = this.switchTab.bind(this);
+        this.closeTab = this.closeTab.bind(this);
     }
 
-    handleStoryPath(InputStoryPath){
-        console.log('This is the story path!',InputStoryPath);
-        var storyObject = {
-            storyPath:InputStoryPath,
-            active:true
+    componentWillMount(){
+        var navigatorObject = {
+            jsx: <Navigator addStoryID={this.handleStoryID} addPPSID={this.handlePPSID}/>,
+            active: true,
+            id:0,
+            name:'Home',
+            type:'home'
         };
         this.setState((prevState)=>{
-            var newStoryViews = prevState.storyViews;
+            var newState = prevState.views;
+            newState.push(navigatorObject);
+            return {views:newState, inView:newState}
+        });
+    }
+
+
+    renderStory(id){
+        var storyObject = getStoryByID(id);
+        return <StoryView story={storyObject}></StoryView>;
+    }
+    //7)A catch all function will take in an ID and name of the selected object
+    // depending on what was selected (story, people, places, fieldtrips) add a different type of object to add to views and inView
+
+    handleStoryID(InputStoryID,StoryName){
+        console.log('This is the story ID!',InputStoryID);
+        var storyObject = {
+            jsx:this.renderStory(InputStoryID),
+            id:InputStoryID,
+            active:true,
+            name:StoryName,
+            type:'story'
+        };
+        this.setState((prevState)=>{
+            var newStoryViews = prevState.views;
+            newStoryViews.forEach((view)=>{
+                view.active = false;
+            });
             newStoryViews.push(storyObject);
            return {
-               storyViews:newStoryViews
+               views:newStoryViews,
+               inView:[storyObject]
            }
         });
     }
+    handlePPSID(InputID, Name, Type){
+        console.log(InputID,Name, Type);
+        if(Type==='Stories'){
+            this.handleStoryID(InputID,Name);
+        } else {
+            var itemObject = {
+                //TODO: create people, places, and fieldtrip views
+                //TODO: create associated people, places, stories navigator
+                jsx:<div className='item'><h1>{Name}</h1></div>,
+                id:InputID,
+                active:true,
+                name:Name,
+                type:Type
+            };
+            this.setState((prevState)=>{
+                var newViews = prevState.views;
+                newViews.forEach((view)=>{
+                    view.active = false;
+                });
+                newViews.push(itemObject);
+                return {
+                    views:newViews,
+                    inView:[itemObject]
+                }
+            });
+        }
+    }
 
-    render() {
-        console.log(this.state.storyViews);
-        var storyView = this.state.storyViews.map((story,i)=> {
-            return <StoryView storyPath={story.storyPath} key={i}/>;
+    tabController(){
+        for(var i=0; i<this.state.views.length;i++){
+            if(this.state.views[i].active){
+                return this.state.views[i].jsx;
+            }
+        }
+    }
+
+    switchTab(view){
+        console.log('switching tabs!');
+        this.setState((prevState)=>{
+            var newViews = prevState.views;
+            newViews.forEach((currentView)=>{
+                if(currentView.name !== view.name){
+                    currentView.active = false;
+                } else {
+                    currentView.active = true;
+                    if(currentView.type === 'story'){
+                        console.log(currentView.name);
+                        currentView.jsx = this.renderStory(currentView.id);
+                        view = currentView;
+                    }
+                }
+            });
+            //check if view has been deleted from list of views
+            if(newViews.includes(view)){
+                return { views:newViews, inView:[view] }
+            } else {
+                return{ views:newViews }
+            }
         });
+    }
+
+    closeTab(view){
+        //find 'view' in this.state.views and .inView, and delete it. if .inView then default to home tab
+        this.state.views.forEach((currentView)=>{
+            if(currentView === view){
+                this.setState((prevState)=>{
+                    var newState = prevState;
+                    var removeViewIndex = newState.views.indexOf(view);
+                    newState.views.splice(removeViewIndex,1);
+                    if(newState.inView[0] === view){
+                        newState.views[0].active = true;
+                        return {
+                            views:newState.views,
+                            inView:[newState.views[0]]
+                        }
+                    }
+                });
+            }
+        });
+    }
+    render() {
         return (
-            <div className="TabViewer">
-                <Navigator addStoryPath={this.handleStoryPath}/>
-                {storyView}
+            <div className="TabViewer grid-container full">
+                <div className="view">
+                    {this.state.inView.map((view, i)=>{ return <div key={i}>{view.jsx}</div> })}
+                </div>
+                <ul className="tabs">
+                    {this.state.views.map((view,i)=>{
+                        return <li onClick={(event)=>{event.preventDefault();this.switchTab(view);}}
+                                   key={i} className={`${view.active ? 'active' : ''}`}>
+                            {view.name}
+                            <img src="https://png.icons8.com/material/50/000000/delete-sign.png" alt="Close Icon"
+                                 className={`closeIcon ${view.name === 'Home'? 'noClose':''}`} onClick={(event)=>{event.preventDefault(); this.closeTab(view)}}/>
+                        </li>})}
+                </ul>
             </div>
         );
     }
