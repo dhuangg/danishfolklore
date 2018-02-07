@@ -5,928 +5,330 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c788b5d-04e0-4ae8-801f-379f1e1c8031" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Navigator/AssociatedStoriesViewer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Navigator/PPSListItem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/TabViewer/model.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/data/allstories.json" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/10.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/100.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/101.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/102.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/103.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/104.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/105.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/106.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/107.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/108.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/109.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/11.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/110.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/111.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/112.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/113.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/114.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/115.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/116.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/117.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/118.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/119.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/12.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/120.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/121.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/122.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/123.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/124.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/125.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/126.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/127.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/128.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/129.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/13.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/130.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/131.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/132.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/133.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/134.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/135.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/136.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/137.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/138.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/139.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/14.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/140.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/141.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/142.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/143.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/144.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/145.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/146.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/147.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/148.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/149.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/15.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/150.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/151.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/152.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/153.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/154.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/155.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/156.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/157.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/158.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/159.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/16.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/160.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/161.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/162.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/163.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/164.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/165.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/166.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/167.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/168.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/169.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/17.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/170.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/171.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/172.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/173.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/174.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/175.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/176.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/177.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/178.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/179.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/18.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/180.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/181.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/182.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/183.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/184.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/185.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/186.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/187.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/188.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/189.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/19.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/190.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/191.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/192.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/193.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/194.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/195.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/196.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/197.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/198.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/199.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/20.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/200.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/201.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/202.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/203.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/204.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/205.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/206.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/207.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/208.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/209.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/21.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/210.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/211.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/212.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/213.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/214.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/215.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/216.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/217.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/218.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/219.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/22.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/220.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/221.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/222.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/223.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/224.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/225.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/226.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/227.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/228.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/229.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/23.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/230.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/231.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/232.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/233.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/234.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/235.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/236.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/237.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/238.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/239.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/24.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/240.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/241.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/242.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/243.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/244.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/245.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/246.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/247.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/248.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/249.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/25.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/250.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/251.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/252.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/253.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/254.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/255.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/256.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/257.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/258.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/259.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/26.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/260.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/261.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/262.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/263.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/264.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/265.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/266.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/267.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/268.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/269.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/27.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/270.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/271.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/272.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/273.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/274.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/275.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/276.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/277.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/278.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/279.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/28.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/280.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/281.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/282.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/283.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/284.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/285.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/286.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/287.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/288.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/289.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/29.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/290.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/291.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/292.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/293.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/294.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/295.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/296.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/297.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/298.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/299.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/3.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/30.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/300.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/301.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/302.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/303.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/304.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/305.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/306.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/307.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/308.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/309.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/31.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/310.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/311.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/312.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/313.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/314.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/315.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/316.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/317.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/318.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/319.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/32.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/320.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/321.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/322.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/323.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/324.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/325.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/326.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/327.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/328.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/329.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/33.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/330.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/331.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/332.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/333.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/334.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/335.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/336.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/337.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/338.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/339.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/34.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/340.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/341.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/342.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/343.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/344.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/345.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/346.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/347.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/348.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/349.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/35.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/350.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/351.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/352.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/353.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/354.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/355.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/356.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/357.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/358.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/359.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/36.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/360.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/361.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/362.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/363.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/364.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/365.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/366.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/367.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/368.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/369.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/37.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/370.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/371.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/372.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/373.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/374.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/375.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/376.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/377.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/378.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/379.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/38.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/380.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/381.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/382.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/383.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/384.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/385.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/386.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/387.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/388.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/389.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/39.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/390.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/391.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/392.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/393.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/394.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/395.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/396.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/397.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/398.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/399.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/4.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/40.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/400.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/401.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/402.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/403.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/404.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/405.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/406.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/407.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/408.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/409.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/41.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/410.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/411.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/412.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/413.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/414.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/415.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/416.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/417.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/418.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/419.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/42.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/420.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/421.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/422.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/423.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/424.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/425.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/426.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/427.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/428.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/429.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/43.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/430.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/431.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/432.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/433.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/434.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/435.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/436.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/437.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/438.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/439.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/44.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/440.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/441.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/442.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/443.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/444.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/445.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/446.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/447.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/448.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/449.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/45.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/450.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/451.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/452.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/453.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/454.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/455.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/456.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/457.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/458.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/459.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/46.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/460.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/461.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/462.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/463.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/464.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/465.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/466.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/467.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/468.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/469.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/47.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/470.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/471.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/472.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/473.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/474.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/475.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/476.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/477.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/478.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/479.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/48.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/480.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/481.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/482.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/483.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/484.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/485.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/486.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/487.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/488.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/489.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/49.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/490.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/491.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/492.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/494.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/495.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/496.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/497.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/498.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/499.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/5.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/50.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/500.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/501.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/502.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/503.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/504.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/505.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/506.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/507.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/508.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/509.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/51.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/510.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/511.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/512.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/513.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/514.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/515.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/516.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/517.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/518.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/519.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/52.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/520.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/521.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/522.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/523.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/524.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/525.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/526.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/527.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/528.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/529.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/53.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/530.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/531.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/532.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/533.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/534.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/535.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/536.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/537.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/538.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/539.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/54.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/540.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/541.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/542.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/543.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/544.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/545.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/546.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/547.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/548.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/549.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/55.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/550.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/551.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/552.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/553.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/554.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/555.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/556.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/557.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/558.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/559.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/56.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/560.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/561.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/562.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/563.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/564.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/565.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/566.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/567.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/568.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/569.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/57.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/570.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/571.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/572.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/573.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/574.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/575.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/576.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/577.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/578.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/579.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/58.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/580.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/581.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/582.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/583.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/584.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/585.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/586.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/587.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/588.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/589.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/59.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/590.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/591.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/592.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/593.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/594.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/595.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/597.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/598.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/6.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/60.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/600.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/601.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/602.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/603.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/604.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/605.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/606.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/607.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/608.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/609.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/61.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/610.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/611.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/612.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/613.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/614.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/615.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/616.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/617.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/618.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/619.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/62.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/620.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/621.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/622.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/623.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/624.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/625.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/626.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/627.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/628.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/629.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/63.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/630.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/631.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/632.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/633.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/634.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/635.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/636.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/637.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/638.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/639.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/64.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/640.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/641.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/642.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/643.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/644.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/645.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/646.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/647.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/648.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/649.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/65.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/650.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/651.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/652.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/653.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/654.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/655.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/656.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/657.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/658.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/659.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/66.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/660.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/661.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/662.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/663.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/664.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/665.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/666.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/667.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/668.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/669.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/67.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/670.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/671.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/672.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/673.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/674.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/675.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/676.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/677.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/678.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/679.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/68.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/680.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/681.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/682.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/683.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/684.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/685.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/686.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/687.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/688.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/689.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/69.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/690.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/691.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/692.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/693.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/694.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/695.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/696.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/697.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/698.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/699.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/7.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/70.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/701.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/702.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/703.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/704.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/705.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/706.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/707.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/708.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/709.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/71.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/710.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/711.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/712.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/713.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/714.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/715.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/716.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/717.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/718.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/719.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/72.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/720.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/721.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/722.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/723.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/724.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/725.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/726.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/727.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/728.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/729.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/73.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/730.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/731.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/732.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/733.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/734.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/735.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/736.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/737.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/738.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/739.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/74.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/740.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/741.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/742.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/743.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/744.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/745.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/746.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/747.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/748.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/749.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/75.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/750.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/751.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/752.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/753.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/754.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/755.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/756.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/757.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/758.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/759.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/76.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/760.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/761.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/763.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/764.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/765.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/766.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/767.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/768.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/769.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/77.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/770.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/771.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/772.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/773.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/774.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/775.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/776.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/777.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/778.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/779.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/78.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/780.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/781.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/782.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/783.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/784.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/785.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/786.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/787.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/788.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/789.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/79.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/790.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/791.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/792.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/793.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/794.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/795.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/796.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/797.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/798.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/799.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/8.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/80.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/800.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/801.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/802.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/803.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/804.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/805.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/806.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/807.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/808.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/809.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/81.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/810.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/811.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/812.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/813.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/814.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/815.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/816.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/817.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/818.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/82.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/820.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/821.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/822.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/823.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/824.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/825.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/826.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/827.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/828.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/829.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/83.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/830.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/831.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/832.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/834.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/835.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/837.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/838.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/839.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/84.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/840.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/841.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/842.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/843.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/844.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/845.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/846.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/847.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/848.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/849.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/85.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/850.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/851.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/852.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/853.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/854.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/855.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/856.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/858.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/859.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/86.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/860.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/861.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/862.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/863.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/864.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/865.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/866.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/867.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/868.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/869.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/87.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/870.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/871.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/872.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/873.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/874.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/875.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/876.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/877.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/878.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/879.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/88.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/880.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/881.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/882.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/883.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/884.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/886.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/887.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/888.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/889.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/89.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/890.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/891.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/892.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/893.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/894.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/895.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/896.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/897.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/899.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/9.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/90.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/900.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/901.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/902.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/903.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/904.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/905.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/906.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/907.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/909.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/91.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/910.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/911.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/912.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/913.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/914.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/915.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/92.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/93.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/94.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/95.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/96.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/97.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/98.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data/stories_unconverted_js/99.json" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/123.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/123_full.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/150_full.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/235.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/235_full.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/241.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/241_full.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/90.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/90_full.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/DENM0001.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/0.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/104.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/106.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/108.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/110.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/111.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/112.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/123.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/123_bio.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/124.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/128.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/130.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/144.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/150.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/150_bio.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/151.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/158.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/182.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/187.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/189.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/191.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/205.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/212.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/217.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/225.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/235.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/235_bio.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/238.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/240.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/241.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/241_bio.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/245.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/25.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/258.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/281.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/283.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/306.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/318.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/319.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/320.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/321.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/322.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/323.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/324.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/325.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/326.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/327.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/328.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/329.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/330.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/331.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/332.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/333.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/334.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/335.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/336.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/337.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/338.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/339.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/340.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/341.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/342.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/343.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/344.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/345.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/346.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/347.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/348.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/349.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/350.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/351.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/352.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/353.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/354.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/355.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/356.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/357.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/358.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/359.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/360.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/361.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/362.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/363.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/364.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/365.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/366.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/367.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/368.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/369.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/370.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/371.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/372.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/373.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/374.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/375.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/376.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/377.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/378.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/379.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/380.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/381.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/382.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/383.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/384.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/385.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/386.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/387.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/388.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/389.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/390.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/391.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/392.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/393.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/394.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/395.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/396.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/397.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/398.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/399.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/400.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/401.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/402.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/403.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/404.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/405.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/406.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/407.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/408.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/409.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/41.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/410.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/411.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/412.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/413.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/414.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/415.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/416.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/417.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/418.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/419.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/420.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/421.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/422.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/423.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/424.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/425.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/426.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/427.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/428.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/429.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/430.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/431.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/432.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/433.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/434.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/435.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/436.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/437.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/438.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/439.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/440.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/441.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/442.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/443.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/444.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/445.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/446.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/447.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/448.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/449.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/450.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/451.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/452.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/453.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/454.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/455.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/456.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/457.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/458.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/459.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/460.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/461.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/462.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/463.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/464.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/465.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/466.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/467.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/468.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/469.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/470.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/472.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/473.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/474.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/475.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/476.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/477.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/478.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/479.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/48.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/480.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/481.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/482.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/483.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/484.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/485.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/486.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/487.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/488.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/489.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/490.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/492.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/493.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/494.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/495.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/496.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/497.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/498.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/499.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/500.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/501.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/502.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/503.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/504.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/505.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/506.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/507.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/508.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/509.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/510.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/511.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/512.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/513.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/514.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/515.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/516.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/517.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/518.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/519.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/520.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/521.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/522.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/523.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/524.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/525.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/526.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/527.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/528.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/529.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/530.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/531.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/532.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/533.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/534.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/535.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/536.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/537.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/538.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/539.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/54.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/540.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/541.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/542.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/543.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/544.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/545.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/546.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/547.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/548.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/549.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/550.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/551.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/552.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/553.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/554.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/555.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/556.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/557.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/558.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/559.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/562.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/563.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/564.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/565.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/566.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/567.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/568.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/569.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/57.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/570.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/572.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/573.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/574.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/59.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/6.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/61.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/65.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/68.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/69.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/77.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/90.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/converted xml files/informants/90_bio.dfl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/PeopleView/PeopleView.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/PeopleView/PeopleView.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Navigator/AssociatedStoriesViewer.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.css" afterPath="$PROJECT_DIR$/src/App.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Heading/Heading.css" afterPath="$PROJECT_DIR$/src/components/Heading/Heading.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Heading/Heading.js" afterPath="$PROJECT_DIR$/src/components/Heading/Heading.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Navigator/Navigator.js" afterPath="$PROJECT_DIR$/src/components/Navigator/Navigator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Navigator/NavigatorList.js" afterPath="$PROJECT_DIR$/src/components/Navigator/NavigatorList.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Navigator/NavigatorStoryListItem.js" afterPath="$PROJECT_DIR$/src/components/Navigator/NavigatorStoryListItem.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Navigator/model.js" afterPath="$PROJECT_DIR$/src/components/Navigator/model.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Navigator/navigator.css" afterPath="$PROJECT_DIR$/src/components/Navigator/navigator.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/StoryView/StoryView.js" afterPath="$PROJECT_DIR$/src/components/StoryView/StoryView.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/TabViewer/TabViewer.css" afterPath="$PROJECT_DIR$/src/components/TabViewer/TabViewer.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/TabViewer/TabViewer.js" afterPath="$PROJECT_DIR$/src/components/TabViewer/TabViewer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/ctango_indices.json" afterPath="$PROJECT_DIR$/src/data/ctango_indices.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/TabViewer/model.js" afterPath="$PROJECT_DIR$/src/components/TabViewer/model.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -944,43 +346,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Navigator.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Navigator/Navigator.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="107" column="41" lean-forward="false" selection-start-line="107" selection-start-column="41" selection-end-line="107" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="model.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Navigator/model.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="55" column="9" lean-forward="false" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
-              <folding>
-                <element signature="e#46#98#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TabViewer.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TabViewer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/TabViewer/TabViewer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1095">
-              <caret line="75" column="18" lean-forward="true" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="66" />
+            <state relative-caret-position="214">
+              <caret line="47" column="28" lean-forward="false" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
               <folding>
                 <element signature="e#46#87#0" expanded="true" />
               </folding>
@@ -988,12 +358,90 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Heading.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Heading/Heading.css">
+      <file leaf-file-name="model.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/TabViewer/model.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="68" column="19" lean-forward="false" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+            <state relative-caret-position="120">
+              <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+              <folding>
+                <element signature="e#46#98#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="90.dfl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../DanishFolkloreNexus/extras/data/informants/90.dfl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="37" lean-forward="false" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="90_bio.dfl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../DanishFolkloreNexus/extras/data/informants/90_bio.dfl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StoryView.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/StoryView/StoryView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PeopleView.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/PeopleView/PeopleView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+              <folding>
+                <element signature="e#45#86#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="places.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/converted xml files/places.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="informants.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/converted xml files/informants.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fieldtrips.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/converted xml files/fieldtrips.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="193" column="24" lean-forward="false" selection-start-line="193" selection-start-column="24" selection-end-line="193" selection-end-column="24" />
+              <folding>
+                <element signature="n#places_visited#0;n#fieldtrip#0;n#fieldtrips#0;n#!!top" expanded="false" />
+                <element signature="n#stories_collected#0;n#fieldtrip#0;n#fieldtrips#0;n#!!top" expanded="false" />
+                <element signature="n#people_visited#0;n#fieldtrip#0;n#fieldtrips#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1003,8 +451,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -1020,6 +468,7 @@
       <find>places</find>
       <find>People</find>
       <find>Place Classes</find>
+      <find>date</find>
     </findStrings>
     <replaceStrings>
       <replace>People Classes</replace>
@@ -1045,8 +494,6 @@
         <option value="$PROJECT_DIR$/src/components/Navigator/NavigatorStoryList.js" />
         <option value="$PROJECT_DIR$/src/components/StoryView/StoryView.css" />
         <option value="$PROJECT_DIR$/src/components/Navigator/storyModel.js" />
-        <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/data/stories_unconverted_js/15.json" />
         <option value="$PROJECT_DIR$/src/data/allstories.json" />
         <option value="$PROJECT_DIR$/src/components/StoryView/model.js" />
@@ -1059,12 +506,22 @@
         <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/components/Navigator/PPSListItem.js" />
         <option value="$PROJECT_DIR$/src/components/Navigator/navigator.css" />
-        <option value="$PROJECT_DIR$/src/components/Navigator/Navigator.js" />
         <option value="$PROJECT_DIR$/src/components/Navigator/model.js" />
         <option value="$PROJECT_DIR$/src/components/TabViewer/TabViewer.css" />
-        <option value="$PROJECT_DIR$/src/components/TabViewer/TabViewer.js" />
         <option value="$PROJECT_DIR$/src/components/Heading/Heading.css" />
+        <option value="$PROJECT_DIR$/src/components/Navigator/Navigator.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/components/Heading/Heading.js" />
+        <option value="$PROJECT_DIR$/src/components/PeopleView/PeopleView.css" />
+        <option value="$PROJECT_DIR$/src/components/PeopleView/PeopleView.js" />
+        <option value="$PROJECT_DIR$/src/components/TabViewer/TabViewer.js" />
+        <option value="$PROJECT_DIR$/src/components/TabViewer/model.js" />
+        <option value="$PROJECT_DIR$/../DanishFolkloreNexus/extras/data/informants/241.dfl" />
+        <option value="$PROJECT_DIR$/../DanishFolkloreNexus/extras/data/informants/235.dfl" />
+        <option value="$PROJECT_DIR$/../DanishFolkloreNexus/extras/data/informants/150.dfl" />
+        <option value="$PROJECT_DIR$/../DanishFolkloreNexus/extras/data/informants/123.dfl" />
+        <option value="$PROJECT_DIR$/../DanishFolkloreNexus/extras/data/informants/90.dfl" />
       </list>
     </option>
   </component>
@@ -1080,10 +537,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="42" />
-    <option name="y" value="32" />
-    <option name="width" value="1794" />
-    <option name="height" value="971" />
+    <option name="y" value="23" />
+    <option name="width" value="1807" />
+    <option name="height" value="960" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -1101,6 +557,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1144,6 +602,72 @@
               <option name="myItemId" value="components" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TabViewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="danishfolklore-nexus-webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="danishfolklore-nexus-webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StoryView" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="danishfolklore-nexus-webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="danishfolklore-nexus-webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PeopleView" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="danishfolklore-nexus-webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="danishfolklore-nexus-webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1161,8 +685,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1176,17 +698,18 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/data" />
-      <recent name="$PROJECT_DIR$/src/components/Navigator/assets" />
-      <recent name="$PROJECT_DIR$/src/components/Heading/assets" />
-      <recent name="$PROJECT_DIR$/non-converted xml files" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/components/TabViewer" />
       <recent name="$PROJECT_DIR$/src/data" />
       <recent name="$PROJECT_DIR$/src/components/StoryView" />
       <recent name="$PROJECT_DIR$/src/components/Navigator" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/data" />
+      <recent name="$PROJECT_DIR$/src/components/Navigator/assets" />
+      <recent name="$PROJECT_DIR$/src/components/Heading/assets" />
+      <recent name="$PROJECT_DIR$/non-converted xml files" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1322,7 +845,11 @@
       <workItem from="1517275837928" duration="23457000" />
       <workItem from="1517449831655" duration="1000" />
       <workItem from="1517449861312" duration="31507000" />
-      <workItem from="1517711009653" duration="6951000" />
+      <workItem from="1517711009653" duration="10136000" />
+      <workItem from="1517814461715" duration="500000" />
+      <workItem from="1517815241623" duration="4866000" />
+      <workItem from="1517886573549" duration="1178000" />
+      <workItem from="1517971743765" duration="2316000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1516257353761</created>
@@ -1366,11 +893,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517260186465</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added hamburger menu, tabs, fixed navigation bugs&#10;added documentation">
+      <created>1517728572349</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1517728572349</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180923000" />
+    <option name="totallyTimeSpent" value="192968000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1381,17 +915,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="32" width="1794" height="971" extended-state="0" />
+    <frame x="0" y="23" width="1807" height="960" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17224081" sideWeight="0.61079866" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3181818" sideWeight="0.67502785" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3181818" sideWeight="0.32497212" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32837528" sideWeight="0.495671" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1953514" sideWeight="0.61079866" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3181818" sideWeight="0.6722408" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26599327" sideWeight="0.52960706" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32858837" sideWeight="0.49167824" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0097402595" sideWeight="0.38920134" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24972129" sideWeight="0.4937833" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32815966" sideWeight="0.47714603" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26599327" sideWeight="0.4703929" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1401,6 +935,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32815966" sideWeight="0.49331105" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1438,7 +973,8 @@
     <MESSAGE value="updated json script with id tags" />
     <MESSAGE value="navigator selection issue resolved, uploaded unconverted stories in xml" />
     <MESSAGE value="added heading, storyview, and tab viewer components. need to get xmlhttprequest to work" />
-    <option name="LAST_COMMIT_MESSAGE" value="added heading, storyview, and tab viewer components. need to get xmlhttprequest to work" />
+    <MESSAGE value="added hamburger menu, tabs, fixed navigation bugs&#10;added documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="added hamburger menu, tabs, fixed navigation bugs&#10;added documentation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1447,80 +983,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../DanishFolkloreNexus/extras/data/cplaces.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DanishFolkloreNexus/extras/data/stories/1.dfl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105">
-          <caret line="49" column="64" lean-forward="false" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Navigator/NavigatorItem.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="28" column="43" lean-forward="false" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DanishFolkloreNexus/extras/data/informants/0.dfl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="107" column="30" lean-forward="true" selection-start-line="107" selection-start-column="30" selection-end-line="107" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/converted xml files/cstories.xml" />
-    <entry file="file://$PROJECT_DIR$/converted xml files/ctango_indices.xml" />
-    <entry file="file://$PROJECT_DIR$/../DanishFolkloreNexus/extras/data/cstory_texts.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="4" column="246" lean-forward="false" selection-start-line="4" selection-start-column="246" selection-end-line="4" selection-end-column="246" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/converted xml files/cplaces.xml" />
-    <entry file="file://$PROJECT_DIR$/converted xml files/cstories_collected.xml" />
-    <entry file="file://$PROJECT_DIR$/converted xml files/cplaces_mentioned.xml" />
-    <entry file="file://$PROJECT_DIR$/src/utils.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/converted xml files/cgenres.xml" />
-    <entry file="file://$PROJECT_DIR$/src/components/StoryView/StoryView.css" />
-    <entry file="file://$PROJECT_DIR$/non-converted xml files/stories/1.json" />
-    <entry file="file://$PROJECT_DIR$/src/components/Navigator/storyModel.js" />
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/stories_unconverted_js/15.json" />
     <entry file="file://$PROJECT_DIR$/src/data/cetk_indices.json" />
-    <entry file="file://$PROJECT_DIR$/converted xml files/1.dfl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data/allstories.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1549,13 +1012,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/converted xml files/informants.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/converted xml files/story_search.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1563,31 +1019,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/converted xml files/fieldtrips.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="194" column="16" lean-forward="true" selection-start-line="194" selection-start-column="16" selection-end-line="194" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/TabViewer/model.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/non-converted xml files/stories_xml/1.dfl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/StoryView/StoryView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -1599,13 +1034,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Navigator/AssociatedStoriesViewer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="22" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navigator/AssociatedStoriesViewer.js" />
     <entry file="file://$PROJECT_DIR$/src/data/cinformants.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1617,7 +1046,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="12" column="103" lean-forward="false" selection-start-line="12" selection-start-column="103" selection-end-line="12" selection-end-column="103" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1642,18 +1070,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/converted xml files/places.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-293">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Navigator/NavigatorList.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-339">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1664,31 +1084,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Navigator/navigator.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="67" column="1" lean-forward="true" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
-          <folding>
-            <element signature="e#1166#2279#1" expanded="false" />
-            <element signature="e#2379#3596#1" expanded="false" />
-            <element signature="e#3701#4618#1" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data/cstories.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1696,25 +1095,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="0" column="245778" lean-forward="false" selection-start-line="0" selection-start-column="245778" selection-end-line="0" selection-end-column="245778" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Navigator/model.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="55" column="9" lean-forward="false" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
-          <folding>
-            <element signature="e#46#98#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Navigator/Navigator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="107" column="41" lean-forward="false" selection-start-line="107" selection-start-column="41" selection-end-line="107" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1722,33 +1102,262 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="17" lean-forward="false" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navigator/navigator.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navigator/model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="55" column="9" lean-forward="false" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="35" lean-forward="false" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Heading/Heading.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="68" column="19" lean-forward="false" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+        <state relative-caret-position="30">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navigator/Navigator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/converted xml files/1.dfl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/converted xml files/2.dfl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/converted xml files/4.dfl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/converted xml files/6.dfl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/converted xml files/10.dfl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/converted xml files/14.dfl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Heading/Heading.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="46" column="45" lean-forward="false" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
+        <state relative-caret-position="112">
+          <caret line="63" column="1346" lean-forward="false" selection-start-line="63" selection-start-column="1346" selection-end-line="63" selection-end-column="1346" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/converted xml files/places.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/converted xml files/fieldtrips.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="193" column="24" lean-forward="false" selection-start-line="193" selection-start-column="24" selection-end-line="193" selection-end-column="24" />
+          <folding>
+            <element signature="n#places_visited#0;n#fieldtrip#0;n#fieldtrips#0;n#!!top" expanded="false" />
+            <element signature="n#stories_collected#0;n#fieldtrip#0;n#fieldtrips#0;n#!!top" expanded="false" />
+            <element signature="n#people_visited#0;n#fieldtrip#0;n#fieldtrips#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/PeopleView/PeopleView.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/StoryView/StoryView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/converted xml files/informants.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/PeopleView/PeopleView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <element signature="e#45#86#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/TabViewer/TabViewer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="75" column="18" lean-forward="true" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="66" />
+        <state relative-caret-position="214">
+          <caret line="47" column="28" lean-forward="false" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
           <folding>
             <element signature="e#46#87#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DanishFolkloreNexus/extras/data/informants/241_bio.dfl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DanishFolkloreNexus/extras/data/informants/241.dfl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DanishFolkloreNexus/extras/data/informants/235_bio.dfl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DanishFolkloreNexus/extras/data/informants/235.dfl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DanishFolkloreNexus/extras/data/informants/150_bio.dfl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DanishFolkloreNexus/extras/data/informants/150.dfl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DanishFolkloreNexus/extras/data/informants/123_bio.dfl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DanishFolkloreNexus/extras/data/informants/123.dfl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/TabViewer/model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding>
+            <element signature="e#46#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DanishFolkloreNexus/extras/data/informants/90_bio.dfl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DanishFolkloreNexus/extras/data/informants/90.dfl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="37" lean-forward="false" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>

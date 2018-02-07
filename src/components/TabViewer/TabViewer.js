@@ -4,7 +4,7 @@
 import React, { Component } from 'react';
 import Navigator from '../Navigator/Navigator';
 import StoryView from '../StoryView/StoryView';
-import {getStoryByID} from "./model";
+import {getStoryByID, getPeopleByID} from "./model";
 import './TabViewer.css'
 
 class TabViewer extends Component {
@@ -21,6 +21,8 @@ class TabViewer extends Component {
         this.tabController = this.tabController.bind(this);
         this.switchTab = this.switchTab.bind(this);
         this.closeTab = this.closeTab.bind(this);
+        this.renderPDF = this.renderPDF.bind(this);
+        this.renderPPF = this.renderPPF.bind(this);
     }
 
     componentWillMount(){
@@ -41,7 +43,46 @@ class TabViewer extends Component {
 
     renderStory(id){
         var storyObject = getStoryByID(id);
-        return <StoryView story={storyObject}></StoryView>;
+        return <StoryView story={storyObject}/>;
+    }
+    renderPPF(id,type,Name){
+        if(type==='People'){
+            getPeopleByID(id);
+            return <div className='item'><h1>{Name}</h1></div>
+        } else if(type==='Places'){
+
+        } else if(type==='Fieldtrips'){
+
+        }
+    }
+    //TODO:figure out a better way of calling this function
+    renderPDF(filepath, name){
+        var nameUpdated = true;
+        if(this.state.inView.name === name){
+            nameUpdated = false;
+        } else {
+            this.state.views.forEach((view)=>{
+                if(view.name === name){
+                    nameUpdated = false;
+                }
+            });
+        }
+        if(name !== undefined && nameUpdated){
+            var PDFObject = {
+                name:name,
+                pdf:filepath,
+                jsx:<div><h1>{name}</h1><h4>{filepath}</h4></div>,
+                active:true
+            };
+            this.setState((prevState)=>{
+                var newState = prevState;
+                newState.views.forEach((view)=>{
+                    view.active = false;
+                });
+                newState.views.push(PDFObject);
+                return {views:newState.views, inView:[PDFObject]}
+            });
+        }
     }
     //7)A catch all function will take in an ID and name of the selected object
     // depending on what was selected (story, people, places, fieldtrips) add a different type of object to add to views and inView
@@ -75,7 +116,7 @@ class TabViewer extends Component {
             var itemObject = {
                 //TODO: create people, places, and fieldtrip views
                 //TODO: create associated people, places, stories navigator
-                jsx:<div className='item'><h1>{Name}</h1></div>,
+                jsx:this.renderPPF(InputID,Type,Name),
                 id:InputID,
                 active:true,
                 name:Name,
@@ -129,6 +170,7 @@ class TabViewer extends Component {
     }
 
     closeTab(view){
+        console.log('closing tab!');
         //find 'view' in this.state.views and .inView, and delete it. if .inView then default to home tab
         this.state.views.forEach((currentView)=>{
             if(currentView === view){
@@ -143,6 +185,8 @@ class TabViewer extends Component {
                             inView:[newState.views[0]]
                         }
                     }
+                },()=>{
+                    console.log(this.state.views)
                 });
             }
         });
@@ -152,6 +196,7 @@ class TabViewer extends Component {
             <div className="TabViewer grid-container full">
                 <div className="view">
                     {this.state.inView.map((view, i)=>{ return <div key={i}>{view.jsx}</div> })}
+                    {this.renderPDF(this.props.menuItem.pdf,this.props.menuItem.name)}
                 </div>
                 <ul className="tabs">
                     {this.state.views.map((view,i)=>{

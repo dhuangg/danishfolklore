@@ -4,7 +4,6 @@
 import React, { Component } from 'react';
 import NavigatorList from './NavigatorList';
 import NavigatorStoryListItem from './NavigatorStoryListItem'
-import AssociatedStoriesViewer from "./AssociatedStoriesViewer";
 // load in JSON data from file
 import {listsModel, getItems} from './model.js'
 import './navigator.css'

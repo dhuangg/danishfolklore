@@ -1,6 +1,6 @@
 .Heading{
     background-color:#3B3838;
-    padding:1vh;
+    padding:1vh 1vh 0 0;
     color:white;
     font-size:.9em;
 }
@@ -67,4 +67,18 @@
 .menu-item:hover{
     background-color: rgb(111, 108, 108);
     cursor:pointer;
+}
+.Search input[type=text]{
+    background-color:transparent;
+    border:none;
+    outline:none;
+    -webkit-appearance: none;
+    border-bottom:1px solid #838080;
+    box-shadow: none;
+    text-align:left;
+    color:white;
+}
+.search-icon{
+    height:50%;
+    padding-top:3%;
 }
