@@ -1,68 +1,54 @@
-<story><story_id>435</story_id>
-  <publication_info>DS_VI_326</publication_info>
-  <full_name>528 - 0.00 - DS_VI_326</full_name>
-  <informant_id>528</informant_id>
-  <informant_last_name>Rod</informant_last_name>
-  <informant_first_name>Jens</informant_first_name>
-  <informant_full_name>Jens Rod</informant_full_name>
-  <order_told>0.00</order_told>
-  <fieldtrip><id/>None recorded</fieldtrip>
+<informant><person_id>435</person_id>
+  <core_informant/>
+  <full_name>Peder Justesen Kristensen</full_name>
+  <last_name>Kristensen</last_name>
+  <first_name>Peder Justesen</first_name>
+  <gender>N/A</gender>
+  <birth_date>N/A</birth_date>
+  <death_date>N/A</death_date>
+  <occupations/>
+  <stories>
+    <story><story_id>794</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>435</informant_id>
+      <publication_info>DS_I_796</publication_info>
+      <full_name>435 - 0.00 - DS_I_796</full_name>
+      <url>data/stories/794.dfl</url>
+      <place_recorded><id>112</id>Dalby Nedre</place_recorded>
+      <places_mentioned>
+        <place><id>471</id>
+          <name>Randers</name>
+        </place>
+        <place><id>970</id>
+          <name>Vinstrup</name>
+        </place>
+      </places_mentioned>
+    </story>
+  </stories>
   <places>
-    <place><type>place_recorded</type>
-      <place_id>863</place_id>
-      <name>Sinding</name>
-      <display_name>Sinding (place recorded)</display_name>
+    <place><type>birth_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (birth place)</display_name>
+    </place>
+    <place><type>death_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (death place)</display_name>
+    </place>
+    <place><type>story_place</type>
+      <place_id>112</place_id>
+      <name>Dalby Nedre</name>
+      <display_name>Dalby Nedre (stories recorded here)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>970</place_id>
+      <name>Vinstrup</name>
+      <display_name>Vinstrup (mentioned in 1 story)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>471</place_id>
+      <name>Randers</name>
+      <display_name>Randers (mentioned in 1 story)</display_name>
     </place>
   </places>
-  <stories_mentioned>
-    <story><story_id>157</story_id>
-      <informant_id>241</informant_id>
-      <publication_info>DS_VI_897</publication_info>
-      <full_name>241 - 2.07 - DS_VI_897</full_name>
-      <url>data/stories/157.dfl</url>
-    </story>
-    <story><story_id>610</story_id>
-      <informant_id>448</informant_id>
-      <publication_info>DS_VI_323</publication_info>
-      <full_name>448 - 0.00 - DS_VI_323</full_name>
-      <url>data/stories/610.dfl</url>
-    </story>
-  </stories_mentioned>
-  <fielddiary_page_start>N/A</fielddiary_page_start>
-  <fielddiary_page_end>N/A</fielddiary_page_end>
-  <bibliographic_info/>
-  <bibliography_references/>
-  <annotation/>
-  <danish_manuscript/>
-  <english_manuscript/>
-  <danish_publication>En aften for mange &#229;r siden kj&#248;rte jeg igjennem Charlottenlund skov i Kragelund, og det var m&#229;ske blevet henad midnatstid. Jeg havde h&#248;rt, at det sp&#248;gede i skoven ved nattetid, men det br&#248;d jeg mig ikke videre om, for folk siger s&#229; meget. Men som jeg nu kj&#248;rer allerbedst, kommer en kulsort mand ud af skoven og kaster sig ind i det ene baghjul, og da stod vognen med &#233;t ganske stille, hestene kunde ikke rykke den et skridt l&#230;ngere. Jeg havde h&#248;rt, at n&#229;r man vender hovedselet&#246;jet p&#229; hesten, s&#229; har sp&#248;geriet ingen magt mere; det gjorde jeg da, og det hjalp ogs&#229;, ti jeg kj&#248;rte videre uden at se noget til den sorte mand.</danish_publication>
-  <english_publication>One night many years ago, I drove through Charlottenlund forest in Kragelund, and it was maybe around midnight. I had heard that there was haunting in the forest at night, but I didn&#8217;t worry about that, because people say so much. But now as I&#8217;m driving along, a coal black man comes out of the woods and throws himself under one of the back wheels, and then the wagon immediately came to a complete standstill, the horses couldn&#8217;t budge it one step farther. I had heard that when you turn the harness on the horse, then the haunting has no more power; so I did that and it also helped because I drove along without seeing the black man anymore.</english_publication>
-  <keywords>
-    <keyword><id>106</id><frequency>2</frequency><keyword>black</keyword>black</keyword>
-    <keyword><id>241</id><frequency>1</frequency><keyword>coal</keyword>coal</keyword>
-    <keyword><id>438</id><frequency>2</frequency><keyword>forest</keyword>forest</keyword>
-    <keyword><id>502</id><frequency>1</frequency><keyword>harness</keyword>harness</keyword>
-    <keyword><id>508</id><frequency>2</frequency><keyword>haunting</keyword>haunting</keyword>
-    <keyword><id>545</id><frequency>2</frequency><keyword>horse</keyword>horse</keyword>
-    <keyword><id>776</id><frequency>1</frequency><keyword>midnight</keyword>midnight</keyword>
-    <keyword><id>848</id><frequency>2</frequency><keyword>night</keyword>night</keyword>
-    <keyword><id>988</id><frequency>1</frequency><keyword>power</keyword>power</keyword>
-    <keyword><id>1311</id><frequency>1</frequency><keyword>wagon</keyword>wagon</keyword>
-    <keyword><id>1335</id><frequency>1</frequency><keyword>wheel</keyword>wheel</keyword>
-    <keyword><id>1360</id><frequency>1</frequency><keyword>woods</keyword>woods</keyword>
-  </keywords>
-  <etk_index><id>27</id>
-    <heading_danish>Om Fanden og forbund med ham</heading_danish>
-    <heading_english>About the Devil and being in league with the Devil</heading_english>
-  </etk_index>
-  <tango_indices>
-    <tango_index><id>54</id><display_name>Tools, Items and Conveyances: Wagon</display_name></tango_index>
-    <tango_index><id>59</id><display_name>Supernatural Beings: Ghost / Revenant</display_name></tango_index>
-    <tango_index><id>72</id><display_name>Animals: Farm animal</display_name></tango_index>
-    <tango_index><id>74</id><display_name>Animals: Horse</display_name></tango_index>
-    <tango_index><id>88</id><display_name>Actions or events: Haunting</display_name></tango_index>
-    <tango_index><id>112</id><display_name>Time, Season, Weather: Night </display_name></tango_index>
-    <tango_index><id>127</id><display_name>Resolution: Positive</display_name></tango_index>
-  </tango_indices>
-  <genre><id>2</id><name>Legend</name></genre>
-</story>
+</informant>

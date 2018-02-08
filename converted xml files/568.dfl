@@ -1,86 +1,62 @@
-<story><story_id>568</story_id>
-  <publication_info>DS_V_1265</publication_info>
-  <full_name>205 - 0.00 - DS_V_1265</full_name>
-  <informant_id>205</informant_id>
-  <informant_last_name>Mosen</informant_last_name>
-  <informant_first_name>Jens Kr. Kristensen</informant_first_name>
-  <informant_full_name>Jens Kr. Kristensen (Mossi-Jens) Mosen</informant_full_name>
-  <order_told>0.00</order_told>
-  <fieldtrip><id/>None recorded</fieldtrip>
+<informant><person_id>568</person_id>
+  <core_informant/>
+  <full_name>Peder  Jensen Skr&#230;dder</full_name>
+  <last_name>Jensen Skr&#230;dder</last_name>
+  <first_name>Peder </first_name>
+  <gender>m</gender>
+  <birth_date>N/A</birth_date>
+  <death_date>N/A</death_date>
+  <occupations/>
+  <stories>
+    <story><story_id>909</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>568</informant_id>
+      <publication_info>JAH_II_414</publication_info>
+      <full_name>568 - 0.00 - JAH_II_414</full_name>
+      <url>data/stories/909.dfl</url>
+      <place_recorded><id>436</id>N&#248;rre Vissing</place_recorded>
+      <places_mentioned>
+        <place><id>235</id>
+          <name>Hammel</name>
+        </place>
+        <place><id>929</id>
+          <name>Frisenborg</name>
+        </place>
+        <place><id>338</id>
+          <name>K&#248;benhavn</name>
+        </place>
+      </places_mentioned>
+    </story>
+  </stories>
   <places>
-    <place><type>place_recorded</type>
-      <place_id>455</place_id>
-      <name>&#216;ster Br&#248;nderslev</name>
-      <display_name>&#216;ster Br&#248;nderslev (place recorded)</display_name>
+    <place><type>birth_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (birth place)</display_name>
+    </place>
+    <place><type>death_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (death place)</display_name>
+    </place>
+    <place><type>story_place</type>
+      <place_id>436</place_id>
+      <name>N&#248;rre Vissing</name>
+      <display_name>N&#248;rre Vissing (stories recorded here)</display_name>
     </place>
     <place><type>place_mentioned</type>
-      <place_id>802</place_id>
-      <name>Hvilsh&#248;j</name>
-      <display_name>Hvilsh&#248;j (place mentioned)</display_name>
+      <place_id>338</place_id>
+      <name>K&#248;benhavn</name>
+      <display_name>K&#248;benhavn (mentioned in 1 story)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>929</place_id>
+      <name>Frisenborg</name>
+      <display_name>Frisenborg (mentioned in 1 story)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>235</place_id>
+      <name>Hammel</name>
+      <display_name>Hammel (mentioned in 1 story)</display_name>
     </place>
   </places>
-  <stories_mentioned>
-    <story><story_id>683</story_id>
-      <informant_id>495</informant_id>
-      <publication_info>DS_V_1195</publication_info>
-      <full_name>495 - 0.00 - DS_V_1195</full_name>
-      <url>data/stories/683.dfl</url>
-    </story>
-    <story><story_id>356</story_id>
-      <informant_id>90</informant_id>
-      <publication_info>DS_V_1232</publication_info>
-      <full_name>90 - 3.02 - DS_V_1232</full_name>
-      <url>data/stories/356.dfl</url>
-    </story>
-  </stories_mentioned>
-  <fielddiary_page_start>N/A</fielddiary_page_start>
-  <fielddiary_page_end>N/A</fielddiary_page_end>
-  <bibliographic_info/>
-  <bibliography_references/>
-  <annotation/>
-  <danish_manuscript/>
-  <english_manuscript/>
-  <danish_publication>Der var en karl, der tjente ved en g&#229;rdmand, men om det var i Hvilsh&#246;j eller i Kraghede, kan a ikke sige. Den mand var slem til at drikke. En dag vilde han til Sundby med korn, og karlen skulde med. S&#229; fik han jo for meget at drikke, og karlen m&#229;tte kj&#248;re vognen hjemad, men manden selv l&#229; bag i og var fuld. Da de kom til Jerslev broer nede ved Hvilsh&#246;j, og karlen ser ned til &#229;en, da st&#229;r der et kvindfolk og ramte ned med armene til vandet. Hendes h&#229;r h&#230;ngte lige ned om hovedet af hende. "Hvad Fanden er dether?" siger karlen. Da rejser hun sig lige op og kommer l&#248;bende hen og springer op p&#229; det ene &#248;g, og s&#229; kj&#248;rer han l&#248;bsk. Anden dagen gik de hen ogs&#229; efter det, og da fandt de et barn, som var druknet. Det kvindfolk havde vel put barnet i &#229;en og m&#229;ske druknet sig selv bag efter. Men det siges der ellers ikke noget om. A t&#230;nker det var et syn for, at barnet skulde findes. Det skal v&#230;re en sandf&#230;rdig historie.</danish_publication>
-  <english_publication>There was a farmhand who worked for a farmer, but if it was in Hvilsh&#248;j or in Kraghede, I can&#8217;t say. The farmer was a bad one to drink. One day he wanted to go to Sundby with grain, and the farmhand was supposed to come along. Then he drank too much and the farmhand had to drive the wagon home, but the man lay in the back and was drunk. When they got to Jerslev bridge near Hvilsh&#248;j and the farmhand looks down into the river, there is a woman who stood swirling about in the water with her arms. &#8220;What the devil is this?&#8221; says the farmhand. Then she gets up and runs over and jumps up on one of the jades, and then it&#8217;s a runaway horse. The next day they went out and then they found a child that had been drowned in the river. That woman had probably drowned the child and then drowned herself afterward. But there is nothing told about that. I think it was a portent that the child was to be found. It&#8217;s supposed to be a true story.</english_publication>
-  <keywords>
-    <keyword><id>46</id><frequency>1</frequency><keyword>arms</keyword>arms</keyword>
-    <keyword><id>144</id><frequency>1</frequency><keyword>bridge</keyword>bridge</keyword>
-    <keyword><id>219</id><frequency>3</frequency><keyword>children</keyword>children</keyword>
-    <keyword><id>306</id><frequency>2</frequency><keyword>day</keyword>day</keyword>
-    <keyword><id>351</id><frequency>1</frequency><keyword>drank</keyword>drank</keyword>
-    <keyword><id>355</id><frequency>1</frequency><keyword>drinking</keyword>drinking</keyword>
-    <keyword><id>358</id><frequency>3</frequency><keyword>drowning</keyword>drowning</keyword>
-    <keyword><id>359</id><frequency>1</frequency><keyword>drunkard</keyword>drunkard</keyword>
-    <keyword><id>395</id><frequency>5</frequency><keyword>farm_hand</keyword>farmhand</keyword>
-    <keyword><id>396</id><frequency>1</frequency><keyword>farmer</keyword>farmer</keyword>
-    <keyword><id>477</id><frequency>1</frequency><keyword>grain</keyword>grain</keyword>
-    <keyword><id>520</id><frequency>1</frequency><keyword>hell</keyword>hell</keyword>
-    <keyword><id>537</id><frequency>1</frequency><keyword>home</keyword>home</keyword>
-    <keyword><id>545</id><frequency>1</frequency><keyword>horse</keyword>horse</keyword>
-    <keyword><id>571</id><frequency>1</frequency><keyword>jade</keyword>jade</keyword>
-    <keyword><id>978</id><frequency>1</frequency><keyword>portent</keyword>portent</keyword>
-    <keyword><id>1034</id><frequency>1</frequency><keyword>river</keyword>river</keyword>
-    <keyword><id>1200</id><frequency>1</frequency><keyword>story</keyword>story</keyword>
-    <keyword><id>1311</id><frequency>1</frequency><keyword>wagon</keyword>wagon</keyword>
-    <keyword><id>1320</id><frequency>1</frequency><keyword>water</keyword>water</keyword>
-    <keyword><id>1356</id><frequency>2</frequency><keyword>woman</keyword>woman</keyword>
-  </keywords>
-  <etk_index><id>24</id>
-    <heading_danish>Kvindelige gjenf&#230;rd</heading_danish>
-    <heading_english>Female revenants</heading_english>
-  </etk_index>
-  <tango_indices>
-    <tango_index><id>7</id><display_name>People: Farmer</display_name></tango_index>
-    <tango_index><id>9</id><display_name>People: Farmhand / Shepherd</display_name></tango_index>
-    <tango_index><id>41</id><display_name>Places: Road</display_name></tango_index>
-    <tango_index><id>42</id><display_name>Places: Stream / River</display_name></tango_index>
-    <tango_index><id>54</id><display_name>Tools, Items and Conveyances: Wagon</display_name></tango_index>
-    <tango_index><id>59</id><display_name>Supernatural Beings: Ghost / Revenant</display_name></tango_index>
-    <tango_index><id>72</id><display_name>Animals: Farm animal</display_name></tango_index>
-    <tango_index><id>74</id><display_name>Animals: Horse</display_name></tango_index>
-    <tango_index><id>88</id><display_name>Actions or events: Haunting</display_name></tango_index>
-    <tango_index><id>128</id><display_name>Resolution: Negative</display_name></tango_index>
-    <tango_index><id>131</id><display_name>Stylistics: Direct Conversation</display_name></tango_index>
-  </tango_indices>
-  <genre><id>2</id><name>Legend</name></genre>
-</story>
+</informant>

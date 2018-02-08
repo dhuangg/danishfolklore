@@ -1,80 +1,63 @@
-<story><story_id>437</story_id>
-  <publication_info>DS_VII_1183</publication_info>
-  <full_name>212 - 0.00 - DS_VII_1183</full_name>
-  <informant_id>212</informant_id>
-  <informant_last_name>Nielsen</informant_last_name>
-  <informant_first_name>A. C.</informant_first_name>
-  <informant_full_name>A. C. Nielsen</informant_full_name>
-  <order_told>0.00</order_told>
-  <fieldtrip><id/>None recorded</fieldtrip>
+<informant><person_id>437</person_id>
+  <core_informant/>
+  <full_name>L&#230;rer T. Kristensen</full_name>
+  <last_name>Kristensen</last_name>
+  <first_name>T.</first_name>
+  <gender>N/A</gender>
+  <birth_date>N/A</birth_date>
+  <death_date>N/A</death_date>
+  <occupations/>
+  <stories>
+    <story><story_id>841</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>437</informant_id>
+      <publication_info>DS_IV_1451</publication_info>
+      <full_name>437 - 0.00 - DS_IV_1451</full_name>
+      <url>data/stories/841.dfl</url>
+      <place_recorded><id>857</id>R&#248;nslund</place_recorded>
+      <places_mentioned>
+        <place><id>979</id>
+          <name>R&#248;rb&#230;k skov</name>
+        </place>
+      </places_mentioned>
+    </story>
+    <story><story_id>842</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>437</informant_id>
+      <publication_info>DS_V_97</publication_info>
+      <full_name>437 - 0.00 - DS_V_97</full_name>
+      <url>data/stories/842.dfl</url>
+      <place_recorded><id>857</id>R&#248;nslund</place_recorded>
+      <places_mentioned>
+        <place><id>980</id>
+          <name>Tyregod</name>
+        </place>
+      </places_mentioned>
+    </story>
+  </stories>
   <places>
-    <place><type>place_recorded</type>
-      <place_id>828</place_id>
-      <name>Malle, L&#248;gst&#248;r</name>
-      <display_name>Malle, L&#248;gst&#248;r (place recorded)</display_name>
+    <place><type>birth_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (birth place)</display_name>
+    </place>
+    <place><type>death_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (death place)</display_name>
+    </place>
+    <place><type>story_place</type>
+      <place_id>857</place_id>
+      <name>R&#248;nslund</name>
+      <display_name>R&#248;nslund (stories recorded here)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>980</place_id>
+      <name>Tyregod</name>
+      <display_name>Tyregod (mentioned in 1 story)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>979</place_id>
+      <name>R&#248;rb&#230;k skov</name>
+      <display_name>R&#248;rb&#230;k skov (mentioned in 1 story)</display_name>
     </place>
   </places>
-  <stories_mentioned>
-    <story><story_id>145</story_id>
-      <informant_id>241</informant_id>
-      <publication_info>DS_VII_1182</publication_info>
-      <full_name>241 - 1.04 - DS_VII_1182</full_name>
-      <url>data/stories/145.dfl</url>
-    </story>
-    <story><story_id>705</story_id>
-      <informant_id>124</informant_id>
-      <publication_info>DS_VII_1179</publication_info>
-      <full_name>124 - 0.00 - DS_VII_1179</full_name>
-      <url>data/stories/705.dfl</url>
-    </story>
-    <story><story_id>709</story_id>
-      <informant_id>356</informant_id>
-      <publication_info>DS_VII_1180</publication_info>
-      <full_name>356 - 0.00 - DS_VII_1180</full_name>
-      <url>data/stories/709.dfl</url>
-    </story>
-  </stories_mentioned>
-  <fielddiary_page_start>N/A</fielddiary_page_start>
-  <fielddiary_page_end>N/A</fielddiary_page_end>
-  <bibliographic_info/>
-  <bibliography_references/>
-  <annotation/>
-  <danish_manuscript/>
-  <english_manuscript/>
-  <danish_publication>Det kan undertiden h&#230;nde i en bondeg&#229;rd, at enhver sp&#230;dekalv, som s&#230;ttes ind i en vis bestemt b&#248;vl for sig selv, d&#248;er, inden den kan bindes i b&#229;s. Det bedste middel derimod er en gang at f&#229; &#233;n til at for&#230;re sig en kalv. Men slige uheld kan ogs&#229; skyldes visse &#229;rsager og afhj&#230;lpes ved at fjerne disse. S&#229;ledes s&#246;gte en gang en mand til en klog kone og fortalte hende, at alle hans kalve d&#248;de, som kom til at st&#229; i den og den sti, og han bad hende da om et r&#229;d derfor. Ja, det havde sine gode grunde, svarede konen, nu skulde han bare gj&#248;re rent i kalvestien, s&#229; fandt de nok en tilhuggen s&#230;ttesten (kantsten), den skulde tages bort, ti s&#229; l&#230;nge den var der, kunde ingen kalv leve i stien, men han m&#229;tte ikke give tabt, f&#246;r han fandt stenen, da det var ganske bestemt, at den fandtes der. Manden tog nu hjem med den besked og gav sig straks til at rydde op i kalvestien, men han gravede og gravede og fandt ingen sten. Endelig langt om l&#230;nge, da han var kommen to alen ned i jorden, fandt han ganske rigtig en lang, smal tilhuggen sten. Den blev nu tagen bort, og siden d&#248;de aldrig nogen kalv i stien.</danish_publication>
-  <english_publication>Sometimes it happens at farms that a newborn calf that is put in a manger alone dies before it can be put into a stall. The best defense against that is to get someone to give you a calf. But this kind of misfortune can also be due to certain things, and the situation can be improved by getting rid of these things. That's how a man once went and sought help from a cunning woman and he told her that his calves died if they stood in such and such a stall, and he asked her for advice. Yes, there were reasons for that, he should go ahead and clean the calf stall, they would likely find a carved runner stone, they should take that away, because as long as it was there, no calf would be able to live in the stall, but he must not stop until he found the stone, because it was quite certain it was there. The man went home with this message and immediately began cleaning the calf stall, but he dug and dug and didn't find a stone. Finally, after a long while, when he had gotten down four feet, he sure enough found a long, thin, carved stone. That was now taken away and after that not a single calf died in the stall.</english_publication>
-  <keywords>
-    <keyword><id>12</id><frequency>1</frequency><keyword>advice</keyword>advice</keyword>
-    <keyword><id>169</id><frequency>5</frequency><keyword>calf</keyword>calf</keyword>
-    <keyword><id>182</id><frequency>2</frequency><keyword>carved</keyword>carved</keyword>
-    <keyword><id>286</id><frequency>1</frequency><keyword>cunning_folk</keyword>Cunning Folk</keyword>
-    <keyword><id>317</id><frequency>3</frequency><keyword>death</keyword>death</keyword>
-    <keyword><id>326</id><frequency>2</frequency><keyword>digging</keyword>digging</keyword>
-    <keyword><id>394</id><frequency>1</frequency><keyword>farm</keyword>farm</keyword>
-    <keyword><id>537</id><frequency>1</frequency><keyword>home</keyword>home</keyword>
-    <keyword><id>680</id><frequency>2</frequency><keyword>lamb</keyword>lamb</keyword>
-    <keyword><id>739</id><frequency>1</frequency><keyword>manger</keyword>manger</keyword>
-    <keyword><id>770</id><frequency>1</frequency><keyword>message</keyword>message</keyword>
-    <keyword><id>788</id><frequency>1</frequency><keyword>misfortune</keyword>misfortune</keyword>
-    <keyword><id>832</id><frequency>1</frequency><keyword>newborn</keyword>newborn</keyword>
-    <keyword><id>1186</id><frequency>6</frequency><keyword>stall</keyword>stall</keyword>
-    <keyword><id>1195</id><frequency>4</frequency><keyword>stone</keyword>stone</keyword>
-    <keyword><id>1252</id><frequency>1</frequency><keyword>thin</keyword>thin</keyword>
-  </keywords>
-  <etk_index><id>29</id>
-    <heading_danish>Hekse og deres idr&#230;tter</heading_danish>
-    <heading_english>Witches and their sport</heading_english>
-  </etk_index>
-  <tango_indices>
-    <tango_index><id>6</id><display_name>People: Cunning Folk</display_name></tango_index>
-    <tango_index><id>7</id><display_name>People: Farmer</display_name></tango_index>
-    <tango_index><id>25</id><display_name>Places: Barn</display_name></tango_index>
-    <tango_index><id>70</id><display_name>Animals: Cow</display_name></tango_index>
-    <tango_index><id>72</id><display_name>Animals: Farm animal</display_name></tango_index>
-    <tango_index><id>83</id><display_name>Actions or events: Death</display_name></tango_index>
-    <tango_index><id>84</id><display_name>Actions or events: Disease</display_name></tango_index>
-    <tango_index><id>99</id><display_name>Actions or events: Witchcraft</display_name></tango_index>
-    <tango_index><id>127</id><display_name>Resolution: Positive</display_name></tango_index>
-  </tango_indices>
-  <genre><id>2</id><name>Legend</name></genre>
-</story>
+</informant>

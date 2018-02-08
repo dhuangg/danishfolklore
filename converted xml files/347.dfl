@@ -1,154 +1,54 @@
-<story><story_id>347</story_id>
-  <publication_info>DS_II_A_98</publication_info>
-  <full_name>90 - 2.15 - DS_II_A_98</full_name>
-  <informant_id>90</informant_id>
-  <informant_last_name>Jensdatter</informant_last_name>
-  <informant_first_name>(Ane) Margrete</informant_first_name>
-  <informant_full_name>(Ane) Margrete Jensdatter</informant_full_name>
-  <order_told>2.15</order_told>
-  <fieldtrip><id>9</id>October 1889</fieldtrip>
-  <fieldtrip_start_date>1889-10-25</fieldtrip_start_date>
-  <fieldtrip_end_date>1889-11-18</fieldtrip_end_date>
+<informant><person_id>347</person_id>
+  <core_informant/>
+  <full_name>Pastor N. P. Christensen</full_name>
+  <last_name>Christensen</last_name>
+  <first_name>N. P.</first_name>
+  <gender>N/A</gender>
+  <birth_date>N/A</birth_date>
+  <death_date>N/A</death_date>
+  <occupations/>
+  <stories>
+    <story><story_id>731</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>347</informant_id>
+      <publication_info>DS_II_G_88</publication_info>
+      <full_name>347 - 0.00 - DS_II_G_88</full_name>
+      <url>data/stories/731.dfl</url>
+      <place_recorded><id>555</id>Smidstrup</place_recorded>
+      <places_mentioned/>
+    </story>
+    <story><story_id>893</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>347</informant_id>
+      <publication_info>DS_II_J_248</publication_info>
+      <full_name>347 - 0.00 - DS_II_J_248</full_name>
+      <url>data/stories/893.dfl</url>
+      <place_recorded><id>555</id>Smidstrup</place_recorded>
+      <places_mentioned>
+        <place><id>989</id>
+          <name>M&#248;lby</name>
+        </place>
+      </places_mentioned>
+    </story>
+  </stories>
   <places>
-    <place><type>place_recorded</type>
-      <place_id>405</place_id>
-      <name>Mejlby</name>
-      <display_name>Mejlby (place recorded)</display_name>
+    <place><type>birth_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (birth place)</display_name>
+    </place>
+    <place><type>death_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (death place)</display_name>
+    </place>
+    <place><type>story_place</type>
+      <place_id>555</place_id>
+      <name>Smidstrup</name>
+      <display_name>Smidstrup (stories recorded here)</display_name>
     </place>
     <place><type>place_mentioned</type>
-      <place_id>540</place_id>
-      <name>Skj&#248;dstrup</name>
-      <display_name>Skj&#248;dstrup (place mentioned)</display_name>
+      <place_id>989</place_id>
+      <name>M&#248;lby</name>
+      <display_name>M&#248;lby (mentioned in 1 story)</display_name>
     </place>
   </places>
-  <stories_mentioned>
-    <story><story_id>220</story_id>
-      <informant_id>235</informant_id>
-      <publication_info>DS_II_A_57</publication_info>
-      <full_name>235 - 1.01 - DS_II_A_57</full_name>
-      <url>data/stories/220.dfl</url>
-    </story>
-    <story><story_id>388</story_id>
-      <informant_id>123</informant_id>
-      <publication_info>DS_I_830</publication_info>
-      <full_name>123 - 2.14 - DS_I_830</full_name>
-      <url>data/stories/388.dfl</url>
-    </story>
-    <story><story_id>571</story_id>
-      <informant_id>240</informant_id>
-      <publication_info>DS_II_A_95</publication_info>
-      <full_name>240 - 0.00 - DS_II_A_95</full_name>
-      <url>data/stories/571.dfl</url>
-    </story>
-    <story><story_id>572</story_id>
-      <informant_id>240</informant_id>
-      <publication_info>DS_II_A_96</publication_info>
-      <full_name>240 - 0.00 - DS_II_A_96</full_name>
-      <url>data/stories/572.dfl</url>
-    </story>
-    <story><story_id>608</story_id>
-      <informant_id>352</informant_id>
-      <publication_info>DS_II_A_91</publication_info>
-      <full_name>352 - 0.00 - DS_II_A_91</full_name>
-      <url>data/stories/608.dfl</url>
-    </story>
-    <story><story_id>714</story_id>
-      <informant_id>68</informant_id>
-      <publication_info>DS_II_A_106</publication_info>
-      <full_name>68 - 0.00 - DS_II_A_106</full_name>
-      <url>data/stories/714.dfl</url>
-    </story>
-    <story><story_id>281</story_id>
-      <informant_id>235</informant_id>
-      <publication_info>DS_II_A_100</publication_info>
-      <full_name>235 - 1.60 - DS_II_A_100</full_name>
-      <url>data/stories/281.dfl</url>
-    </story>
-    <story><story_id>776</story_id>
-      <informant_id>402</informant_id>
-      <publication_info>DS_II_A_50</publication_info>
-      <full_name>402 - 0.00 - DS_II_A_50</full_name>
-      <url>data/stories/776.dfl</url>
-    </story>
-    <story><story_id>498</story_id>
-      <informant_id>455</informant_id>
-      <publication_info>DS_II_A_59</publication_info>
-      <full_name>455 - 0.00 - DS_II_A_59</full_name>
-      <url>data/stories/498.dfl</url>
-    </story>
-    <story><story_id>377</story_id>
-      <informant_id>123</informant_id>
-      <publication_info>DS_I_959</publication_info>
-      <full_name>123 - 2.03 - DS_I_959</full_name>
-      <url>data/stories/377.dfl</url>
-    </story>
-    <story><story_id>385</story_id>
-      <informant_id>123</informant_id>
-      <publication_info>DS_I_767</publication_info>
-      <full_name>123 - 2.11 - DS_I_767</full_name>
-      <url>data/stories/385.dfl</url>
-    </story>
-  </stories_mentioned>
-  <fielddiary_page_start>4785b</fielddiary_page_start>
-  <fielddiary_page_end>4786a</fielddiary_page_end>
-  <bibliographic_info/>
-  <bibliography_references/>
-  <annotation>In this legend, Margrete returns to the theme of mound dwellers and other supernatural beings, in this case elves. Given the prevalence of mound folk in Margrete's repertoire, it is quite likely that she has conflated the two categories of supernatural beings. The description of the elves presented here is more in line with other descriptions of mound dwellers. In other legends, elves are presented as individualistic, seductive female figures, whose backs appear as hollowed out or rotten tree trunks (DS II A 50; DS II A 59). Elves do not generally appear as collective beings as they do here, a characteristic of the mound folk. Both Kirsten Marie Pedersdatter and Peder Johansen engage in a similar conflation of the categories of elves and mound dwellers (KMP 1.60; PJ 2.03).
-
-     In this story, the elves disrupt the economic productivity of the farm by interfering with the boy's ability to look after the cattle (PJ 2.11). It is only through the quick intervention of the farmhand who, coincidentally, is also engaged in normal farm-based economic activity, that the boy is saved. The encounter with the elves marks the boy for the rest of his life, and underscores the continuing and potentially long-lasting danger that these supernatural beings pose. 
-
-     The relationship Margrete draws between elves and alder wood builds on a common false etymology. The word Danish word for elves, elvefolk, is often pronounced ellefolk. The presumed root would link it to elletr&#230; (alder wood). The root of elvefolk actually derives from the old common Nordic root, &#225;lfr. As a result of the false etymology, elves are often linked to stands of alder wood in legend.</annotation>
-  <danish_manuscript>Ved en H&#248;j inde ved Skj&#248;dstrup var der
-s. mange ellefolk. Der var s. mange
-Elle ved siden af. De danste s. gj&#230;vt
-.
-.
-.
---
-4786A
-oppe ved H&#248;jen. S. var der en Dreng der gik
-og gandet Kreaturerne, s. havde h. saa
-den Plaser af at se paa dem. S. om-
-kredsede de Drengen, s. h. kunde ikke
-komme ud nogen steder. S. deres Karl
-h. plovet knap ved, s. red h. ind i Kred
-sen og snappet Drengen og red hjem med
-ham. Men Dr. h. var s. s&#230;r alle tider
-siden. H. snakkede altid om, at h. vilde
-ud til [Kreat] Ellefolkene, det var altid
-hans Mundheld.</danish_manuscript>
-  <english_manuscript>At a mound near Skj&#248;dstrup, there were a lot of elves. There were a lot of alder wood nearby. They danced so happily up on the mound. Then there was a boy who went and took care of the cattle, and he had the pleasure of watching them. Then they surrounded the boy, so there was no way for him to get out. Their farmhand was plowing right nearby and then he rode into the circle and grabbed the boy and rode home with him. But the boy was so strange after that. He always used to say that he wanted to go out to the elves.</english_manuscript>
-  <danish_publication>Nede ved Skj&#246;dstrup var der en h&#246;j, der var s&#229; mange elle ved siden af, og der var mange ellefolk. De dandste s&#229; gj&#230;vt oppe ved h&#246;jen. S&#229; var der en dreng, der gik og gandede (o: vogtede) kreaturerne, han havde s&#229;dan plaser af at se p&#229; dem. Til sidst omkredsede de drengen, og han kunde ikke komme ud nogen steder. Deres karl han plovede knap derved, og s&#229; red han ind i kredsen og snappede drengen og red hjem med ham. Men drengen han var s&#229; s&#230;r alle tider siden. Det var al tid hans mundheld, han vilde ud til ellefolkene.</danish_publication>
-  <english_publication>Down near Skj&#248;dstrup there was a mound, there was so much alder wood near it, and there were a lot of elves. They danced so happily up on the mound. Then there was a boy who went and took care of the cattle, he really enjoyed watching the elves. Finally they surrounded the boy and he couldn&#8217;t get out anywhere. Their farmhand was plowing right nearby and then he rode into the circle and grabbed the boy and rode home with him. But the boy was so strange after that. He always used to say that he wanted to go out to the elves.</english_publication>
-  <keywords>
-    <keyword><id>17</id><frequency>1</frequency><keyword>alderwood</keyword>alderwood</keyword>
-    <keyword><id>130</id><frequency>4</frequency><keyword>boy</keyword>boy</keyword>
-    <keyword><id>190</id><frequency>1</frequency><keyword>cattle</keyword>cattle</keyword>
-    <keyword><id>230</id><frequency>1</frequency><keyword>circle</keyword>circle</keyword>
-    <keyword><id>297</id><frequency>1</frequency><keyword>dancing</keyword>dancing</keyword>
-    <keyword><id>373</id><frequency>2</frequency><keyword>elf</keyword>elf</keyword>
-    <keyword><id>395</id><frequency>1</frequency><keyword>farm_hand</keyword>farmhand</keyword>
-    <keyword><id>537</id><frequency>1</frequency><keyword>home</keyword>home</keyword>
-    <keyword><id>804</id><frequency>2</frequency><keyword>mound</keyword>mound</keyword>
-    <keyword><id>966</id><frequency>1</frequency><keyword>plowing</keyword>plowing</keyword>
-    <keyword><id>1030</id><frequency>2</frequency><keyword>riding</keyword>riding</keyword>
-  </keywords>
-  <etk_index><id>2</id>
-    <heading_danish>Ellefolk</heading_danish>
-    <heading_english>Elves</heading_english>
-  </etk_index>
-  <tango_indices>
-    <tango_index><id>4</id><display_name>People: Boy</display_name></tango_index>
-    <tango_index><id>9</id><display_name>People: Farmhand / Shepherd</display_name></tango_index>
-    <tango_index><id>30</id><display_name>Places: Field</display_name></tango_index>
-    <tango_index><id>38</id><display_name>Places: Mound</display_name></tango_index>
-    <tango_index><id>51</id><display_name>Tools, Items and Conveyances: Plow</display_name></tango_index>
-    <tango_index><id>63</id><display_name>Supernatural Beings: Mound folk</display_name></tango_index>
-    <tango_index><id>82</id><display_name>Actions or events: Dancing</display_name></tango_index>
-    <tango_index><id>89</id><display_name>Actions or events: Injury</display_name></tango_index>
-    <tango_index><id>90</id><display_name>Actions or events: Kidnapping</display_name></tango_index>
-    <tango_index><id>128</id><display_name>Resolution: Negative</display_name></tango_index>
-    <tango_index><id>133</id><display_name>Actions or events: Seduction</display_name></tango_index>
-  </tango_indices>
-  <genre><id>2</id><name>Legend</name></genre>
-</story>
+</informant>

@@ -1,97 +1,46 @@
-<story><story_id>390</story_id>
-  <publication_info>DS_IV_121</publication_info>
-  <full_name>123 - 2.16 - DS_IV_121</full_name>
-  <informant_id>123</informant_id>
-  <informant_last_name>Johansen</informant_last_name>
-  <informant_first_name>Peder</informant_first_name>
-  <informant_full_name>Peder Johansen</informant_full_name>
-  <order_told>2.16</order_told>
-  <fieldtrip><id>2</id>Feb 1888</fieldtrip>
-  <fieldtrip_start_date>1888-02-04</fieldtrip_start_date>
-  <fieldtrip_end_date>1888-02-17</fieldtrip_end_date>
+<informant><person_id>390</person_id>
+  <core_informant/>
+  <full_name>Skovrider Mads Holdt</full_name>
+  <last_name>Holdt</last_name>
+  <first_name>Mads</first_name>
+  <gender>N/A</gender>
+  <birth_date>N/A</birth_date>
+  <death_date>N/A</death_date>
+  <occupations/>
+  <stories>
+    <story><story_id>687</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>390</informant_id>
+      <publication_info>DS_IV_1762</publication_info>
+      <full_name>390 - 0.00 - DS_IV_1762</full_name>
+      <url>data/stories/687.dfl</url>
+      <place_recorded><id>847</id>P&#229;b&#248;l</place_recorded>
+      <places_mentioned>
+        <place><id>1050</id>
+          <name>Hejnsvig</name>
+        </place>
+      </places_mentioned>
+    </story>
+  </stories>
   <places>
-    <place><type>place_recorded</type>
-      <place_id>175</place_id>
-      <name>Fuldbro m&#248;lle</name>
-      <display_name>Fuldbro m&#248;lle (place recorded)</display_name>
+    <place><type>birth_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (birth place)</display_name>
+    </place>
+    <place><type>death_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (death place)</display_name>
+    </place>
+    <place><type>story_place</type>
+      <place_id>847</place_id>
+      <name>P&#229;b&#248;l</name>
+      <display_name>P&#229;b&#248;l (stories recorded here)</display_name>
     </place>
     <place><type>place_mentioned</type>
-      <place_id>362</place_id>
-      <name>Leg&#229;rdslyst</name>
-      <display_name>Leg&#229;rdslyst (place mentioned)</display_name>
-    </place>
-    <place><type>place_mentioned</type>
-      <place_id>418</place_id>
-      <name>Moss&#248;</name>
-      <display_name>Moss&#248; (place mentioned)</display_name>
+      <place_id>1050</place_id>
+      <name>Hejnsvig</name>
+      <display_name>Hejnsvig (mentioned in 1 story)</display_name>
     </place>
   </places>
-  <stories_mentioned>
-    <story><story_id>204</story_id>
-      <informant_id>241</informant_id>
-      <publication_info>DSnr_II_G_250</publication_info>
-      <full_name>241 - 4.32 - DSnr_II_G_250</full_name>
-      <url>data/stories/204.dfl</url>
-    </story>
-  </stories_mentioned>
-  <fielddiary_page_start>3777a</fielddiary_page_start>
-  <fielddiary_page_end>3777b</fielddiary_page_end>
-  <bibliographic_info>http://www.nomos-dk.dk/skraep/1200-1400.htm 
-http://www.ecomuseum.dk/historier/enevaeldens_afvikling.htm</bibliographic_info>
-  <bibliography_references/>
-  <annotation>Peder situates historical events within the immediate landscape in this story. In this manner, he signals the importance of the Moss&#248; area to the growing sense of Danish nationalism and, through his narrative, vicariously takes part in one of the few successful battles the Danes waged against Prussia.
-
-     In 1888, battles with Prussians were still fresh in the minds of many Danes, and in particular Jutlanders, given the crushing defeat that Denmark suffered at the hands of Bismark's army in 1864, including the slaughter at Dybb&#248;l (April 18, 1864), and the subsequent loss of Schleswig and Holstein. The political turmoil caused by the ongoing discussion of the Schleswig and Holstein question reverberated for decades in the newly forming Danish state. 
-
-     Niels Ebbesen, a hero from the fourteenth century, and the Danish "victory" at Isted over the German-backed Schlewsig-Holstein army on July 25, 1850, became narrative touchstones for many Danes who were rightfully worried about the looming threat of Bismarck's Germany to the south. Peder makes the connection between Niels Ebbesen and 1849 explicit in his story, since in 1849 there were over two hundred German soldiers housed at Leg&#229;rdslyst, a farm to the west of Vrold, and quite close to Fuldbro M&#248;lle. The skirmish at Fuldbro M&#248;lle, on the bridge that ran directly in front of where Peder lived, was with German soldiers quartered at Leg&#229;rdslyst.
-
-     Niels Ebbesen is one of the best known Danish freedom fighters. He fought against Count Gerhad from Holstein in Randers in April 1340, and died in the fort at Skanderborg on the first of November of that same year. Among the earliest descriptions of Niels Ebbesen's deeds in this battle are those in the nearly contemporaneous Jyske Kr&#248;nike (1342) and the slightly later Sj&#230;llandske Kr&#248;nike (1367). Along with various legends, Niels Ebbesen also appears in ballads (see DgF 156). Later references to Niels Ebbesen include a play by Kaj Munk (1944). A frigate in the post-WWII Danish navy is also named after him. Perhaps the only better known Danish hero is Holger Danske (JPP 4.32).</annotation>
-  <danish_manuscript>Paa Legaardslyst Mark er en hel Hoben K&#230;m
-pegrave. Se der menes der, at Niels Ebbe
-
-3777B
-sen ligger begravet og der faldt h. Se da
-stod Mos S&#248; i Forbindelse med Havet s.
-de kunde sejle derop og alle Engene var
-under Vand. Danskerne havde en Flaade
-og der kunde de s&#248;ge ud paa da det kneb
-men Tyskerne det satte bag efter de  sad
-fast i D&#248;jet. Paa den Maade vandt
-Dansk. slaget. Men Niels maatte blive
-der og s. rejste de ham de Sten. Der findes
-ogsaa Skandser paa det Sted.
-</danish_manuscript>
-  <english_manuscript>On Leg&#229;rdslyst field there's a whole bunch of warrior graves. They think that Niels Ebbesen is buried there and that's where he fell. You see, at that time, Mos lake was connected to the ocean, so they could sail up there, and all the meadows were under water. The Danes had a raft that they could get up on when the going got rough, but the Germans who were after them got stuck in the mud. The Danes won the battle that way. But Niels had to stay there, and so they raised a stone for him. There are also some battlements at the same place.</english_manuscript>
-  <danish_publication>P&#229; Leg&#229;rdslyst mark er en hel hoben kj&#230;mpegrave, og der menes Niels Ebbesen at v&#230;re begravet, for det var der, han faldt. Se, da stod Mos s&#248; i forbindelse med havet, s&#229; de kunde sejle derop, og alle engene var under vand. Danskerne havde en fl&#229;de, og der kunde de s&#248;ge ud p&#229;, da det kneb, men Tyskerne, der satte bag efter, de sad fast i dyndet. P&#229; den m&#229;de vandt Danskerne slaget. Men Niels m&#229;tte blive der, og s&#229; rejste de ham de sten. Der findes ogs&#229; skandser p&#229; det samme sted.</danish_publication>
-  <english_publication>On Leg&#229;rdslyst field there&#8217;s a whole bunch of warrior graves, and it's believed that Niels Ebbesen is buried there because that was where he fell. You see, at that time, Mos lake was connected to the ocean, so they could sail up there, and all the meadows were under water. The Danes had a raft that they could get up on when the going got rough, but the Germans who were after them, got stuck in the mud. The Danes won the battle that way. But Niels had to stay there, and so they raised a stone for him. There are also some battlements at the same place.</english_publication>
-  <keywords>
-    <keyword><id>77</id><frequency>1</frequency><keyword>battle</keyword>battle</keyword>
-    <keyword><id>87</id><frequency>1</frequency><keyword>belief</keyword>belief</keyword>
-    <keyword><id>158</id><frequency>1</frequency><keyword>burial</keyword>burial</keyword>
-    <keyword><id>392</id><frequency>1</frequency><keyword>fall</keyword>fall</keyword>
-    <keyword><id>410</id><frequency>1</frequency><keyword>field</keyword>field</keyword>
-    <keyword><id>462</id><frequency>1</frequency><keyword>german</keyword>german</keyword>
-    <keyword><id>483</id><frequency>1</frequency><keyword>grave</keyword>grave</keyword>
-    <keyword><id>679</id><frequency>1</frequency><keyword>lake</keyword>lake</keyword>
-    <keyword><id>764</id><frequency>1</frequency><keyword>meadow</keyword>meadow</keyword>
-    <keyword><id>814</id><frequency>1</frequency><keyword>mud</keyword>mud</keyword>
-    <keyword><id>834</id><frequency>1</frequency><keyword>niels</keyword>Niels</keyword>
-    <keyword><id>838</id><frequency>1</frequency><keyword>niels_ebbesen</keyword>Niels Ebbesen</keyword>
-    <keyword><id>872</id><frequency>1</frequency><keyword>ocean</keyword>ocean</keyword>
-    <keyword><id>1060</id><frequency>1</frequency><keyword>sailing</keyword>sailing</keyword>
-    <keyword><id>1195</id><frequency>1</frequency><keyword>stone</keyword>stone</keyword>
-    <keyword><id>1319</id><frequency>1</frequency><keyword>warrior</keyword>warrior</keyword>
-    <keyword><id>1320</id><frequency>1</frequency><keyword>water</keyword>water</keyword>
-  </keywords>
-  <etk_index><id>16</id>
-    <heading_danish>Sm&#229;konger og deres fejder. Konger. Fjenders indfald</heading_danish>
-    <heading_english>Small kings and their feuds. Kings. Enemy invasions</heading_english>
-  </etk_index>
-  <tango_indices>
-    <tango_index><id>10</id><display_name>People: Foreigner</display_name></tango_index>
-    <tango_index><id>20</id><display_name>People: Strong Man / Hero</display_name></tango_index>
-    <tango_index><id>30</id><display_name>Places: Field</display_name></tango_index>
-    <tango_index><id>127</id><display_name>Resolution: Positive</display_name></tango_index>
-  </tango_indices>
-  <genre><id>2</id><name>Legend</name></genre>
-</story>
+</informant>

@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<informant person_id="332">
+<informant><person_id>332</person_id>
   <core_informant/>
   <full_name>Marie Kirstine Birk</full_name>
   <last_name>Birk</last_name>
@@ -9,56 +8,56 @@
   <death_date>N/A</death_date>
   <occupations/>
   <stories>
-    <story story_id="707" secondary_informant="0">
+    <story><story_id>707</story_id><secondary_informant>0</secondary_informant>
       <informant_id>332</informant_id>
       <publication_info>DS_IV_1510</publication_info>
       <full_name>332 - 0.00 - DS_IV_1510</full_name>
       <url>data/stories/707.dfl</url>
-      <place_recorded id="422">Navtrup</place_recorded>
+      <place_recorded><id>422</id>Navtrup</place_recorded>
       <places_mentioned>
-        <place id="1053">
-          <name>Klode m&#xF8;lle</name>
+        <place><id>1053</id>
+          <name>Klode m&#248;lle</name>
         </place>
       </places_mentioned>
     </story>
-    <story story_id="708" secondary_informant="0">
+    <story><story_id>708</story_id><secondary_informant>0</secondary_informant>
       <informant_id>332</informant_id>
       <publication_info>DS_IV_1512</publication_info>
       <full_name>332 - 0.00 - DS_IV_1512</full_name>
       <url>data/stories/708.dfl</url>
-      <place_recorded id="422">Navtrup</place_recorded>
+      <place_recorded><id>422</id>Navtrup</place_recorded>
       <places_mentioned>
-        <place id="1054">
-          <name>R&#xF8;verstuen i Borris</name>
+        <place><id>1054</id>
+          <name>R&#248;verstuen i Borris</name>
         </place>
       </places_mentioned>
     </story>
   </stories>
   <places>
-    <place type="birth_place">
+    <place><type>birth_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (birth place)</display_name>
     </place>
-    <place type="death_place">
+    <place><type>death_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (death place)</display_name>
     </place>
-    <place type="story_place">
+    <place><type>story_place</type>
       <place_id>422</place_id>
       <name>Navtrup</name>
       <display_name>Navtrup (stories recorded here)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>1054</place_id>
-      <name>R&#xF8;verstuen i Borris</name>
-      <display_name>R&#xF8;verstuen i Borris (mentioned in 1 story)</display_name>
+      <name>R&#248;verstuen i Borris</name>
+      <display_name>R&#248;verstuen i Borris (mentioned in 1 story)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>1053</place_id>
-      <name>Klode m&#xF8;lle</name>
-      <display_name>Klode m&#xF8;lle (mentioned in 1 story)</display_name>
+      <name>Klode m&#248;lle</name>
+      <display_name>Klode m&#248;lle (mentioned in 1 story)</display_name>
     </place>
   </places>
 </informant>

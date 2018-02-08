@@ -1,69 +1,54 @@
-<story><story_id>341</story_id>
-  <publication_info>JAH_VI_753</publication_info>
-  <full_name>90 - 2.09 - JAH_VI_753</full_name>
-  <informant_id>90</informant_id>
-  <informant_last_name>Jensdatter</informant_last_name>
-  <informant_first_name>(Ane) Margrete</informant_first_name>
-  <informant_full_name>(Ane) Margrete Jensdatter</informant_full_name>
-  <order_told>2.09</order_told>
-  <fieldtrip><id>9</id>October 1889</fieldtrip>
-  <fieldtrip_start_date>1889-10-25</fieldtrip_start_date>
-  <fieldtrip_end_date>1889-11-18</fieldtrip_end_date>
+<informant><person_id>341</person_id>
+  <core_informant/>
+  <full_name>Peder Brog&#229;rd</full_name>
+  <last_name>Brog&#229;rd</last_name>
+  <first_name>Peder</first_name>
+  <gender>N/A</gender>
+  <birth_date>N/A</birth_date>
+  <death_date>N/A</death_date>
+  <occupations/>
+  <stories>
+    <story><story_id>787</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>341</informant_id>
+      <publication_info>DS_II_E_160</publication_info>
+      <full_name>341 - 0.00 - DS_II_E_160</full_name>
+      <url>data/stories/787.dfl</url>
+      <place_recorded><id>316</id>Jetsmark</place_recorded>
+      <places_mentioned>
+        <place><id>464</id>
+          <name>Pirrup Krat</name>
+        </place>
+        <place><id>338</id>
+          <name>K&#248;benhavn</name>
+        </place>
+      </places_mentioned>
+    </story>
+  </stories>
   <places>
-    <place><type>place_recorded</type>
-      <place_id>405</place_id>
-      <name>Mejlby</name>
-      <display_name>Mejlby (place recorded)</display_name>
+    <place><type>birth_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (birth place)</display_name>
+    </place>
+    <place><type>death_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (death place)</display_name>
+    </place>
+    <place><type>story_place</type>
+      <place_id>316</place_id>
+      <name>Jetsmark</name>
+      <display_name>Jetsmark (stories recorded here)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>338</place_id>
+      <name>K&#248;benhavn</name>
+      <display_name>K&#248;benhavn (mentioned in 1 story)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>464</place_id>
+      <name>Pirrup Krat</name>
+      <display_name>Pirrup Krat (mentioned in 1 story)</display_name>
     </place>
   </places>
-  <stories_mentioned>
-    <story><story_id>429</story_id>
-      <informant_id>123</informant_id>
-      <publication_info>Unpub_PJ_401</publication_info>
-      <full_name>123 - 4.01 - Unpub_PJ_401</full_name>
-      <url>data/stories/429.dfl</url>
-    </story>
-  </stories_mentioned>
-  <fielddiary_page_start>4784b (2)</fielddiary_page_start>
-  <fielddiary_page_end>4784b (2)</fielddiary_page_end>
-  <bibliographic_info/>
-  <bibliography_references/>
-  <annotation>Children were sent to the minister for religious instruction, particularly leading up to confirmation. Although the minister did not expect payment for this instruction, parents would give the minister produce and other farm goods as in kind payment--sometimes happily and other times quite begrudgingly. Accordingly, not all of these gifts were worth receiving, a fact that more often than not went unmentioned. Here, the minister confronts the congregation and brings into the open the less than generous nature of some of these gifts.</annotation>
-  <danish_manuscript>Den gamle Pastor Katrup stod paa Pr&#230;ke-
-stolen og regnede op om, at de maatte
-ikke give hans Kone For&#230;ringer for B&#248;r-
-nene, naar de gik til Pr&#230;sten, her kom
-Ka B&#248;dker for nogle Dage siden og
-havde givet hans Kone en 9 Aars gl.
-Kok og en snes raaden &#198;g. Dem kunde
-de beholde ved dem selv.
-</danish_manuscript>
-  <english_manuscript>The old minister Katrup stood at the pulpit and told them that they shouldn't offer his wife gifts when the children went to the minister. "A few days ago, Ka B&#248;dkers came and gave my wife a nine year old rooster and a score rotten eggs." They could keep that kind of things for themselves.</english_manuscript>
-  <danish_publication>Den gamle pastor Katrup stod p&#229; pr&#230;kestolen og regnede op om, at de m&#229;tte ikke give hans kone for&#230;ringer for b&#246;rnene, n&#229;r de gik til pr&#230;sten. "Her kom Ka B&#248;dkers for nogle dage siden og gav min kone en 9-&#229;rs gammel kok og en snes r&#229;dne &#230;g. Dem kan I beholde ved jer selv".</danish_publication>
-  <english_publication>The old minister Katrup stood at the pulpit and told them that they shouldn&#8217;t offer his wife gifts when the children went to the minister. &#8220;A few days ago, Ka B&#248;dkers came and gave my wife a nine year old rooster and a score rotten eggs. You can keep that kind of thing yourselves.&#8221;</english_publication>
-  <keywords>
-    <keyword><id>219</id><frequency>1</frequency><keyword>children</keyword>children</keyword>
-    <keyword><id>306</id><frequency>1</frequency><keyword>day</keyword>day</keyword>
-    <keyword><id>372</id><frequency>1</frequency><keyword>egg</keyword>egg</keyword>
-    <keyword><id>466</id><frequency>1</frequency><keyword>gift</keyword>gift</keyword>
-    <keyword><id>786</id><frequency>2</frequency><keyword>minister</keyword>minister</keyword>
-    <keyword><id>873</id><frequency>2</frequency><keyword>old</keyword>old</keyword>
-    <keyword><id>1003</id><frequency>1</frequency><keyword>pulpit</keyword>pulpit</keyword>
-    <keyword><id>1042</id><frequency>1</frequency><keyword>rooster</keyword>rooster</keyword>
-    <keyword><id>1050</id><frequency>1</frequency><keyword>rotten</keyword>rotten</keyword>
-    <keyword><id>1343</id><frequency>2</frequency><keyword>wife</keyword>wife</keyword>
-    <keyword><id>1370</id><frequency>1</frequency><keyword>year</keyword>year</keyword>
-  </keywords>
-  <etk_index><id>36</id>
-    <heading_danish>Vore f&#230;dres tankes&#230;t og &#229;ndsliv</heading_danish>
-    <heading_english>Our forebears' way of thinking and spiritual life</heading_english>
-  </etk_index>
-  <tango_indices>
-    <tango_index><id>14</id><display_name>People: Minister</display_name></tango_index>
-    <tango_index><id>49</id><display_name>Tools, Items and Conveyances: Food and Drink</display_name></tango_index>
-    <tango_index><id>72</id><display_name>Animals: Farm animal</display_name></tango_index>
-    <tango_index><id>130</id><display_name>Resolution: None / Unspecified</display_name></tango_index>
-    <tango_index><id>131</id><display_name>Stylistics: Direct Conversation</display_name></tango_index>
-  </tango_indices>
-  <genre><id>11</id><name>Jocular Tale</name></genre>
-</story>
+</informant>

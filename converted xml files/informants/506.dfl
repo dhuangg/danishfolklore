@@ -1,7 +1,6 @@
-<?xml version="1.0"?>
-<informant person_id="506">
+<informant><person_id>506</person_id>
   <core_informant/>
-  <full_name>L&#xE6;rer Rasmus Olsen</full_name>
+  <full_name>L&#230;rer Rasmus Olsen</full_name>
   <last_name>Olsen</last_name>
   <first_name>Rasmus</first_name>
   <gender>N/A</gender>
@@ -9,44 +8,44 @@
   <death_date>N/A</death_date>
   <occupations/>
   <stories>
-    <story story_id="806" secondary_informant="0">
+    <story><story_id>806</story_id><secondary_informant>0</secondary_informant>
       <informant_id>506</informant_id>
       <publication_info>DS_I_813</publication_info>
       <full_name>506 - 0.00 - DS_I_813</full_name>
       <url>data/stories/806.dfl</url>
-      <place_recorded id="908">Viemose, Kalvhave</place_recorded>
+      <place_recorded><id>908</id>Viemose, Kalvhave</place_recorded>
       <places_mentioned>
-        <place id="319">
+        <place><id>319</id>
           <name>Kalvehave</name>
         </place>
-        <place id="466">
-          <name>P&#xF8;lse h&#xF8;je</name>
+        <place><id>466</id>
+          <name>P&#248;lse h&#248;je</name>
         </place>
       </places_mentioned>
     </story>
   </stories>
   <places>
-    <place type="birth_place">
+    <place><type>birth_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (birth place)</display_name>
     </place>
-    <place type="death_place">
+    <place><type>death_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (death place)</display_name>
     </place>
-    <place type="story_place">
+    <place><type>story_place</type>
       <place_id>908</place_id>
       <name>Viemose, Kalvhave</name>
       <display_name>Viemose, Kalvhave (stories recorded here)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>466</place_id>
-      <name>P&#xF8;lse h&#xF8;je</name>
-      <display_name>P&#xF8;lse h&#xF8;je (mentioned in 1 story)</display_name>
+      <name>P&#248;lse h&#248;je</name>
+      <display_name>P&#248;lse h&#248;je (mentioned in 1 story)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>319</place_id>
       <name>Kalvehave</name>
       <display_name>Kalvehave (mentioned in 1 story)</display_name>

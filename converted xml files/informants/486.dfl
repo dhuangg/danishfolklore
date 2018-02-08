@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<informant person_id="486">
+<informant><person_id>486</person_id>
   <core_informant/>
   <full_name>Seminarist Chr. Nielsen</full_name>
   <last_name>Nielsen</last_name>
@@ -9,48 +8,48 @@
   <death_date>N/A</death_date>
   <occupations/>
   <stories>
-    <story story_id="482" secondary_informant="0">
+    <story><story_id>482</story_id><secondary_informant>0</secondary_informant>
       <informant_id>486</informant_id>
       <publication_info>DS_VI_345</publication_info>
       <full_name>486 - 0.00 - DS_VI_345</full_name>
       <url>data/stories/482.dfl</url>
-      <place_recorded id="808">Jelling</place_recorded>
+      <place_recorded><id>808</id>Jelling</place_recorded>
       <places_mentioned>
-        <place id="707">
+        <place><id>707</id>
           <name>Vilstrup</name>
         </place>
       </places_mentioned>
     </story>
-    <story story_id="486" secondary_informant="0">
+    <story><story_id>486</story_id><secondary_informant>0</secondary_informant>
       <informant_id>486</informant_id>
       <publication_info>DS_VI_1199</publication_info>
       <full_name>486 - 0.00 - DS_VI_1199</full_name>
       <url>data/stories/486.dfl</url>
-      <place_recorded id="808">Jelling</place_recorded>
+      <place_recorded><id>808</id>Jelling</place_recorded>
       <places_mentioned>
-        <place id="707">
+        <place><id>707</id>
           <name>Vilstrup</name>
         </place>
       </places_mentioned>
     </story>
   </stories>
   <places>
-    <place type="birth_place">
+    <place><type>birth_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (birth place)</display_name>
     </place>
-    <place type="death_place">
+    <place><type>death_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (death place)</display_name>
     </place>
-    <place type="story_place">
+    <place><type>story_place</type>
       <place_id>808</place_id>
       <name>Jelling</name>
       <display_name>Jelling (stories recorded here)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>707</place_id>
       <name>Vilstrup</name>
       <display_name>Vilstrup (mentioned in 2 stories)</display_name>

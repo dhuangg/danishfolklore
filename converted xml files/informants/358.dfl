@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<informant person_id="358">
+<informant><person_id>358</person_id>
   <core_informant/>
   <full_name>Niels Ebbesen</full_name>
   <last_name>Ebbesen</last_name>
@@ -9,44 +8,44 @@
   <death_date>N/A</death_date>
   <occupations/>
   <stories>
-    <story story_id="737" secondary_informant="0">
+    <story><story_id>737</story_id><secondary_informant>0</secondary_informant>
       <informant_id>358</informant_id>
       <publication_info>DS_II_B_188</publication_info>
       <full_name>358 - 0.00 - DS_II_B_188</full_name>
       <url>data/stories/737.dfl</url>
-      <place_recorded id="32">Andrup</place_recorded>
+      <place_recorded><id>32</id>Andrup</place_recorded>
       <places_mentioned>
-        <place id="257">
+        <place><id>257</id>
           <name>Hesthave</name>
         </place>
       </places_mentioned>
     </story>
-    <story story_id="738" secondary_informant="0">
+    <story><story_id>738</story_id><secondary_informant>0</secondary_informant>
       <informant_id>358</informant_id>
       <publication_info>DS_II_D_4</publication_info>
       <full_name>358 - 0.00 - DS_II_D_4</full_name>
       <url>data/stories/738.dfl</url>
-      <place_recorded id="32">Andrup</place_recorded>
+      <place_recorded><id>32</id>Andrup</place_recorded>
       <places_mentioned/>
     </story>
   </stories>
   <places>
-    <place type="birth_place">
+    <place><type>birth_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (birth place)</display_name>
     </place>
-    <place type="death_place">
+    <place><type>death_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (death place)</display_name>
     </place>
-    <place type="story_place">
+    <place><type>story_place</type>
       <place_id>32</place_id>
       <name>Andrup</name>
       <display_name>Andrup (stories recorded here)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>257</place_id>
       <name>Hesthave</name>
       <display_name>Hesthave (mentioned in 1 story)</display_name>

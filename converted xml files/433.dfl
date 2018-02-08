@@ -1,233 +1,46 @@
-<story><story_id>433</story_id>
-  <publication_info>DSnr_IV_657</publication_info>
-  <full_name>123 - 4.05 - DSnr_IV_657</full_name>
-  <informant_id>123</informant_id>
-  <informant_last_name>Johansen</informant_last_name>
-  <informant_first_name>Peder</informant_first_name>
-  <informant_full_name>Peder Johansen</informant_full_name>
-  <order_told>4.05</order_told>
-  <fieldtrip><id>16</id>Photo 5: September 1895</fieldtrip>
-  <fieldtrip_start_date>1895-09-15</fieldtrip_start_date>
-  <fieldtrip_end_date>1895-09-22</fieldtrip_end_date>
+<informant><person_id>433</person_id>
+  <core_informant/>
+  <full_name>Ane Sofie Kristensdatter</full_name>
+  <last_name>Kristensdatter</last_name>
+  <first_name>Ane Sofie</first_name>
+  <gender>N/A</gender>
+  <birth_date>N/A</birth_date>
+  <death_date>N/A</death_date>
+  <occupations/>
+  <stories>
+    <story><story_id>470</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>433</informant_id>
+      <publication_info>DS_V_1106</publication_info>
+      <full_name>433 - 0.00 - DS_V_1106</full_name>
+      <url>data/stories/470.dfl</url>
+      <place_recorded><id>316</id>Jetsmark</place_recorded>
+      <places_mentioned>
+        <place><id>194</id>
+          <name>Gj&#248;l</name>
+        </place>
+      </places_mentioned>
+    </story>
+  </stories>
   <places>
-    <place><type>place_recorded</type>
-      <place_id>175</place_id>
-      <name>Fuldbro m&#248;lle</name>
-      <display_name>Fuldbro m&#248;lle (place recorded)</display_name>
+    <place><type>birth_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (birth place)</display_name>
+    </place>
+    <place><type>death_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (death place)</display_name>
+    </place>
+    <place><type>story_place</type>
+      <place_id>316</place_id>
+      <name>Jetsmark</name>
+      <display_name>Jetsmark (stories recorded here)</display_name>
     </place>
     <place><type>place_mentioned</type>
-      <place_id>8</place_id>
-      <name>Aarhus</name>
-      <display_name>Aarhus (place mentioned)</display_name>
-    </place>
-    <place><type>place_mentioned</type>
-      <place_id>42</place_id>
-      <name>Baastrup mark</name>
-      <display_name>Baastrup mark (place mentioned)</display_name>
-    </place>
-    <place><type>place_mentioned</type>
-      <place_id>94</place_id>
-      <name>Bremerholm</name>
-      <display_name>Bremerholm (place mentioned)</display_name>
-    </place>
-    <place><type>place_mentioned</type>
-      <place_id>104</place_id>
-      <name>Bukballe</name>
-      <display_name>Bukballe (place mentioned)</display_name>
-    </place>
-    <place><type>place_mentioned</type>
-      <place_id>209</place_id>
-      <name>Grumstrup</name>
-      <display_name>Grumstrup (place mentioned)</display_name>
-    </place>
-    <place><type>place_mentioned</type>
-      <place_id>251</place_id>
-      <name>Hede m&#248;lle</name>
-      <display_name>Hede m&#248;lle (place mentioned)</display_name>
-    </place>
-    <place><type>place_mentioned</type>
-      <place_id>283</place_id>
-      <name>Horsens</name>
-      <display_name>Horsens (place mentioned)</display_name>
-    </place>
-    <place><type>place_mentioned</type>
-      <place_id>682</place_id>
-      <name>Vedslet</name>
-      <display_name>Vedslet (place mentioned)</display_name>
+      <place_id>194</place_id>
+      <name>Gj&#248;l</name>
+      <display_name>Gj&#248;l (mentioned in 1 story)</display_name>
     </place>
   </places>
-  <stories_mentioned>
-    <story><story_id>401</story_id>
-      <informant_id>123</informant_id>
-      <publication_info>JFm_XIII_36</publication_info>
-      <full_name>123 - 2.27 - JFm_XIII_36</full_name>
-      <url>data/stories/401.dfl</url>
-    </story>
-  </stories_mentioned>
-  <fielddiary_page_start>7143a</fielddiary_page_start>
-  <fielddiary_page_end>7144b</fielddiary_page_end>
-  <bibliographic_info>Hvidt and Olsen 1990, vol. 11</bibliographic_info>
-  <bibliography_references>
-    <reference><id>741</id><category>general</category>
-      <display_string>[Book] Hvidt, Kristian, Olsen, Olaf. 1990. &lt;i&gt;Gyldendal og Politikens Danmarkshistorie bd 11 1850-1900&lt;/i&gt;. Copenhagen: Gyldendal.</display_string>
-    </reference>
-  </bibliography_references>
-  <annotation>Peder is fascinated by conflict and the ability of the little guy to triumph over the powerful. Here, the postal carrier is a representative of the Crown, and presumably sees himself above the law. The tension between the desire for local control and the role of the central administration (first the Crown and then the state) were constant, and informed a great deal of the debate over legislation concerning local rights through the latter half of the nineteenth century. 
-
-     One of the main forms of public transportation in Denmark, prior to the development of the railway system in the 1860s, was the system of postal wagons. In fact, carrying passengers was as much a part of the postal service as carrying mail (Hvidt and Olsen 1990, vol. 11). 
-
-     The district bailiff, reluctant at first, finally comes to the help of the local man. The willingness to let bygones be bygones might well be related to the tension that existed between the local government and the distant central authority of the Crown. The final scene in the restaurant where the two plaintiffs wind up paying for the defendant's lunch is reminiscent of one of Peder's earlier stories, in which the young farmhand tricks his antagonists (PJ 2.27).
-
-     Bremerholm in Copenhagen was a forced labor institution, originally a ship wharf, with the first prisoners sent there in the 1570s. According to Christian V's Danish law of 1683, the man from Bukballe would have been subject to Book 6 Chapter 4 Article 16 of the criminal code, which states, "Overfalder nogen sin af Kongen forordnet &#216;vrighed i deris Embede, straffis paa &#198;re, eller Boeslod, efter Sagens Beskaffenhed" (If anyone assaults any of the king's officials who are carrying out their duties, the punishment is either fine or imprisonment depending on the severity of the offense). The statute allows for a great degree of latitude. Punishment at Bremerholm, where one worked in irons, was generally considered "the last possible punishment," and three years at Bremerholm would have been a considerable punishment. Interestingly, many of the statutes of Christian V's law were in effect up through the 1860s, and some still echo in contemporary Danish law. 
-
-     Frederik VI (1768-1839) became king of Denmark in 1808. It was during his reign that Denmark was forced to cede Norway to Sweden in 1814.</annotation>
-  <danish_manuscript>Om paa Grumstrup Mark, Vedslet Sogn
-ligger Hede M&#248;lle. Den ejedes i sin
-Tid af en Herredsfoged der var H.
-over Hads Herred. Aaen gj&#248;r Skjel
-og h. maatte bygge sig et Hus paa den
-side af Aaen for at v&#230;re i sin Ju-
-risdiktion og [laa] M&#248;llen laa i en
-anden. H. var s. lovkyndig, at man-
-ge s&#248;gte til ham i Tr&#230;tte sager
-is&#230;r fattige. Den Tid gik der kgl.
-kj&#248;rende Post fra Aarhus til
-Horsens der om ad Vedslet Kirke.
-Saa var der en Mand oppe paa Baa
-strup Mark i en Grd som hedder
-Bukballe og h. skal til Aarhus og
-s. gaar h. nu ud jo  og vil op og kj&#248;r
-re med dh. Post. Nu var Postkar
-le en but Krabat, de havde
-vist et bitte Mellemv&#230;rende.
-maatte h. gaa bagefter og kommer
-saa n&#230;r ind paa ham alligevel. 
-at da h. kj&#248;rer ind i Grden og sp&#230;n-
-der fra, kommer h. og rykker det ene
-Hovedlag ud af hans H&#230;nder og gen
-nem tamper ham i Vidners Paa-
-
-7143B
-syn. Det var jo en farlig Sag at l&#230;g
-ge Haand paa en Kgl. Post og selv-
-f&#248;lgelig blev h. m&#230;ldt og skulde
-m&#248;de og forsvare s. for Retten.
-Den mindste Straf h. kunde slippe
-med var at gaa i 3 Aar paa
-Bremerholm og maaske ogsaa
-der hans Levnet. De s&#248;gte baade
-i Aarhus og Horsens ved alle klog
-lovkyndige, men ingen turde
-hj&#230;lpe ham. S. boede der en Mand
-nede i Skoven, der hed Jep, s.
-gik h. op til ham og s. har du ikke
-v&#230;ret over ved ham paa Hede
-M&#248;lle at sp&#248;rge ham til Raads.
-Nej a har ikke for a undsagde
-ham i Fjor. Ja s. vil a pr&#248;ve
-at gaa derover og se hvad der
-kan gj&#248;re ved det. S. gik h. derover
-Ja havde det v&#230;ret enhver anden
-men a trykker mig ved at hj&#230;lpe
-ham for h. viste s. ikke s. p&#230;n
-i Fjor. Men dh. Mand bliver ved
-og til sidst sig. h. Ja nu kan du komme
-
-7144A
-herned i Morgen Aften s. skal a give
-dig Besked. Gik. Ja Sagerne staar
-ikke s. meget ringe. Du kan sige
-ham at h. skal m&#248;de n&#230;ste Ting-
-dag i Horsens og h. kan tage et Par
-M&#230;nd med om h. det tykkes.
-S. m&#248;der de ogsaa og de gik ind paa
-et V&#230;rtshus. Nu kan a blot spi-
-se og drikke og tage for jer af Sagerne
-vi skal nok faa det betalt. H.
-havde selv 2 med. S. gik h. og
-kom med Postmester og Herredsfo-
-geden til ham h. siger: Her er de
-to M&#230;nd der har anklaget dig og
-nu kan du gaa. Hvad I har for-
-t&#230;rt det betaler de. S. var
-den Rettergang til Side. Jep gik
-siden med til Herredfogeden. Hvor
-den kunde det gaa til. De kunde
-saadan frelse ham uden at komme
-for Ret. eller nogen Ting. Det kun-
-de a sagt. De havde forbrudt dem
-ogsaa. A havde 2 M&#230;nd til at
-ligge ovre ved Vedslet Kirke og passe
-paa naar Posten kom og n&#230;sten da-
-
-7144B
-gen efter du havde v&#230;ret ved mig
-kom der kgl. Skilt paa Vognen
-og derfor maatte de give dem.
-Det var under Fr. 6.
-</danish_manuscript>
-  <english_manuscript>Over on Grumstrup Mark in Vedslet parish lies Hede M&#248;lle. It was owned in its time by a district bailiff, who was in charge of Hads district. The river formed the boundary between the districts, and he had to build himself a house on the Hads side of the river to be in his jurisdiction, while the mill itself lay in another. He knew so much about the law that people often sought him out to solve disputes, particularly poor people. At that time, the royal post drove between Horsens and Aarhus, past Vedslet Kirke. There was this man up on Baastrup Mark, who lived at a farm called Bukballe, and he had to go to Aarhus. He goes out and wanted to come up and ride with this postal carrier. But the postal carrier was a moody fellow, and the two must have had a bit of an argument. So the other one has to walk behind but stays close to the wagon anyway so when the guy drives into the farm courtyard, and unhitches the horses, the man comes up, knocks one of the bridles out of his hands, and beats him silly in front of witnesses. It was a dangerous thing to do to lay a hand on the Royal Post, and he was naturally reported and had to go and defend himself in court. The least punishment he could get off with was to spend three years at Bremerholm, and he might even have to spend the rest of his life there. They asked all the wise legal minds both in Aarhus and in Horsens, but nobody dared help him. Then there was a man who lived down here in the forest, who was called Jep, he went up to him and said, &#8220;Have you gone over to the guy at Hede M&#248;lle and asked his advice?&#8221; &#8211; &#8220;No, I haven't, because I threatened him last year.&#8221; &#8211; &#8220;Well, I'll try going over there and see what there is to do about this.&#8221; So he went over there. &#8220;Well, if it had been anybody else but I don't think I want to help him, because he showed himself to be not so nice last year.&#8221; This man persists and finally he says, &#8220;Well, you can come down here tomorrow night, then I'll give you an answer.&#8221; He left. &#8220;Well, things aren't too bad, you can tell him that he should show up at next assembly day in Horsens, and he can bring a couple of men with him, if he wants.&#8221; So they meet too, and they go into a bar. &#8220;You can eat and drink what you want, we'll get it paid for.&#8221; He had two men along with him himself. Then he left, and came back a little later with the postmaster and the town bailiff. Then he says to the man, &#8220;Here are the two men who have charged you, and you can go now. Whatever you've eaten, will be paid for by these two men.&#8221; Then that court affair was done with. Jep went down to the district bailiff later and said, &#8220;How did that happen, that you could save the man, without having to go to court or to the assembly?&#8221; &#8211; &#8220;Well, I'll tell you. They'd also broken the law. I had two men hide over by Vedslet church and watch when the post came, and all of a sudden, the day after you'd visited me, there was a royal sign on the wagon and so they had to yield.&#8221; This happened during the time of Frederik the Sixth.</english_manuscript>
-  <danish_publication>Omme paa Grumstrup Mark i Vedslet Sogn ligger Hede M&#248;lle. Den ejedes i sin Tid af en Herredsfoged, der var over Hads Herred. Aaen gj&#248;r Skjel imellem Herrederne, og han maatte bygge sig et Hus til Beboelse paa Hads Herredssiden af Aaen for at v&#230;re i sin Jurisdiktion, medens M&#248;llen selv laa i Hjelmslev Herred. Samme Herredsfoged var saa lovkyndig, at mange s&#248;gte til ham i Tr&#230;ttesager, og is&#230;r var det fattige Folk. Den Tid gik der kongelig kj&#248;rende Post fra Horsens til Aarhus, og den skulde om ad Vedslet Kirke. Saa var der en Mand oppe paa Baastrup Mark i en Gaard, som hedder Bukballe, og han skal en Dag til Aarhus. Saa gaar han nu landvejs, men da Posten kommer i det samme, forlanger han at vil op at kj&#248;re med denher Post. Men Postkarlen var en but Krabat, og de to havde vist et bitte Mellemv&#230;rende, nok er det, han kj&#248;rer fra ham, og den anden maa gaa bag efter Vognen til Aarhus. Han gaar rask til og holder sig saa n&#230;r ved Vognen alligevel, at da Kusken kj&#248;rer ind i Gaarden og sp&#230;nder fra, kommer Manden og rykker det ene Hovedlag ud af hans H&#230;nder og gjennemtamper ham med det i Vidners Paasyn. Det var jo en farlig Sag at l&#230;gge Haand paa en kongelig Post, og selvf&#248;lgelig blev han m&#230;ldt og skulde m&#248;de for Retten. Den mindste Straf, han kunde slippe med, var at gaa i tre Aar paa Bremerholm, og maaske han kunde komme til at gaa der hele hans Liv. Nu s&#248;gte de baade i Aarhus og Horsens ved alle kloge lovkyndige, men ingen turde hj&#230;lpe ham. Saa boede der en Mand nede i Skoven, der hed Jep, han gik op til ham og sagde: "Har du ikke v&#230;ret ovre ved ham paa Hede M&#248;lle at sp&#248;rge ham til Raads?" &#8212; "Nej, a har ikke, for a undsagde ham i Fjor." &#8212; "Ja, saa vil a pr&#248;ve at gaa derover og se, hvad der er at gj&#248;re ved det." Han gik saa derover. "Ja, havde det v&#230;ret enhver anden," siger han, "men a trykker mig ved at hj&#230;lpe ham, for han viste sig ikke saa p&#230;n i Fjor." Denher Mand bliver ved, og til sidst siger han: "Ja nu kan du komme herned i Morgen Aften, saa skal a give dig Besked." Han gik ogsaa. "Ja, Sagerne staar ikke saa meget ringe," siger Herredsfogden, "du kan sige Manden, te a skal m&#248;de for ham n&#230;ste Tingdag i Horsens, og han kan tage et Par M&#230;nd med, om han det tykkes." Saa m&#248;der de ogsaa, og de gik ind paa et V&#230;rtshus. Herredsfogden havde selv to Mand med. "Nu kan I blot spise og drikke og tage for jer af Sagerne, vi skal nok faa det betalt." Dermed gik han, men en Tid efter kom han tilbage med Postmesteren og Byfogden. Saa siger han til Manden, der var anklaget: "Her er de to M&#230;nd, der har klaget dig an, og nu kan du gaa, for nu er du fri. "Hvad I har fort&#230;rt," siger han saa til alle de andre, "det betaler de to Herrer." Saa var den Rettergang til Side. Jep gik siden ned til Herredsfogden og sagde: "Hvordan kunde det gaa til, at De kunde saadan frelse Manden, uden at komme for Retten eller nogen Ting?" &#8212; "Det kunde a sagt, de havde ogsaa forbrudt dem. A havde to M&#230;nd til at ligge ovre ved Vedslet Kirke og passe paa, naar Posten kom, og nyssen Dagen efter, at du havde v&#230;ret ved mig, kom der kongeligt Skilt paa Vognen. Det havde ikke v&#230;ret der f&#248;r, og derfor maatte de give dem." Dether foregik under Frederik den Sjette.</danish_publication>
-  <english_publication>Hede Mill lies over on Grumstrup Mark in Vedslet parish. It was owned in its time by a district bailiff, who was in charge of Hads district. The river is the boundary between the districts, and he had to build his house on the Hads district side of the river to remain in his jurisdiction, while the mill itself lay in Hjelmslev district. This same district bailiff knew so much about the law that people often sought him out to solve disputes, particularly poor people. At that time, the royal post was driven between Horsens and Aarhus, and it was supposed to go past Vedslet church. Then there was this man at a farm up on Baastrup Mark, which was called Bukballe, and he was going to go to Aarhus one day. So he goes down to the main road, but since the postal carrier comes by at the same time, he asks this postal carrier for a ride. But the postal carrier was a moody fellow, and the two must have had a bit of an argument, enough said, so he drives off, and the other one has to walk behind the wagon all the way to Aarhus. He walks quite quickly, and stays close to the wagon anyway, and so when the guy drives into the farm courtyard, and unhitches the horses, the man comes up, grabs one of the bridles out of his hand, and beats him silly with it in front of witnesses. It was a dangerous thing to do, to lay a hand on the Royal Post, and he was of course reported and had to go to court. The least punishment he could get off with was to spend three years at Bremerholm, and he might even have to spend the rest of his life there.
-     Now they sought out all the wise people who knew about the law both in Aarhus and in Horsens, but nobody dared help him. Then there was a man who lived down here in the forest, who was called Jep, he went up to him and said, &#8220;Have you gone over to him at Hede Mill and asked his advice?&#8221; &#8211; &#8220;No, I haven&#8217;t, because I threatened him last year.&#8221; &#8211; &#8220;Well, I&#8217;ll try going over there and see what there is to do about this.&#8221; So he went over there. &#8220;Well, if it had been anybody else,&#8221; he says, &#8220;but I don&#8217;t think I want to help him, because he showed himself to be not so nice last year.&#8221; This man continues and finally he says, &#8220;Well, you can come down here tomorrow night, then I&#8217;ll let you know.&#8221; He left too. &#8220;Well, things aren&#8217;t too bad,&#8221; says the district bailiff, &#8220;you can tell the man that I&#8217;ll meet up for him next assembly day in Horsens, and he can bring a couple of men with him, if he wants.&#8221; So they meet too, and they go into a bar. The district bailiff had two men along himself. &#8220;You can eat and drink what you want, we&#8217;ll get it paid for.&#8221; Then he left, but a little later he came back with the postmaster and the town bailiff. Then he says to the man who&#8217;d been charged, &#8220;Here are the two men who have charged you, and you can go now, because you&#8217;re free.&#8221; &#8220;Whatever you&#8217;ve eaten,&#8221; he says to the others, &#8220;will be paid for by these two men.&#8221; Then that affair was done with. Jep went down to the district bailiff later and said, &#8220;How did you manage that? How could you save the man without having to go to court or to the assembly?&#8221; &#8211; &#8220;Well, I pointed out that they&#8217;d also broken the law. I had two men hide over by Vedslet church and watch when the post came, and all of a sudden, the day after you&#8217;d visited me, there was a royal sign on the wagon. That hadn&#8217;t been there before, and so they had to back off.&#8221; This happened during the time of Frederik the Sixth.</english_publication>
-  <keywords>
-    <keyword><id>12</id><frequency>1</frequency><keyword>advice</keyword>advice</keyword>
-    <keyword><id>64</id><frequency>1</frequency><keyword>bailiff</keyword>bailiff</keyword>
-    <keyword><id>127</id><frequency>1</frequency><keyword>boundary</keyword>boundary</keyword>
-    <keyword><id>145</id><frequency>1</frequency><keyword>bridle</keyword>bridle</keyword>
-    <keyword><id>227</id><frequency>2</frequency><keyword>church</keyword>church</keyword>
-    <keyword><id>271</id><frequency>2</frequency><keyword>court</keyword>court</keyword>
-    <keyword><id>272</id><frequency>1</frequency><keyword>courtyard</keyword>courtyard</keyword>
-    <keyword><id>286</id><frequency>1</frequency><keyword>cunning_folk</keyword>Cunning Folk</keyword>
-    <keyword><id>306</id><frequency>3</frequency><keyword>day</keyword>day</keyword>
-    <keyword><id>336</id><frequency>4</frequency><keyword>district</keyword>district</keyword>
-    <keyword><id>337</id><frequency>5</frequency><keyword>district_bailiff</keyword>district bailiff</keyword>
-    <keyword><id>355</id><frequency>1</frequency><keyword>drinking</keyword>drinking</keyword>
-    <keyword><id>394</id><frequency>2</frequency><keyword>farm</keyword>farm</keyword>
-    <keyword><id>438</id><frequency>1</frequency><keyword>forest</keyword>forest</keyword>
-    <keyword><id>442</id><frequency>1</frequency><keyword>frederik</keyword>Frederik</keyword>
-    <keyword><id>443</id><frequency>1</frequency><keyword>free</keyword>free</keyword>
-    <keyword><id>531</id><frequency>1</frequency><keyword>hjelmslev</keyword>hjelmslev</keyword>
-    <keyword><id>545</id><frequency>1</frequency><keyword>horse</keyword>horse</keyword>
-    <keyword><id>548</id><frequency>1</frequency><keyword>house</keyword>house</keyword>
-    <keyword><id>697</id><frequency>3</frequency><keyword>law</keyword>law</keyword>
-    <keyword><id>783</id><frequency>3</frequency><keyword>mill</keyword>mill</keyword>
-    <keyword><id>848</id><frequency>1</frequency><keyword>night</keyword>night</keyword>
-    <keyword><id>903</id><frequency>1</frequency><keyword>parish</keyword>parish</keyword>
-    <keyword><id>974</id><frequency>1</frequency><keyword>poor</keyword>poor</keyword>
-    <keyword><id>979</id><frequency>3</frequency><keyword>post</keyword>post</keyword>
-    <keyword><id>980</id><frequency>3</frequency><keyword>postal_carrier</keyword>postal carrier</keyword>
-    <keyword><id>1004</id><frequency>1</frequency><keyword>punishment</keyword>punishment</keyword>
-    <keyword><id>1026</id><frequency>1</frequency><keyword>rest</keyword>rest</keyword>
-    <keyword><id>1030</id><frequency>1</frequency><keyword>riding</keyword>riding</keyword>
-    <keyword><id>1034</id><frequency>2</frequency><keyword>river</keyword>river</keyword>
-    <keyword><id>1036</id><frequency>1</frequency><keyword>road</keyword>road</keyword>
-    <keyword><id>1051</id><frequency>3</frequency><keyword>royal</keyword>royal</keyword>
-    <keyword><id>1255</id><frequency>1</frequency><keyword>threat</keyword>threat</keyword>
-    <keyword><id>1256</id><frequency>1</frequency><keyword>three</keyword>three</keyword>
-    <keyword><id>1267</id><frequency>1</frequency><keyword>tomorrow</keyword>tomorrow</keyword>
-    <keyword><id>1275</id><frequency>1</frequency><keyword>town</keyword>town</keyword>
-    <keyword><id>1291</id><frequency>1</frequency><keyword>unharnessed</keyword>unharnessed</keyword>
-    <keyword><id>1311</id><frequency>3</frequency><keyword>wagon</keyword>wagon</keyword>
-    <keyword><id>1370</id><frequency>2</frequency><keyword>year</keyword>year</keyword>
-  </keywords>
-  <etk_index><id>19</id>
-    <heading_danish>Forskjellige personer</heading_danish>
-    <heading_english>Diverse people</heading_english>
-  </etk_index>
-  <tango_indices>
-    <tango_index><id>2</id><display_name>People: Bailiff</display_name></tango_index>
-    <tango_index><id>7</id><display_name>People: Farmer</display_name></tango_index>
-    <tango_index><id>12</id><display_name>People: Man</display_name></tango_index>
-    <tango_index><id>37</id><display_name>Places: Mill</display_name></tango_index>
-    <tango_index><id>41</id><display_name>Places: Road</display_name></tango_index>
-    <tango_index><id>42</id><display_name>Places: Stream / River</display_name></tango_index>
-    <tango_index><id>54</id><display_name>Tools, Items and Conveyances: Wagon</display_name></tango_index>
-    <tango_index><id>95</id><display_name>Actions or events: Punishment</display_name></tango_index>
-    <tango_index><id>98</id><display_name>Actions or events: Transaction</display_name></tango_index>
-    <tango_index><id>100</id><display_name>Actions or events: Work</display_name></tango_index>
-    <tango_index><id>127</id><display_name>Resolution: Positive</display_name></tango_index>
-    <tango_index><id>131</id><display_name>Stylistics: Direct Conversation</display_name></tango_index>
-  </tango_indices>
-  <genre><id>2</id><name>Legend</name></genre>
-</story>
+</informant>

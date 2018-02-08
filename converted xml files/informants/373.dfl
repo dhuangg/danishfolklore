@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<informant person_id="373">
+<informant><person_id>373</person_id>
   <core_informant/>
   <full_name>Hans Hansen</full_name>
   <last_name>Hansen</last_name>
@@ -9,47 +8,47 @@
   <death_date>N/A</death_date>
   <occupations/>
   <stories>
-    <story story_id="529" secondary_informant="0">
+    <story><story_id>529</story_id><secondary_informant>0</secondary_informant>
       <informant_id>373</informant_id>
       <publication_info>DS_IV_744</publication_info>
       <full_name>373 - 0.00 - DS_IV_744</full_name>
       <url>data/stories/529.dfl</url>
-      <place_recorded id="841">&#xD8;rridslev</place_recorded>
+      <place_recorded><id>841</id>&#216;rridslev</place_recorded>
       <places_mentioned>
-        <place id="359">
-          <name>Langes&#xF8;</name>
+        <place><id>359</id>
+          <name>Langes&#248;</name>
         </place>
-        <place id="701">
+        <place><id>701</id>
           <name>Viggerslev</name>
         </place>
       </places_mentioned>
     </story>
   </stories>
   <places>
-    <place type="birth_place">
+    <place><type>birth_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (birth place)</display_name>
     </place>
-    <place type="death_place">
+    <place><type>death_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (death place)</display_name>
     </place>
-    <place type="story_place">
+    <place><type>story_place</type>
       <place_id>841</place_id>
-      <name>&#xD8;rridslev</name>
-      <display_name>&#xD8;rridslev (stories recorded here)</display_name>
+      <name>&#216;rridslev</name>
+      <display_name>&#216;rridslev (stories recorded here)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>701</place_id>
       <name>Viggerslev</name>
       <display_name>Viggerslev (mentioned in 1 story)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>359</place_id>
-      <name>Langes&#xF8;</name>
-      <display_name>Langes&#xF8; (mentioned in 1 story)</display_name>
+      <name>Langes&#248;</name>
+      <display_name>Langes&#248; (mentioned in 1 story)</display_name>
     </place>
   </places>
 </informant>

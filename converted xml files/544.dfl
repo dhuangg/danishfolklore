@@ -1,78 +1,46 @@
-<story><story_id>544</story_id>
-  <publication_info>DS_II_H_430</publication_info>
-  <full_name>397 - 0.00 - DS_II_H_430</full_name>
-  <informant_id>397</informant_id>
-  <informant_last_name>Jensen</informant_last_name>
-  <informant_first_name>Jens</informant_first_name>
-  <informant_full_name>Jens Jensen</informant_full_name>
-  <order_told>0.00</order_told>
-  <fieldtrip><id/>None recorded</fieldtrip>
+<informant><person_id>544</person_id>
+  <core_informant/>
+  <full_name>C. S&#248;rensen Thomaskj&#230;r</full_name>
+  <last_name>Thomaskj&#230;r</last_name>
+  <first_name>C. S&#248;rensen</first_name>
+  <gender>N/A</gender>
+  <birth_date>N/A</birth_date>
+  <death_date>N/A</death_date>
+  <occupations/>
+  <stories>
+    <story><story_id>480</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>544</informant_id>
+      <publication_info>DS_V_359</publication_info>
+      <full_name>544 - 0.00 - DS_V_359</full_name>
+      <url>data/stories/480.dfl</url>
+      <place_recorded><id>912</id>Virklund</place_recorded>
+      <places_mentioned>
+        <place><id>504</id>
+          <name>Ry</name>
+        </place>
+      </places_mentioned>
+    </story>
+  </stories>
   <places>
-    <place><type>place_recorded</type>
-      <place_id>853</place_id>
-      <name>Refshaleg&#229;rd</name>
-      <display_name>Refshaleg&#229;rd (place recorded)</display_name>
+    <place><type>birth_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (birth place)</display_name>
+    </place>
+    <place><type>death_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (death place)</display_name>
+    </place>
+    <place><type>story_place</type>
+      <place_id>912</place_id>
+      <name>Virklund</name>
+      <display_name>Virklund (stories recorded here)</display_name>
     </place>
     <place><type>place_mentioned</type>
-      <place_id>349</place_id>
-      <name>Kragelund</name>
-      <display_name>Kragelund (place mentioned)</display_name>
+      <place_id>504</place_id>
+      <name>Ry</name>
+      <display_name>Ry (mentioned in 1 story)</display_name>
     </place>
   </places>
-  <stories_mentioned>
-    <story><story_id>235</story_id>
-      <informant_id>235</informant_id>
-      <publication_info>DS_II_H_436</publication_info>
-      <full_name>235 - 1.16 - DS_II_H_436</full_name>
-      <url>data/stories/235.dfl</url>
-    </story>
-    <story><story_id>563</story_id>
-      <informant_id>104</informant_id>
-      <publication_info>DS_II_H_428</publication_info>
-      <full_name>104 - 0.00 - DS_II_H_428</full_name>
-      <url>data/stories/563.dfl</url>
-    </story>
-    <story><story_id>830</story_id>
-      <informant_id>69</informant_id>
-      <publication_info>DS_V_129</publication_info>
-      <full_name>69 - 0.00 - DS_V_129</full_name>
-      <url>data/stories/830.dfl</url>
-    </story>
-    <story><story_id>686</story_id>
-      <informant_id>475</informant_id>
-      <publication_info>DS_II_H_484</publication_info>
-      <full_name>475 - 0.00 - DS_II_H_484</full_name>
-      <url>data/stories/686.dfl</url>
-    </story>
-  </stories_mentioned>
-  <fielddiary_page_start>N/A</fielddiary_page_start>
-  <fielddiary_page_end>N/A</fielddiary_page_end>
-  <bibliographic_info/>
-  <bibliography_references/>
-  <annotation/>
-  <danish_manuscript/>
-  <english_manuscript/>
-  <danish_publication>En karl, der tjente i Kragelund, var en aften g&#229;et hjemmefra. Da han kom tilbage, s&#229; han i g&#229;rden og udenfor denne mange vogne, men det varede kun et &#246;jeblik, s&#229; var alt borte. Nogen tid efter d&#248;de manden, som karlen tjente hos. Et andet sted, han tjente, s&#229; han noget lignende, og der kom ligeledes kort efter en d&#248;d i g&#229;rden.</danish_publication>
-  <english_publication>One night a farmhand who worked at Kragelund had gone away from home. When he got back, he looked into the courtyard and saw lots of wagons, but it lasted only a moment, and then everything was gone again. A little while later, the man who the farmhand worked for died. He saw something like that at another place he worked and someone at the farm died shortly afterward too.</english_publication>
-  <keywords>
-    <keyword><id>272</id><frequency>1</frequency><keyword>courtyard</keyword>courtyard</keyword>
-    <keyword><id>317</id><frequency>2</frequency><keyword>death</keyword>death</keyword>
-    <keyword><id>394</id><frequency>1</frequency><keyword>farm</keyword>farm</keyword>
-    <keyword><id>395</id><frequency>2</frequency><keyword>farm_hand</keyword>farmhand</keyword>
-    <keyword><id>537</id><frequency>1</frequency><keyword>home</keyword>home</keyword>
-    <keyword><id>848</id><frequency>1</frequency><keyword>night</keyword>night</keyword>
-    <keyword><id>1311</id><frequency>1</frequency><keyword>wagon</keyword>wagon</keyword>
-  </keywords>
-  <etk_index><id>9</id>
-    <heading_danish>D&#248;dsvarsler</heading_danish>
-    <heading_english>Death portents</heading_english>
-  </etk_index>
-  <tango_indices>
-    <tango_index><id>7</id><display_name>People: Farmer</display_name></tango_index>
-    <tango_index><id>9</id><display_name>People: Farmhand / Shepherd</display_name></tango_index>
-    <tango_index><id>83</id><display_name>Actions or events: Death</display_name></tango_index>
-    <tango_index><id>112</id><display_name>Time, Season, Weather: Night </display_name></tango_index>
-    <tango_index><id>128</id><display_name>Resolution: Negative</display_name></tango_index>
-  </tango_indices>
-  <genre><id>2</id><name>Legend</name></genre>
-</story>
+</informant>

@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<informant person_id="574">
+<informant><person_id>574</person_id>
   <core_informant/>
   <full_name> Anonymous</full_name>
   <last_name>Anonymous</last_name>
@@ -9,44 +8,44 @@
   <death_date>N/A</death_date>
   <occupations/>
   <stories>
-    <story story_id="882" secondary_informant="0">
+    <story><story_id>882</story_id><secondary_informant>0</secondary_informant>
       <informant_id>574</informant_id>
       <publication_info>DS_V_744</publication_info>
       <full_name>574 - 0.00 - DS_V_744</full_name>
       <url>data/stories/882.dfl</url>
-      <place_recorded id="488">R&#xF8;dding</place_recorded>
+      <place_recorded><id>488</id>R&#248;dding</place_recorded>
       <places_mentioned>
-        <place id="143">
+        <place><id>143</id>
           <name>Em</name>
         </place>
-        <place id="988">
-          <name>&#xD8;ster Assels</name>
+        <place><id>988</id>
+          <name>&#216;ster Assels</name>
         </place>
       </places_mentioned>
     </story>
   </stories>
   <places>
-    <place type="birth_place">
+    <place><type>birth_place</type>
       <place_id>488</place_id>
-      <name>R&#xF8;dding</name>
-      <display_name>R&#xF8;dding (birth place)</display_name>
+      <name>R&#248;dding</name>
+      <display_name>R&#248;dding (birth place)</display_name>
     </place>
-    <place type="death_place">
+    <place><type>death_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (death place)</display_name>
     </place>
-    <place type="story_place">
+    <place><type>story_place</type>
       <place_id>488</place_id>
-      <name>R&#xF8;dding</name>
-      <display_name>R&#xF8;dding (stories recorded here)</display_name>
+      <name>R&#248;dding</name>
+      <display_name>R&#248;dding (stories recorded here)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>988</place_id>
-      <name>&#xD8;ster Assels</name>
-      <display_name>&#xD8;ster Assels (mentioned in 1 story)</display_name>
+      <name>&#216;ster Assels</name>
+      <display_name>&#216;ster Assels (mentioned in 1 story)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>143</place_id>
       <name>Em</name>
       <display_name>Em (mentioned in 1 story)</display_name>

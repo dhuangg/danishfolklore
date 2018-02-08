@@ -1,68 +1,75 @@
-<story><story_id>144</story_id>
-  <publication_info>FK_0_400</publication_info>
-  <full_name>241 - 1.03 - FK_0_400</full_name>
-  <informant_id>241</informant_id>
-  <informant_last_name>Pedersen</informant_last_name>
-  <informant_first_name>Jens Peter</informant_first_name>
-  <informant_full_name>Jens Peter Pedersen</informant_full_name>
-  <order_told>1.03</order_told>
-  <fieldtrip><id>11</id>October 1893</fieldtrip>
-  <fieldtrip_start_date>1893-09-10</fieldtrip_start_date>
-  <fieldtrip_end_date>1893-10-26</fieldtrip_end_date>
+<informant><person_id>144</person_id>
+  <core_informant/>
+  <full_name>Johanne Marie Kristensdatter</full_name>
+  <last_name>Kristensdatter</last_name>
+  <first_name>Johanne Marie</first_name>
+  <gender>f</gender>
+  <birth_date>0000-00-00</birth_date>
+  <death_date>0000-00-00</death_date>
+  <occupations/>
+  <stories>
+    <story><story_id>585</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>144</informant_id>
+      <publication_info>DS_IV_1406</publication_info>
+      <full_name>144 - 0.00 - DS_IV_1406</full_name>
+      <url>data/stories/585.dfl</url>
+      <place_recorded><id>313</id>Jerslev</place_recorded>
+      <places_mentioned/>
+    </story>
+    <story><story_id>586</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>144</informant_id>
+      <publication_info>DS_VI_48</publication_info>
+      <full_name>144 - 0.00 - DS_VI_48</full_name>
+      <url>data/stories/586.dfl</url>
+      <place_recorded><id>673</id>Ugilt</place_recorded>
+      <places_mentioned>
+        <place><id>1033</id>
+          <name>Trudslev</name>
+        </place>
+      </places_mentioned>
+    </story>
+    <story><story_id>587</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>144</informant_id>
+      <publication_info>DS_VII_426</publication_info>
+      <full_name>144 - 0.00 - DS_VII_426</full_name>
+      <url>data/stories/587.dfl</url>
+      <place_recorded><id>673</id>Ugilt</place_recorded>
+      <places_mentioned/>
+    </story>
+    <story><story_id>588</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>144</informant_id>
+      <publication_info>DS_VII_690</publication_info>
+      <full_name>144 - 0.00 - DS_VII_690</full_name>
+      <url>data/stories/588.dfl</url>
+      <place_recorded><id>313</id>Jerslev</place_recorded>
+      <places_mentioned/>
+    </story>
+  </stories>
   <places>
-    <place><type>place_recorded</type>
-      <place_id>306</place_id>
-      <name>Ilbj&#230;rge</name>
-      <display_name>Ilbj&#230;rge (place recorded)</display_name>
+    <place><type>birth_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (birth place)</display_name>
+    </place>
+    <place><type>death_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (death place)</display_name>
+    </place>
+    <place><type>story_place</type>
+      <place_id>313</place_id>
+      <name>Jerslev</name>
+      <display_name>Jerslev (stories recorded here)</display_name>
+    </place>
+    <place><type>story_place</type>
+      <place_id>673</place_id>
+      <name>Ugilt</name>
+      <display_name>Ugilt (stories recorded here)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>1033</place_id>
+      <name>Trudslev</name>
+      <display_name>Trudslev (mentioned in 1 story)</display_name>
     </place>
   </places>
-  <stories_mentioned>
-    <story><story_id>107</story_id>
-      <informant_id>150</informant_id>
-      <publication_info>FK_0_2</publication_info>
-      <full_name>150 - 3.44 - FK_0_2</full_name>
-      <url>data/stories/107.dfl</url>
-    </story>
-    <story><story_id>113</story_id>
-      <informant_id>150</informant_id>
-      <publication_info>JAH_VI_738</publication_info>
-      <full_name>150 - 4.02 - JAH_VI_738</full_name>
-      <url>data/stories/113.dfl</url>
-    </story>
-  </stories_mentioned>
-  <fielddiary_page_start>6192a</fielddiary_page_start>
-  <fielddiary_page_end>6192a</fielddiary_page_end>
-  <bibliographic_info/>
-  <bibliography_references/>
-  <annotation>Jens Peter's humorous story reflects the tensions that inform the relationships between the minister and the parish clerk and between the minister and the parishioners. The humor in the story relies on the obvious disconnect between the minister's description of the actions of a runaway cow, and the mourners' impression that he is describing the journey of the soul of the dearly departed. The punch line plays on the expression, "nu rejser hun ad helvede til," which can mean literally, "Now she journey's off to hell" or, more figuratively and descriptively, "Now she takes off running like hellfire." The word "kirkegaard" literally means churchyard but, as all Danish churches are surrounded by their cemeteries, it can also be translated as cemetery.</annotation>
-  <danish_manuscript>Pr. der kaster Jord paa: 1. Nu [rejs] s&#230;tter
-hu Halen i Vejret 2. Nu stikker hu
-i Rend. 3 Nu rejser hu ad Helvede til.
-Degnens K&#248;er stod [udenfor] paa Kirkegaarden.</danish_manuscript>
-  <english_manuscript>The minister who is throwing earth [on a grave]: 1. Now she puts her tail in the air 2. Now she starts to run. 3. Now she journeys off to Hell [Now she takes off running like hellfire]. The parish clerk's cows were grazing in the churchyard.</english_manuscript>
-  <danish_publication>Pr&#230;sten var bange for Beseh&#248;vder og staar og ser paa &#233;n, der vil til det paa Kirkegaarden, ilav han kastede Jord paa et Lig. Da han kaster den f&#248;rste Skovlfuld paa, siger han: "Nu s&#230;tter hun Halen i Vejret." Ved den anden Skovlfuld siger han: "Nu stikker hun i Rend," og da saa Koen i det samme er bleven l&#248;s og render afsted, siger han ved tredje Skovlfuld: "Nu rejser hun ad Helvede til." Det var Degnens K&#248;er, der stod paa Kirkegaarden.</danish_publication>
-  <english_publication>The minister was afraid of runaway cows and he stood watching one that was acting up by the cemetery while he was throwing dirt on a casket. When he tosses the first shovelful on it, he says, &#8220;Now she&#8217;s putting her tail in the air.&#8221; At the second shovelful he says, &#8220;Now she&#8217;s starting to run,&#8221; and at the moment that the cow gets loose and runs away, he says with the third shovelful, &#8220;Now she journey&#8217;s off to hell.&#8221; [&#8220;Now she takes off running like hellfire&#8221;]. It was the parish clerk&#8217;s cows who stood there by the cemetery.</english_publication>
-  <keywords>
-    <keyword><id>13</id><frequency>1</frequency><keyword>afraid</keyword>afraid</keyword>
-    <keyword><id>16</id><frequency>1</frequency><keyword>air</keyword>air</keyword>
-    <keyword><id>227</id><frequency>2</frequency><keyword>church</keyword>church</keyword>
-    <keyword><id>262</id><frequency>1</frequency><keyword>corpse</keyword>corpse</keyword>
-    <keyword><id>274</id><frequency>3</frequency><keyword>cow</keyword>cow</keyword>
-    <keyword><id>368</id><frequency>1</frequency><keyword>earth</keyword>earth</keyword>
-    <keyword><id>520</id><frequency>1</frequency><keyword>hell</keyword>hell</keyword>
-    <keyword><id>786</id><frequency>1</frequency><keyword>minister</keyword>minister</keyword>
-    <keyword><id>904</id><frequency>1</frequency><keyword>parish_clerk</keyword>parish clerk</keyword>
-    <keyword><id>1110</id><frequency>3</frequency><keyword>shovel</keyword>shovel</keyword>
-    <keyword><id>1239</id><frequency>1</frequency><keyword>tail</keyword>tail</keyword>
-  </keywords>
-  <etk_index><id>39</id>
-    <heading_danish>Vore f&#230;dres kirketjeneste</heading_danish>
-    <heading_english>Our forebears' Church services</heading_english>
-  </etk_index>
-  <tango_indices>
-    <tango_index><id>14</id><display_name>People: Minister</display_name></tango_index>
-    <tango_index><id>80</id><display_name>Actions or events: Church ceremony</display_name></tango_index>
-    <tango_index><id>130</id><display_name>Resolution: None / Unspecified</display_name></tango_index>
-  </tango_indices>
-  <genre><id>11</id><name>Jocular Tale</name></genre>
-</story>
+</informant>

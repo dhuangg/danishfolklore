@@ -1,284 +1,48 @@
-<story><story_id>151</story_id>
-  <publication_info>DS_IV_1486</publication_info>
-  <full_name>241 - 2.01 - DS_IV_1486</full_name>
-  <informant_id>241</informant_id>
-  <informant_last_name>Pedersen</informant_last_name>
-  <informant_first_name>Jens Peter</informant_first_name>
-  <informant_full_name>Jens Peter Pedersen</informant_full_name>
-  <order_told>2.01</order_told>
-  <fieldtrip><id>11</id>October 1893</fieldtrip>
-  <fieldtrip_start_date>1893-09-10</fieldtrip_start_date>
-  <fieldtrip_end_date>1893-10-26</fieldtrip_end_date>
+<informant><person_id>151</person_id>
+  <core_informant/>
+  <full_name>Jokum Kristensen</full_name>
+  <last_name>Kristensen</last_name>
+  <first_name>Jokum</first_name>
+  <gender>m</gender>
+  <birth_date>0000-00-00</birth_date>
+  <death_date>0000-00-00</death_date>
+  <occupations>
+    <occupation><occupation_id>31</occupation_id>Husejer</occupation>
+  </occupations>
+  <stories>
+    <story><story_id>590</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>151</informant_id>
+      <publication_info>DS_VII_700</publication_info>
+      <full_name>151 - 0.00 - DS_VII_700</full_name>
+      <url>data/stories/590.dfl</url>
+      <place_recorded><id>510</id>S&#230;sing</place_recorded>
+      <places_mentioned>
+        <place><id>690</id>
+          <name>Vendsyssel</name>
+        </place>
+      </places_mentioned>
+    </story>
+  </stories>
   <places>
-    <place><type>place_recorded</type>
-      <place_id>306</place_id>
-      <name>Ilbj&#230;rge</name>
-      <display_name>Ilbj&#230;rge (place recorded)</display_name>
+    <place><type>birth_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (birth place)</display_name>
+    </place>
+    <place><type>death_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (death place)</display_name>
+    </place>
+    <place><type>story_place</type>
+      <place_id>510</place_id>
+      <name>S&#230;sing</name>
+      <display_name>S&#230;sing (stories recorded here)</display_name>
     </place>
     <place><type>place_mentioned</type>
-      <place_id>184</place_id>
-      <name>Gammel Vr&#229;</name>
-      <display_name>Gammel Vr&#229; (place mentioned)</display_name>
-    </place>
-    <place><type>place_mentioned</type>
-      <place_id>314</place_id>
-      <name>Jerslev bro</name>
-      <display_name>Jerslev bro (place mentioned)</display_name>
-    </place>
-    <place><type>place_mentioned</type>
-      <place_id>453</place_id>
-      <name>&#216;stbjerg bakker</name>
-      <display_name>&#216;stbjerg bakker (place mentioned)</display_name>
-    </place>
-    <place><type>place_mentioned</type>
-      <place_id>434</place_id>
-      <name>N&#248;rre Sundby</name>
-      <display_name>N&#248;rre Sundby (place mentioned)</display_name>
-    </place>
-    <place><type>place_mentioned</type>
-      <place_id>672</place_id>
-      <name>Tylstrup</name>
-      <display_name>Tylstrup (place mentioned)</display_name>
+      <place_id>690</place_id>
+      <name>Vendsyssel</name>
+      <display_name>Vendsyssel (mentioned in 1 story)</display_name>
     </place>
   </places>
-  <stories_mentioned>
-    <story><story_id>46</story_id>
-      <informant_id>150</informant_id>
-      <publication_info>DS_II_E_156</publication_info>
-      <full_name>150 - 1.43 - DS_II_E_156</full_name>
-      <url>data/stories/46.dfl</url>
-    </story>
-    <story><story_id>154</story_id>
-      <informant_id>241</informant_id>
-      <publication_info>DS_IV_1465</publication_info>
-      <full_name>241 - 2.04 - DS_IV_1465</full_name>
-      <url>data/stories/154.dfl</url>
-    </story>
-    <story><story_id>160</story_id>
-      <informant_id>241</informant_id>
-      <publication_info>DS_IV_1592</publication_info>
-      <full_name>241 - 2.10 - DS_IV_1592</full_name>
-      <url>data/stories/160.dfl</url>
-    </story>
-    <story><story_id>162</story_id>
-      <informant_id>241</informant_id>
-      <publication_info>DS_IV_1605</publication_info>
-      <full_name>241 - 2.12 - DS_IV_1605</full_name>
-      <url>data/stories/162.dfl</url>
-    </story>
-    <story><story_id>770</story_id>
-      <informant_id>392</informant_id>
-      <publication_info>DS_IV_1481</publication_info>
-      <full_name>392 - 0.00 - DS_IV_1481</full_name>
-      <url>data/stories/770.dfl</url>
-    </story>
-    <story><story_id>766</story_id>
-      <informant_id>339</informant_id>
-      <publication_info>DS_V_1422</publication_info>
-      <full_name>339 - 0.00 - DS_V_1422</full_name>
-      <url>data/stories/766.dfl</url>
-    </story>
-    <story><story_id>871</story_id>
-      <informant_id/>
-      <publication_info>DS_IV_1490</publication_info>
-      <full_name>0 - 0.00 - DS_IV_1490</full_name>
-      <url>data/stories/871.dfl</url>
-    </story>
-    <story><story_id>153</story_id>
-      <informant_id>241</informant_id>
-      <publication_info>DS_IV_1488</publication_info>
-      <full_name>241 - 2.03 - DS_IV_1488</full_name>
-      <url>data/stories/153.dfl</url>
-    </story>
-    <story><story_id>501</story_id>
-      <informant_id>508</informant_id>
-      <publication_info>DS_IV_1467</publication_info>
-      <full_name>508 - 0.00 - DS_IV_1467</full_name>
-      <url>data/stories/501.dfl</url>
-    </story>
-    <story><story_id>562</story_id>
-      <informant_id>59</informant_id>
-      <publication_info>DS_IV_1478</publication_info>
-      <full_name>59 - 0.00 - DS_IV_1478</full_name>
-      <url>data/stories/562.dfl</url>
-    </story>
-    <story><story_id>669</story_id>
-      <informant_id>360</informant_id>
-      <publication_info>DS_IV_1447</publication_info>
-      <full_name>360 - 0.00 - DS_IV_1447</full_name>
-      <url>data/stories/669.dfl</url>
-    </story>
-    <story><story_id>797</story_id>
-      <informant_id>501</informant_id>
-      <publication_info>DS_IV_1449</publication_info>
-      <full_name>501 - 0.00 - DS_IV_1449</full_name>
-      <url>data/stories/797.dfl</url>
-    </story>
-    <story><story_id>475</story_id>
-      <informant_id>385</informant_id>
-      <publication_info>DS_IV_1376</publication_info>
-      <full_name>385 - 0.00 - DS_IV_1376</full_name>
-      <url>data/stories/475.dfl</url>
-    </story>
-    <story><story_id>164</story_id>
-      <informant_id>241</informant_id>
-      <publication_info>DS_IV_1408</publication_info>
-      <full_name>241 - 2.14 - DS_IV_1408</full_name>
-      <url>data/stories/164.dfl</url>
-    </story>
-    <story><story_id>152</story_id>
-      <informant_id>241</informant_id>
-      <publication_info>DS_IV_1485</publication_info>
-      <full_name>241 - 2.02 - DS_IV_1485</full_name>
-      <url>data/stories/152.dfl</url>
-    </story>
-    <story><story_id>699</story_id>
-      <informant_id>523</informant_id>
-      <publication_info>DS_IV_1466</publication_info>
-      <full_name>523 - 0.00 - DS_IV_1466</full_name>
-      <url>data/stories/699.dfl</url>
-    </story>
-  </stories_mentioned>
-  <fielddiary_page_start>6291a</fielddiary_page_start>
-  <fielddiary_page_end>6292a</fielddiary_page_end>
-  <bibliographic_info>Jensen 1993
-Aakj&#230;r 1915
-Knutzon and Lind 1940</bibliographic_info>
-  <bibliography_references>
-    <reference><id>289</id><category>general</category>
-      <display_string>[Book] Jensen, Henrik Fibaek. 1993. &lt;i&gt;Jens Langkniv : en jysk Robin Hood? (Studier fra sprog- og oldtidsforskning)&lt;/i&gt;. Copenhagen: Museum Tusculanum.</display_string>
-    </reference>
-    <reference><id>290</id><category>general</category>
-      <display_string>[Book] Aakj&#230;r, Jeppe. 1915. &lt;i&gt;Jens Langkniv. Af Fjends Herreds Kr&#248;nikebog&lt;/i&gt;. Copenhagen and Kristiania: Gyldendal.</display_string>
-    </reference>
-    <reference><id>749</id><category>general</category>
-      <display_string>[Film or broadcast] Knutzon, Per, Lind, Peter. 1940. Jens Langkniv. Denmark, Cimbria Film.</display_string>
-    </reference>
-  </bibliography_references>
-  <annotation>Stories of ambushes in wooded, hilly areas are widely attested. Some of the attacks are successful (DS IV 1467), and some not (DS IV 1478). In these stories, groups of robbers are frequently described as having dens from where they can monitor activity on the road through the use of a primitive alarm (DS IV 1447 and 1449).
-
-     The horse dealer probably feels that the innkeeper's warning is suspect, since other stories attest to the villainy of larcenous innkeepers (DS IV 1376 and JPP 2.14). 
-
-     The horse dealer's escape from the robber is not unusual, and Jens Peter's next story continues in the same vein (JPP 2.02). Although the robbery is initially successful, the horse dealer is able to appeal for help from the local manor farm's huntsman. The thief is killed and the money recovered--essentially reestablishing the economic order that was in peril at the beginning of the story. Because robbers often worked in groups, the inability to further question the robber implies a continuing threat there in the woods.
-
-     The robber's use of the long knife relates him to another famous Danish thief, Jens Langkniv [Longknife] who, in some stories, appears as a Danish Robin Hood (DS IV 1466) (Jensen 1993). Langkniv was an alias of Jens Olesen who was the subject of numerous legends, a novel by Jeppe Aakj&#230;r (1915), and a film in the 1940s directed by Per Knutzon and Peter Lind (considered by some film critics to be among the very worst films ever made).</annotation>
-  <danish_manuscript>Der var en Hestehandler der kom syd fra
-over Fjorden og vilde til Marked her nede.
-H. kom saa til en Kro, der hedder Lang-
-bro Kro nord for Sundby -- den G. gik
-Vejen over Jerslev Broe. S. siger Kro-
-manden--han sad inde og fik lidt at [vide]
-spise: Det er ikke v&#230;rd at tage herfra
-i Aften, det er et stivt Vejr og der er en
-Mand gaaet ud herfra, ham troer vi ikke
-s. godt. Jo, svarer Hesteh. h. var godt
-bev&#230;bnet og havde 2 gode Pistoler. H. havde
-fortalt Hesteh. at h havde 4000 Rigsda
-ler med sig h. vilde ned at kj&#248;be Heste for
-og det havde Gavtyven h&#248;rt. S. rejser h.
-Dg. h. kom s. ned ad &#216;stbj&#230;rg Bakker &#248;ster
-
-6291B
-for Tylstrup, der gik Vejen igien og s,
-var der et Krat og der gik Vejen ogsaa
-gjennem og ude i det lige ved Siden af
-Vejen var en Dal, der kaldtes Tyrens
-Dal, der boede R&#248;veren og havde en
-stue og havde Snorer over Vejen med
-en Klokke nede i Stuen, s. h. kunde
-h&#248;re naar nogen f&#230;rdedes ad Vejen.
-R&#248;veren kommer s. til ham og tager
-Pengene fra ham og en stor hvid Vad-
-melstr&#248;je af dem de brugte i gl. Tid
-med store S&#248;lvknapper i. H. sk&#248;d
-nok Pistolerne af, men ramte ikke.
-S. tog Manden Flugten da h. kom fra
-Tyven og kom til Gl. Vraa og der fik
-h. skytten med sig. H. fortalte hvor-
-dan det var gaaet og h. bev&#230;bnede sig.
-Dg de kom s. derned da sad h. og havde
-bredt Vadmelstr&#248;jen ud og sad og talte
-alle Pengene. S. raaber skytten til ham
-h. skulde overgive sig ellers sk&#248;d h. Men
-R&#248;veren sprang op og kastede sin
-lange Kniv, hvis Blad var en halv
-Alen lang og den vilde h. have sat i 
-Skytten men den ramte ham ikke men
-i Sadlen lige foran ham og blev der
-siddende. S. sk&#248;d h. ham lige med det
-samme; s. forbitret blev h. Men h. &#230;rgre
-de sig over det s. l&#230;nge h. levede, at h.
-
-6292A
-h. saadan skulde skyde ham ned paa Stedet 
-for der kom slet ingen flere Oplysninger 
-frem om ham. Min BedsteFader tjente
-som Kusk paa Gl. Vraa og h. kjendte 
-Skytten s. det er sandf&#230;rdigt at det
-gik saadan til. Der er mange bliven
-plyndrede der paa det Sted.</danish_manuscript>
-  <english_manuscript>There was a horse dealer who came from the south over the fjord and wanted to go to market down here. He arrived at an inn which is called Langbro (Long Bridge) Inn north of Sundby--at the time the road went over Jerslev bridge. Then the innkeeper said--he'd sat down inside and was having a bite to eat: "It's not worth it, leaving here tonight. It's a mighty thick weather, and a guy we don't trust too well just left here." "Well," answers the horse dealer, he was pretty well armed and had two good pistols. He'd told him, the horse dealer, that he had 4000 rigsdaler on him that he was going to go down and buy horses with and the robber had heard that. Then he leaves. When he got down to the &#216;stbj&#230;rg hills east of Tylstrup--that's where the road went through--there was a woods which he also had to go through and in there just next to the road there was a dale, which was called Tyrens (the Bull's) dale. The robber lived there and he had a den along with ropes across the road with a bell down in the den so he could hear when somebody traveled along the road. The robber comes at him and takes the money from him along with a big white homespun sweater like the ones they used in the olden days with big silver buttons on it. He shot his pistols well enough, but didn't hit him. The man fled when he got away from the thief and arrived at Gammel-Vr&#229;, where he got the huntsman to come with him. He told him what had happened and then he armed himself. When they got down into the dale, the robber was sitting down and had spread the homespun sweater out and was counting the money. The huntsman yells to him to give himself up otherwise he'd shoot. But the robber jumped up and threw his long knife, the blade of which was a foot long, and he wanted to hit the huntsman; but he didn't hit him but hit the saddle just in front of him instead and it stuck there. Then he shot him immediately, that's how mad he was. But he regretted it as long as he lived that he had to shoot him on the spot because they got no more information from him. My grandfather worked as the coachman at Gammel-Vr&#229; and he knew the huntsman, so this really had happened. A lot of people were plundered there at that spot.</english_manuscript>
-  <danish_publication>Der var en hestehandler der kom syd fra over fjorden og vilde til marked her nede. Han kom s&#229; til en kro, der hedder Langbro kro nord for Sundby &#8212; den gang gik vejen over Jerslev broe. Han sad nu inde og fik lidt at leve af, og fortalte kromanden, at han havde 4000 rigsdaler ved sig, han vilde ned og kj&#248;be heste for. "Det er ikke v&#230;rd at tage herfra i aften," siger s&#229; v&#230;rten, "det er et stivt vejr, og der er en mand g&#229;et ud herfra, ham troer vi ikke s&#229; godt." Han havde netop siddet der inde og h&#248;rt hestehandleren fort&#230;lle om pengene og var s&#229; rejst af. "Jo," svarer han, "jeg m&#229; af sted. Jeg er godt bev&#230;bnet og har to gode pistoler." S&#229; rejser han. Da han kom ned ad &#216;sbj&#230;rg bakker &#246;ster for Tylstrup &#8212; der gik vejen igjennem &#8212; s&#229; var der et krat, som han ogs&#229; skulde igjennem, og inde i det lige ved siden af vejen var en dal, der kaldtes Tyrens dal. Der boede r&#246;veren, og han havde en stue samt snore over vejen med en klokke nede i stuen, s&#229; han kunde h&#248;re, n&#229;r nogen f&#230;rdedes ad vejen. R&#246;veren kommer s&#229; til ham og tager pengene fra ham, samt en stor hvid vadmelstr&#246;je af dem, de brugte i gammel tid, med store s&#248;lvknapper i. Han sk&#248;d nok pistolerne af, men ramte ikke. Manden tog flugten, da han kom fra tyven, og kom til Gammel-Vr&#229;, hvor han fik skytten med sig. Han fortalte ham, hvordan det var g&#229;et, og s&#229; bev&#230;bnede han sig. Den gang de s&#229; kom ned i dalen, sad r&#246;veren og havde bredt vadmelstr&#246;jen ud og sad og talte pengene. Skytten r&#229;ber til ham, at han skal overgive sig, ellers skyder han. Men r&#246;veren sprang op og kastede sin lange kniv, hvis blad var en halv alen i l&#230;ngden, og den vilde han have sat i skytten; men den ramte ham ikke, derimod i sadlen lige forved ham, og blev der siddende. S&#229; sk&#248;d han ham lige med det samme, s&#229; forbitret blev han. Men han &#230;rgrede sig over det, s&#229; l&#230;nge han levede, at han s&#229;dan skulde skyde ham ned p&#229; stedet, for der kom slet ingen oplysninger frem om ham. Min bedstefader tjente som kusk p&#229; Gammel-Vr&#229;, og han kjendte skytten, s&#229; det var sandf&#230;rdigt, at det gik s&#229;dan til. Der er mange andre blevne plyndrede p&#229; dette sted.</danish_publication>
-  <english_publication>There was a horse dealer who came from the south over the fjord and wanted to go to market down here. He arrived at an inn, which is called Langbro (Long Bridge) Inn north of Sundby--at the time the road went over Jerslev bridge. So he sat down inside and had a bite to eat and told the innkeeper that he had four thousand rixdollars with him that he was going to use to buy horses. &#8220;It's not worth it leaving here tonight,&#8221; said the innkeeper, &#8220;it's a mighty thick weather, and a guy we don't trust too well just left here.&#8221; He had in fact been sitting inside there and heard the horse dealer talk about the money and then he had left. &#8220;Well,&#8221; he answers, &#8220;I've got to get going. I'm pretty well armed--I've got two good pistols.&#8221; Then he leaves. When he got down to the &#216;stbj&#230;rg hills east of Tylstrup--that's where the road went through--there was a woods which he also had to go through, and in there just next to the road there was a dale, which was called Tyrens (Bull's) dale. The robber lived there and he had a den along with a rope across the road with a bell down in the den so he could hear when somebody traveled along the road. The robber comes at him and takes the money from him along with a big white homespun sweater like the ones they used to wear in the olden days with big silver buttons on it. The man shot his pistols well enough, but didn't hit him. Then he fled and when he got away from the thief and arrived at Gammel-Vr&#229;, where he got the huntsman to come with him. He told him what had happened and then he armed himself. When they got down into the dale, the robber was sitting down and had spread the homespun sweater out and was counting the money. The huntsman yells to him to give himself up otherwise he'd shoot. But the robber jumped up and threw his long knife, the blade of which was a foot long, and he wanted to hit the huntsman; but he didn't hit him but instead hit the saddle just in front of him and it stuck there. Then the huntsman immediately shot the robber, that's how mad he was. But he regretted it as long as he lived that he had to shoot the robber on the spot because they got no further information on him. My grandfather worked as the coachman at Gammel-Vr&#229; and he knew the huntsman, so this really had happened. So many others were robbed at that spot.</english_publication>
-  <keywords>
-    <keyword><id>45</id><frequency>2</frequency><keyword>armed</keyword>armed</keyword>
-    <keyword><id>88</id><frequency>1</frequency><keyword>bells</keyword>bells</keyword>
-    <keyword><id>144</id><frequency>2</frequency><keyword>bridge</keyword>bridge</keyword>
-    <keyword><id>156</id><frequency>1</frequency><keyword>bull</keyword>bull</keyword>
-    <keyword><id>164</id><frequency>1</frequency><keyword>button</keyword>button</keyword>
-    <keyword><id>240</id><frequency>1</frequency><keyword>coachman</keyword>coachman</keyword>
-    <keyword><id>294</id><frequency>3</frequency><keyword>dale</keyword>dale</keyword>
-    <keyword><id>306</id><frequency>1</frequency><keyword>day</keyword>day</keyword>
-    <keyword><id>312</id><frequency>2</frequency><keyword>dealer</keyword>dealer</keyword>
-    <keyword><id>322</id><frequency>2</frequency><keyword>den</keyword>den</keyword>
-    <keyword><id>369</id><frequency>1</frequency><keyword>east</keyword>east</keyword>
-    <keyword><id>390</id><frequency>1</frequency><keyword>fact</keyword>fact</keyword>
-    <keyword><id>433</id><frequency>1</frequency><keyword>foot</keyword>foot</keyword>
-    <keyword><id>478</id><frequency>1</frequency><keyword>grandfather</keyword>grandfather</keyword>
-    <keyword><id>530</id><frequency>1</frequency><keyword>hill</keyword>hill</keyword>
-    <keyword><id>539</id><frequency>2</frequency><keyword>homespun</keyword>homespun</keyword>
-    <keyword><id>545</id><frequency>3</frequency><keyword>horse</keyword>horse</keyword>
-    <keyword><id>550</id><frequency>4</frequency><keyword>hunter</keyword>hunter</keyword>
-    <keyword><id>560</id><frequency>2</frequency><keyword>inn</keyword>inn</keyword>
-    <keyword><id>561</id><frequency>2</frequency><keyword>inn_keeper</keyword>inn keeper</keyword>
-    <keyword><id>638</id><frequency>1</frequency><keyword>knife</keyword>knife</keyword>
-    <keyword><id>751</id><frequency>1</frequency><keyword>market</keyword>market</keyword>
-    <keyword><id>793</id><frequency>3</frequency><keyword>money</keyword>money</keyword>
-    <keyword><id>863</id><frequency>1</frequency><keyword>north</keyword>north</keyword>
-    <keyword><id>955</id><frequency>2</frequency><keyword>pistol</keyword>pistol</keyword>
-    <keyword><id>1035</id><frequency>1</frequency><keyword>rix_dollars</keyword>rix dollars</keyword>
-    <keyword><id>1036</id><frequency>5</frequency><keyword>road</keyword>road</keyword>
-    <keyword><id>1037</id><frequency>4</frequency><keyword>robber</keyword>robber</keyword>
-    <keyword><id>1039</id><frequency>1</frequency><keyword>robbery</keyword>robbery</keyword>
-    <keyword><id>1044</id><frequency>1</frequency><keyword>rope</keyword>rope</keyword>
-    <keyword><id>1059</id><frequency>1</frequency><keyword>saddle</keyword>saddle</keyword>
-    <keyword><id>1106</id><frequency>4</frequency><keyword>shooting</keyword>shooting</keyword>
-    <keyword><id>1118</id><frequency>1</frequency><keyword>silver</keyword>silver</keyword>
-    <keyword><id>1167</id><frequency>1</frequency><keyword>south</keyword>south</keyword>
-    <keyword><id>1230</id><frequency>2</frequency><keyword>sweater</keyword>sweater</keyword>
-    <keyword><id>1250</id><frequency>1</frequency><keyword>thief</keyword>thief</keyword>
-    <keyword><id>1269</id><frequency>1</frequency><keyword>tonight</keyword>tonight</keyword>
-    <keyword><id>1324</id><frequency>1</frequency><keyword>weather</keyword>weather</keyword>
-    <keyword><id>1340</id><frequency>1</frequency><keyword>white</keyword>white</keyword>
-    <keyword><id>1360</id><frequency>1</frequency><keyword>woods</keyword>woods</keyword>
-  </keywords>
-  <etk_index><id>20</id>
-    <heading_danish>R&#248;vere, drabsm&#230;nd og tyve</heading_danish>
-    <heading_english>Robbers, murderers and thieves</heading_english>
-  </etk_index>
-  <tango_indices>
-    <tango_index><id>7</id><display_name>People: Farmer</display_name></tango_index>
-    <tango_index><id>17</id><display_name>People: Robber / Thief</display_name></tango_index>
-    <tango_index><id>26</id><display_name>Places: Bridge</display_name></tango_index>
-    <tango_index><id>31</id><display_name>Places: Forest / Woods</display_name></tango_index>
-    <tango_index><id>32</id><display_name>Places: Heath</display_name></tango_index>
-    <tango_index><id>33</id><display_name>Places: Inn</display_name></tango_index>
-    <tango_index><id>72</id><display_name>Animals: Farm animal</display_name></tango_index>
-    <tango_index><id>74</id><display_name>Animals: Horse</display_name></tango_index>
-    <tango_index><id>95</id><display_name>Actions or events: Punishment</display_name></tango_index>
-    <tango_index><id>97</id><display_name>Actions or events: Theft</display_name></tango_index>
-    <tango_index><id>127</id><display_name>Resolution: Positive</display_name></tango_index>
-    <tango_index><id>131</id><display_name>Stylistics: Direct Conversation</display_name></tango_index>
-  </tango_indices>
-  <genre><id>2</id><name>Legend</name></genre>
-</story>
+</informant>

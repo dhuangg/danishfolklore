@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<informant person_id="413">
+<informant><person_id>413</person_id>
   <core_informant/>
   <full_name>Marie Johansen</full_name>
   <last_name>Johansen</last_name>
@@ -9,56 +8,56 @@
   <death_date>N/A</death_date>
   <occupations/>
   <stories>
-    <story story_id="703" secondary_informant="0">
+    <story><story_id>703</story_id><secondary_informant>0</secondary_informant>
       <informant_id>413</informant_id>
       <publication_info>DS_II_B_211</publication_info>
       <full_name>413 - 0.00 - DS_II_B_211</full_name>
       <url>data/stories/703.dfl</url>
-      <place_recorded id="754">B&#xF8;ffelkobbel</place_recorded>
+      <place_recorded><id>754</id>B&#248;ffelkobbel</place_recorded>
       <places_mentioned>
-        <place id="130">
-          <name>Dybb&#xF8;l</name>
+        <place><id>130</id>
+          <name>Dybb&#248;l</name>
         </place>
-        <place id="26">
+        <place><id>26</id>
           <name>Als</name>
         </place>
       </places_mentioned>
     </story>
-    <story story_id="704" secondary_informant="0">
+    <story><story_id>704</story_id><secondary_informant>0</secondary_informant>
       <informant_id>413</informant_id>
       <publication_info>DS_II_B_34</publication_info>
       <full_name>413 - 0.00 - DS_II_B_34</full_name>
       <url>data/stories/704.dfl</url>
-      <place_recorded id="754">B&#xF8;ffelkobbel</place_recorded>
+      <place_recorded><id>754</id>B&#248;ffelkobbel</place_recorded>
       <places_mentioned>
-        <place id="130">
-          <name>Dybb&#xF8;l</name>
+        <place><id>130</id>
+          <name>Dybb&#248;l</name>
         </place>
       </places_mentioned>
     </story>
   </stories>
   <places>
-    <place type="birth_place">
+    <place><type>birth_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (birth place)</display_name>
     </place>
-    <place type="death_place">
+    <place><type>death_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (death place)</display_name>
     </place>
-    <place type="story_place">
+    <place><type>story_place</type>
       <place_id>754</place_id>
-      <name>B&#xF8;ffelkobbel</name>
-      <display_name>B&#xF8;ffelkobbel (stories recorded here)</display_name>
+      <name>B&#248;ffelkobbel</name>
+      <display_name>B&#248;ffelkobbel (stories recorded here)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>130</place_id>
-      <name>Dybb&#xF8;l</name>
-      <display_name>Dybb&#xF8;l (mentioned in 2 stories)</display_name>
+      <name>Dybb&#248;l</name>
+      <display_name>Dybb&#248;l (mentioned in 2 stories)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>26</place_id>
       <name>Als</name>
       <display_name>Als (mentioned in 1 story)</display_name>

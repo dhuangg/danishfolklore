@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<informant person_id="484">
+<informant><person_id>484</person_id>
   <core_informant/>
   <full_name>Ane Nielsen</full_name>
   <last_name>Nielsen</last_name>
@@ -9,39 +8,39 @@
   <death_date>N/A</death_date>
   <occupations/>
   <stories>
-    <story story_id="469" secondary_informant="0">
+    <story><story_id>469</story_id><secondary_informant>0</secondary_informant>
       <informant_id>484</informant_id>
       <publication_info>DS_V_146</publication_info>
       <full_name>484 - 0.00 - DS_V_146</full_name>
       <url>data/stories/469.dfl</url>
-      <place_recorded id="377">Lisbj&#xE6;rg terp</place_recorded>
+      <place_recorded><id>377</id>Lisbj&#230;rg terp</place_recorded>
       <places_mentioned>
-        <place id="1002">
-          <name>Skj&#xE6;rs&#xF8;</name>
+        <place><id>1002</id>
+          <name>Skj&#230;rs&#248;</name>
         </place>
       </places_mentioned>
     </story>
   </stories>
   <places>
-    <place type="birth_place">
+    <place><type>birth_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (birth place)</display_name>
     </place>
-    <place type="death_place">
+    <place><type>death_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (death place)</display_name>
     </place>
-    <place type="story_place">
+    <place><type>story_place</type>
       <place_id>377</place_id>
-      <name>Lisbj&#xE6;rg terp</name>
-      <display_name>Lisbj&#xE6;rg terp (stories recorded here)</display_name>
+      <name>Lisbj&#230;rg terp</name>
+      <display_name>Lisbj&#230;rg terp (stories recorded here)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>1002</place_id>
-      <name>Skj&#xE6;rs&#xF8;</name>
-      <display_name>Skj&#xE6;rs&#xF8; (mentioned in 1 story)</display_name>
+      <name>Skj&#230;rs&#248;</name>
+      <display_name>Skj&#230;rs&#248; (mentioned in 1 story)</display_name>
     </place>
   </places>
 </informant>

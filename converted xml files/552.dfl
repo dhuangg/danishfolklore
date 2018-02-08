@@ -1,78 +1,37 @@
-<story><story_id>552</story_id>
-  <publication_info>DS_VI_66</publication_info>
-  <full_name>554 - 0.00 - DS_VI_66</full_name>
-  <informant_id>554</informant_id>
-  <informant_last_name>West</informant_last_name>
-  <informant_first_name>J. L.</informant_first_name>
-  <informant_full_name>J. L. West</informant_full_name>
-  <order_told>0.00</order_told>
-  <fieldtrip><id/>None recorded</fieldtrip>
+<informant><person_id>552</person_id>
+  <core_informant/>
+  <full_name>Kontorist F. Wennerwald</full_name>
+  <last_name>Wennerwald</last_name>
+  <first_name>F.</first_name>
+  <gender>N/A</gender>
+  <birth_date>N/A</birth_date>
+  <death_date>N/A</death_date>
+  <occupations/>
+  <stories>
+    <story><story_id>512</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>552</informant_id>
+      <publication_info>DS_VI_430</publication_info>
+      <full_name>552 - 0.00 - DS_VI_430</full_name>
+      <url>data/stories/512.dfl</url>
+      <place_recorded><id>829</id>Maribo</place_recorded>
+      <places_mentioned/>
+    </story>
+  </stories>
   <places>
-    <place><type>place_recorded</type>
-      <place_id>913</place_id>
-      <name>Voldby</name>
-      <display_name>Voldby (place recorded)</display_name>
+    <place><type>birth_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (birth place)</display_name>
     </place>
-    <place><type>place_mentioned</type>
-      <place_id>76</place_id>
-      <name>Bornholm</name>
-      <display_name>Bornholm (place mentioned)</display_name>
+    <place><type>death_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (death place)</display_name>
+    </place>
+    <place><type>story_place</type>
+      <place_id>829</place_id>
+      <name>Maribo</name>
+      <display_name>Maribo (stories recorded here)</display_name>
     </place>
   </places>
-  <stories_mentioned>
-    <story><story_id>159</story_id>
-      <informant_id>241</informant_id>
-      <publication_info>DS_IV_1052</publication_info>
-      <full_name>241 - 2.09 - DS_IV_1052</full_name>
-      <url>data/stories/159.dfl</url>
-    </story>
-    <story><story_id>586</story_id>
-      <informant_id>144</informant_id>
-      <publication_info>DS_VI_48</publication_info>
-      <full_name>144 - 0.00 - DS_VI_48</full_name>
-      <url>data/stories/586.dfl</url>
-    </story>
-    <story><story_id>701</story_id>
-      <informant_id>378</informant_id>
-      <publication_info>DS_VI_68</publication_info>
-      <full_name>378 - 0.00 - DS_VI_68</full_name>
-      <url>data/stories/701.dfl</url>
-    </story>
-  </stories_mentioned>
-  <fielddiary_page_start>N/A</fielddiary_page_start>
-  <fielddiary_page_end>N/A</fielddiary_page_end>
-  <bibliographic_info/>
-  <bibliography_references/>
-  <annotation/>
-  <danish_manuscript/>
-  <english_manuscript/>
-  <danish_publication>En g&#229;rdmand p&#229; Bornholm var frimurer, og derfor skulde Fanden have ham &#8212; for han skal jo have alle frimurerne. N&#229;r han gik til alters, n&#248;d han ikke af br&#248;det eller af vinen. Da han var d&#248;d og skulde jordes, og de kom til kirken med liget, sprang l&#229;get af kisten, og da var der ikke andet i den end en sort oksehud. Fanden havde jo taget ham.</danish_publication>
-  <english_publication>A farmer on Bornholm was a Freemason, and so the devil was supposed to get him--because he is supposed to get all Freemasons. When he went to communion, he didn't take bread or wine. When he was dead and was to be buried and they brought his corpse to the church, the lid of the casket burst open and there was nothing in there but a black ox hide. The devil had taken him.</english_publication>
-  <keywords>
-    <keyword><id>106</id><frequency>1</frequency><keyword>black</keyword>black</keyword>
-    <keyword><id>139</id><frequency>1</frequency><keyword>bread</keyword>bread</keyword>
-    <keyword><id>158</id><frequency>1</frequency><keyword>burial</keyword>burial</keyword>
-    <keyword><id>185</id><frequency>1</frequency><keyword>casket</keyword>casket</keyword>
-    <keyword><id>227</id><frequency>1</frequency><keyword>church</keyword>church</keyword>
-    <keyword><id>252</id><frequency>1</frequency><keyword>communion</keyword>communion</keyword>
-    <keyword><id>262</id><frequency>1</frequency><keyword>corpse</keyword>corpse</keyword>
-    <keyword><id>317</id><frequency>1</frequency><keyword>death</keyword>death</keyword>
-    <keyword><id>324</id><frequency>2</frequency><keyword>devil</keyword>devil</keyword>
-    <keyword><id>396</id><frequency>1</frequency><keyword>farmer</keyword>farmer</keyword>
-    <keyword><id>444</id><frequency>2</frequency><keyword>freemason</keyword>freemason</keyword>
-    <keyword><id>892</id><frequency>1</frequency><keyword>ox</keyword>ox</keyword>
-    <keyword><id>1347</id><frequency>1</frequency><keyword>wine</keyword>wine</keyword>
-  </keywords>
-  <etk_index><id>27</id>
-    <heading_danish>Om Fanden og forbund med ham</heading_danish>
-    <heading_english>About the Devil and being in league with the Devil</heading_english>
-  </etk_index>
-  <tango_indices>
-    <tango_index><id>57</id><display_name>Supernatural Beings: Devil</display_name></tango_index>
-    <tango_index><id>75</id><display_name>Animals: Ox</display_name></tango_index>
-    <tango_index><id>83</id><display_name>Actions or events: Death</display_name></tango_index>
-    <tango_index><id>95</id><display_name>Actions or events: Punishment</display_name></tango_index>
-    <tango_index><id>128</id><display_name>Resolution: Negative</display_name></tango_index>
-  </tango_indices>
-  <genre><id>2</id><name>Legend</name></genre>
-</story>
+</informant>

@@ -1,146 +1,46 @@
-<story><story_id>356</story_id>
-  <publication_info>DS_V_1232</publication_info>
-  <full_name>90 - 3.02 - DS_V_1232</full_name>
-  <informant_id>90</informant_id>
-  <informant_last_name>Jensdatter</informant_last_name>
-  <informant_first_name>(Ane) Margrete</informant_first_name>
-  <informant_full_name>(Ane) Margrete Jensdatter</informant_full_name>
-  <order_told>3.02</order_told>
-  <fieldtrip><id>4</id>July 1894</fieldtrip>
-  <fieldtrip_start_date>1894-07-10</fieldtrip_start_date>
-  <fieldtrip_end_date>1894-07-15</fieldtrip_end_date>
+<informant><person_id>356</person_id>
+  <core_informant/>
+  <full_name>Martin Dyrholm</full_name>
+  <last_name>Dyrholm</last_name>
+  <first_name>Martin</first_name>
+  <gender>N/A</gender>
+  <birth_date>N/A</birth_date>
+  <death_date>N/A</death_date>
+  <occupations/>
+  <stories>
+    <story><story_id>709</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>356</informant_id>
+      <publication_info>DS_VII_1180</publication_info>
+      <full_name>356 - 0.00 - DS_VII_1180</full_name>
+      <url>data/stories/709.dfl</url>
+      <place_recorded><id>761</id>Brudager</place_recorded>
+      <places_mentioned>
+        <place><id>1055</id>
+          <name>Voermark</name>
+        </place>
+      </places_mentioned>
+    </story>
+  </stories>
   <places>
-    <place><type>place_recorded</type>
-      <place_id>405</place_id>
-      <name>Mejlby</name>
-      <display_name>Mejlby (place recorded)</display_name>
+    <place><type>birth_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (birth place)</display_name>
+    </place>
+    <place><type>death_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (death place)</display_name>
+    </place>
+    <place><type>story_place</type>
+      <place_id>761</place_id>
+      <name>Brudager</name>
+      <display_name>Brudager (stories recorded here)</display_name>
     </place>
     <place><type>place_mentioned</type>
-      <place_id>182</place_id>
-      <name>Galgeknolden</name>
-      <display_name>Galgeknolden (place mentioned)</display_name>
-    </place>
-    <place><type>place_mentioned</type>
-      <place_id>540</place_id>
-      <name>Skj&#248;dstrup</name>
-      <display_name>Skj&#248;dstrup (place mentioned)</display_name>
+      <place_id>1055</place_id>
+      <name>Voermark</name>
+      <display_name>Voermark (mentioned in 1 story)</display_name>
     </place>
   </places>
-  <stories_mentioned>
-    <story><story_id>474</story_id>
-      <informant_id>385</informant_id>
-      <publication_info>DS_IV_1343</publication_info>
-      <full_name>385 - 0.00 - DS_IV_1343</full_name>
-      <url>data/stories/474.dfl</url>
-    </story>
-    <story><story_id>565</story_id>
-      <informant_id>426</informant_id>
-      <publication_info>DS_V_1376</publication_info>
-      <full_name>426 - 0.00 - DS_V_1376</full_name>
-      <url>data/stories/565.dfl</url>
-    </story>
-    <story><story_id>568</story_id>
-      <informant_id>205</informant_id>
-      <publication_info>DS_V_1265</publication_info>
-      <full_name>205 - 0.00 - DS_V_1265</full_name>
-      <url>data/stories/568.dfl</url>
-    </story>
-    <story><story_id>683</story_id>
-      <informant_id>495</informant_id>
-      <publication_info>DS_V_1195</publication_info>
-      <full_name>495 - 0.00 - DS_V_1195</full_name>
-      <url>data/stories/683.dfl</url>
-    </story>
-    <story><story_id>710</story_id>
-      <informant_id>522</informant_id>
-      <publication_info>DS_V_1182</publication_info>
-      <full_name>522 - 0.00 - DS_V_1182</full_name>
-      <url>data/stories/710.dfl</url>
-    </story>
-    <story><story_id>732</story_id>
-      <informant_id>348</informant_id>
-      <publication_info>DS_V_1091</publication_info>
-      <full_name>348 - 0.00 - DS_V_1091</full_name>
-      <url>data/stories/732.dfl</url>
-    </story>
-  </stories_mentioned>
-  <fielddiary_page_start>6717b</fielddiary_page_start>
-  <fielddiary_page_end>6717b</fielddiary_page_end>
-  <bibliographic_info>L&#248;kke 1994
-L&#248;kke 1997
-L&#248;kke 2002
-M&#248;ller 1940
-Pentika&#239;nen 1968
-Steensberg 1964</bibliographic_info>
-  <bibliography_references>
-    <reference><id>46</id><category>general</category>
-      <display_string>[Book] Pentik&#228;inen, Juha. 1968. &lt;i&gt;The nordic dead-child tradition. Nordic dead-child beings (FF Communications)&lt;/i&gt;. Helsinki: Suomalainen Tiedeakatemia.</display_string>
-    </reference>
-    <reference><id>41</id><category>general</category>
-      <display_string>[Book] L&#248;kke, Anne, Faye Jacobsen, Anette. 1997. &lt;i&gt;Familieliv i Danmark, 1550 til &#229;r 2000&lt;/i&gt;. &#197;rhus: Systime.</display_string>
-    </reference>
-    <reference><id>43</id><category>general</category>
-      <display_string>[Article] L&#248;kke, Anne. 1994. Pr&#230;mierede plejem&#248;dre &#8211; Den k&#248;benhavnske filantropi og u&#230;gte b&#248;rn i 1800-tallet. Vol. 67 of &lt;i&gt;Den Jyske Historiker&lt;/i&gt; July.</display_string>
-    </reference>
-    <reference><id>44</id><category>general</category>
-      <display_string>[Article] L&#248;kke, Anne. 2002. Infant Mortality in Nineteenth Century Denmark. Regionality, Feeding Habits, Illegitimacy and Causes of Death. Vol. 3 of &lt;i&gt;Hygiea Internationalis&lt;/i&gt;, 115-149.</display_string>
-    </reference>
-    <reference><id>45</id><category>general</category>
-      <display_string>[Book] M&#248;ller, J. S. 1940. Vol. 48 of &lt;i&gt;Moder og Barn i dansk Folkeoverlevering. Fra Svangerskab til Daab og Kirkegang (Danmarks Folkeminder)&lt;/i&gt;. Copenhagen: Munksgaard.</display_string>
-    </reference>
-    <reference><id>257</id><category>general</category>
-      <display_string>[Book] Steensberg, Axel. 1964. &lt;i&gt;Dagligliv i Danmark i det nittende og tyvende &#229;rhundrede&lt;/i&gt;. Copenhagen: Nyt nordisk forlag.</display_string>
-    </reference>
-    <reference><id>609</id><category>general</category>
-      <display_string>[Article] Tangherlini, Timothy R. 1998. "Who ya gonna call?" : Ministers and the Mediation of Ghostly Threat in Danish Legend Tradition. Vol. 57 of &lt;i&gt;Western Folklore&lt;/i&gt; 2/3: 153-178.</display_string>
-    </reference>
-  </bibliography_references>
-  <annotation>Margrete's story of an infanticide and subsequent haunting aligns well with her other stories of guilty haunts. In this case, Margrete proposes that the local minister is the most competent to deal successfully with the disruptive force of the haunt.
-
-     By the nineteenth century, infanticide was a relatively rare cause of death, possibly a result of the progressive policies enacted in the eighteenth century that were intended to prevent it. Infant mortality for the Danish countryside through the nineteenth century ranged from a low of 6% to a high of nearly 25% (L&#248;kke 2002). L&#248;kke notes that approximately 10% of all rural births were out of wedlock--this percentage fell in the latter parts if the century as legal reforms were enacted and rural economic organization was liberalized. In the last decades of the century, it was common practice for couples to marry after the birth of their first child.
-
-     Executions in the early part of the century were often major events. Local soldiers surrounded the gallows to prevent people from getting too close to the spectacle (Steensberg 1964, 318). Capital punishment became less and less common during the course of the century. Christian V.'s Danske Lov, which was still in effect until 1866, allowed for the execution of a wide range of criminals, primarily to serve as examples for others. Earlier forms of execution and torture that included branding, dismemberment and the public display of the criminal's dismembered body, were abolished in 1833. Simple execution such as hanging was still allowed in the reformed law of 1866 for crimes such as murder and crimes against the state. The death penalty was not abolished in Denmark until the punishment reform law of 1930.</annotation>
-  <danish_manuscript>Paa pr&#230;stegaardsmarken alleryderst ligger
-Galgeknolden. Der blev i min bitte Tid
-en Pige henrettet som havde undlivet et
-Barn. Min Fader ville a skulde have
-nemt ved at se det, men a gr&#230;d s. ve-
-modig og vilde ikke. Den Pige saa de bag
-efter, hun sad med hendes Barn oven
-for Jorden lige oven paa selve Knolden
-S. maatte Pastor Katrup ned og have
-hende manet.
-</danish_manuscript>
-  <english_manuscript>All the way out on the parsonage's field there's Galgeknolden (Gallows knoll). A little girl was executed there when I was a little girl, she'd killed a baby. My father thought it would be easy for me to see it, but I cried so terribly and I didn't want to. Afterward, they saw the girl sitting with her baby on top of the ground right on the knoll itself. Then pastor Katrup had to go down there and conjure her.</english_manuscript>
-  <danish_publication>Alleryderst p&#229; pr&#230;steg&#229;rdsmarken i Skj&#248;dstrup ligger Galgeknolden. Der blev i min lille tid en pige henrettet, som havde undlivet et barn. Min fader vilde, a skulde have v&#230;ret ned at se det, men a gr&#230;d s&#229; vemodig og vilde ikke. Bag efter s&#229; de den pige sidde med hendes barn oven for jorden lige oven p&#229; selve knolden. S&#229; m&#229;tte pastor Katrup ned og have hende manet.</danish_publication>
-  <english_publication>All the way out on the parsonage&#8217;s field in Skj&#248;dstrup there&#8217;s Galgeknolden (Gallows knoll). A little girl was executed there in my day, she&#8217;d killed a baby. My father wanted me to go down and see it, but I cried so terribly and I didn&#8217;t want to. Afterward, they saw the girl sitting with her baby on top of the ground right on the knoll itself. Then pastor Katrup had to go down there and conjure her.</english_publication>
-  <keywords>
-    <keyword><id>61</id><frequency>2</frequency><keyword>baby</keyword>baby</keyword>
-    <keyword><id>255</id><frequency>1</frequency><keyword>conjuring</keyword>conjuring</keyword>
-    <keyword><id>285</id><frequency>1</frequency><keyword>crying</keyword>crying</keyword>
-    <keyword><id>388</id><frequency>1</frequency><keyword>execution</keyword>execution</keyword>
-    <keyword><id>399</id><frequency>1</frequency><keyword>father</keyword>father</keyword>
-    <keyword><id>410</id><frequency>1</frequency><keyword>field</keyword>field</keyword>
-    <keyword><id>453</id><frequency>1</frequency><keyword>gallows</keyword>gallows</keyword>
-    <keyword><id>467</id><frequency>2</frequency><keyword>girl</keyword>girl</keyword>
-    <keyword><id>622</id><frequency>1</frequency><keyword>kill</keyword>kill</keyword>
-    <keyword><id>641</id><frequency>2</frequency><keyword>knoll</keyword>knoll</keyword>
-    <keyword><id>906</id><frequency>1</frequency><keyword>parsonage</keyword>parsonage</keyword>
-    <keyword><id>908</id><frequency>1</frequency><keyword>pastor</keyword>pastor</keyword>
-  </keywords>
-  <etk_index><id>24</id>
-    <heading_danish>Kvindelige gjenf&#230;rd</heading_danish>
-    <heading_english>Female revenants</heading_english>
-  </etk_index>
-  <tango_indices>
-    <tango_index><id>14</id><display_name>People: Minister</display_name></tango_index>
-    <tango_index><id>30</id><display_name>Places: Field</display_name></tango_index>
-    <tango_index><id>59</id><display_name>Supernatural Beings: Ghost / Revenant</display_name></tango_index>
-    <tango_index><id>81</id><display_name>Actions or events: Conjuring</display_name></tango_index>
-    <tango_index><id>88</id><display_name>Actions or events: Haunting</display_name></tango_index>
-    <tango_index><id>92</id><display_name>Actions or events: Murder</display_name></tango_index>
-    <tango_index><id>95</id><display_name>Actions or events: Punishment</display_name></tango_index>
-    <tango_index><id>127</id><display_name>Resolution: Positive</display_name></tango_index>
-  </tango_indices>
-  <genre><id>2</id><name>Legend</name></genre>
-</story>
+</informant>

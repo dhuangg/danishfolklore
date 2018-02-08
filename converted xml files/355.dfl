@@ -1,84 +1,54 @@
-<story><story_id>355</story_id>
-  <publication_info>DS_V_51</publication_info>
-  <full_name>90 - 3.01 - DS_V_51</full_name>
-  <informant_id>90</informant_id>
-  <informant_last_name>Jensdatter</informant_last_name>
-  <informant_first_name>(Ane) Margrete</informant_first_name>
-  <informant_full_name>(Ane) Margrete Jensdatter</informant_full_name>
-  <order_told>3.01</order_told>
-  <fieldtrip><id>4</id>July 1894</fieldtrip>
-  <fieldtrip_start_date>1894-07-10</fieldtrip_start_date>
-  <fieldtrip_end_date>1894-07-15</fieldtrip_end_date>
+<informant><person_id>355</person_id>
+  <core_informant/>
+  <full_name>Lars Dybdahl</full_name>
+  <last_name>Dybdahl</last_name>
+  <first_name>Lars</first_name>
+  <gender>N/A</gender>
+  <birth_date>N/A</birth_date>
+  <death_date>N/A</death_date>
+  <occupations/>
+  <stories>
+    <story><story_id>658</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>355</informant_id>
+      <publication_info>DS_I_975</publication_info>
+      <full_name>355 - 0.00 - DS_I_975</full_name>
+      <url>data/stories/658.dfl</url>
+      <place_recorded><id>291</id>Hundborg</place_recorded>
+      <places_mentioned/>
+    </story>
+    <story><story_id>659</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>355</informant_id>
+      <publication_info>DS_VII_149</publication_info>
+      <full_name>355 - 0.00 - DS_VII_149</full_name>
+      <url>data/stories/659.dfl</url>
+      <place_recorded><id>291</id>Hundborg</place_recorded>
+      <places_mentioned>
+        <place><id>246</id>
+          <name>Hassing</name>
+        </place>
+      </places_mentioned>
+    </story>
+  </stories>
   <places>
-    <place><type>place_recorded</type>
-      <place_id>405</place_id>
-      <name>Mejlby</name>
-      <display_name>Mejlby (place recorded)</display_name>
+    <place><type>birth_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (birth place)</display_name>
+    </place>
+    <place><type>death_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (death place)</display_name>
+    </place>
+    <place><type>story_place</type>
+      <place_id>291</place_id>
+      <name>Hundborg</name>
+      <display_name>Hundborg (stories recorded here)</display_name>
     </place>
     <place><type>place_mentioned</type>
-      <place_id>540</place_id>
-      <name>Skj&#248;dstrup</name>
-      <display_name>Skj&#248;dstrup (place mentioned)</display_name>
+      <place_id>246</place_id>
+      <name>Hassing</name>
+      <display_name>Hassing (mentioned in 1 story)</display_name>
     </place>
   </places>
-  <stories_mentioned>
-    <story><story_id>351</story_id>
-      <informant_id>90</informant_id>
-      <publication_info>DS_II_H_34</publication_info>
-      <full_name>90 - 2.19 - DS_II_H_34</full_name>
-      <url>data/stories/351.dfl</url>
-    </story>
-    <story><story_id>842</story_id>
-      <informant_id>437</informant_id>
-      <publication_info>DS_V_97</publication_info>
-      <full_name>437 - 0.00 - DS_V_97</full_name>
-      <url>data/stories/842.dfl</url>
-    </story>
-  </stories_mentioned>
-  <fielddiary_page_start>6717a</fielddiary_page_start>
-  <fielddiary_page_end>6717b</fielddiary_page_end>
-  <bibliographic_info/>
-  <bibliography_references/>
-  <annotation>The role of lamb as a portent of death relies on an inversion: while a lamb usually represents renewal, birth and innocence (and is closely linked to the symbol of the lamb in Christianity), the lamb here represents death. Often, the corpse lamb is missing a leg and travels about only at night.
-
-     This variant differs from the one Tang Kristensen collected from Margrete five years earlier (AMJ 2.19). Here we learn that Margrete's father was born on a holiday, a liminal time in the year, and this affords him second sight. The threat posed by the fox, a main component of the complicating action of the earlier variant, is missing from this variant, while the role of the corpse lamb as an omen for an impending death is more fully developed.</annotation>
-  <danish_manuscript>Min fader er f&#248;dt selve Pintsemorgen og
-6717B
-han kunde se alt Skidteri. Ved Kattesundet 
-en Dam midt i Skj&#248;dstrup saa h en Aften
-en R&#230;v der gik fra den op efter Kirker, der
-havde den sin Vandring. Der var mange
-der saa den. Han kunde og se Liglammet
-det kom og pikkede paa D&#248;rene hvor nogen skulde d&#248;
-</danish_manuscript>
-  <english_manuscript>My father was born on Whitsunday itself, and he could see all sorts of stuff. By Kattesund, a pond in the middle of Skj&#248;dstrup, he saw a fox one evening that went from it up to the church, that's where it tended to wander about. There were many who saw it. He could also see the corpse lamb that went and tapped on the doors where somebody was to die.</english_manuscript>
-  <danish_publication>Min fader var f&#248;dt selve pintsemorgen, og han kunde se alt skidteri. Ved Kattesundet, en dam midt i Skj&#246;dstrup, s&#229; han en aften en r&#230;v, der gik fra den op efter kirken. Der var mange, der s&#229; den, for der havde den sin vandring. Han kunde og se liglammet, det kom og pikkede p&#229; d&#246;rene, hvor nogen skulde d&#248;.</danish_publication>
-  <english_publication>My father was born on Whitsunday itself, and he could see all sorts of stuff. By Kattesund, a pond in the middle of Skj&#248;dstrup, he saw a fox one evening that went from it up to the church. There were many who saw that, because that&#8217;s where it tended to wander. He could also see the corpse lamb that went and tapped on the doors where somebody was to die.</english_publication>
-  <keywords>
-    <keyword><id>102</id><frequency>1</frequency><keyword>birth</keyword>birth</keyword>
-    <keyword><id>227</id><frequency>1</frequency><keyword>church</keyword>church</keyword>
-    <keyword><id>263</id><frequency>1</frequency><keyword>corpse_lamb</keyword>corpse lamb</keyword>
-    <keyword><id>317</id><frequency>1</frequency><keyword>death</keyword>death</keyword>
-    <keyword><id>344</id><frequency>1</frequency><keyword>door</keyword>door</keyword>
-    <keyword><id>386</id><frequency>1</frequency><keyword>evening</keyword>evening</keyword>
-    <keyword><id>399</id><frequency>1</frequency><keyword>father</keyword>father</keyword>
-    <keyword><id>441</id><frequency>1</frequency><keyword>fox</keyword>fox</keyword>
-    <keyword><id>973</id><frequency>1</frequency><keyword>pond</keyword>pond</keyword>
-    <keyword><id>1218</id><frequency>1</frequency><keyword>sunday</keyword>Sunday</keyword>
-    <keyword><id>1315</id><frequency>1</frequency><keyword>wandering</keyword>wandering</keyword>
-    <keyword><id>1341</id><frequency>1</frequency><keyword>whitsun</keyword>whitsun</keyword>
-  </keywords>
-  <etk_index><id>23</id>
-    <heading_danish>Forskjelligt sp&#248;geri og gjenf&#230;rds nedmaning</heading_danish>
-    <heading_english>Revenants and their conjuring</heading_english>
-  </etk_index>
-  <tango_indices>
-    <tango_index><id>28</id><display_name>Places: Church</display_name></tango_index>
-    <tango_index><id>59</id><display_name>Supernatural Beings: Ghost / Revenant</display_name></tango_index>
-    <tango_index><id>88</id><display_name>Actions or events: Haunting</display_name></tango_index>
-    <tango_index><id>102</id><display_name>Time, Season, Weather: Sunday</display_name></tango_index>
-    <tango_index><id>129</id><display_name>Resolution: Ambiguous</display_name></tango_index>
-    <tango_index><id>136</id><display_name>Animals: Wild</display_name></tango_index>
-  </tango_indices>
-  <genre><id>2</id><name>Legend</name></genre>
-</story>
+</informant>

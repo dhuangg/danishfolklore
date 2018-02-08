@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<informant person_id="464">
+<informant><person_id>464</person_id>
   <core_informant/>
   <full_name>Marianne Madsdatter</full_name>
   <last_name>Madsdatter</last_name>
@@ -9,36 +8,36 @@
   <death_date>N/A</death_date>
   <occupations/>
   <stories>
-    <story story_id="455" secondary_informant="0">
+    <story><story_id>455</story_id><secondary_informant>0</secondary_informant>
       <informant_id>464</informant_id>
       <publication_info>DS_VII_129</publication_info>
       <full_name>464 - 0.00 - DS_VII_129</full_name>
       <url>data/stories/455.dfl</url>
-      <place_recorded id="752">Bj&#xE6;rgby</place_recorded>
+      <place_recorded><id>752</id>Bj&#230;rgby</place_recorded>
       <places_mentioned>
-        <place id="896">
+        <place><id>896</id>
           <name>Tyholm</name>
         </place>
       </places_mentioned>
     </story>
   </stories>
   <places>
-    <place type="birth_place">
+    <place><type>birth_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (birth place)</display_name>
     </place>
-    <place type="death_place">
+    <place><type>death_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (death place)</display_name>
     </place>
-    <place type="story_place">
+    <place><type>story_place</type>
       <place_id>752</place_id>
-      <name>Bj&#xE6;rgby</name>
-      <display_name>Bj&#xE6;rgby (stories recorded here)</display_name>
+      <name>Bj&#230;rgby</name>
+      <display_name>Bj&#230;rgby (stories recorded here)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>896</place_id>
       <name>Tyholm</name>
       <display_name>Tyholm (mentioned in 1 story)</display_name>

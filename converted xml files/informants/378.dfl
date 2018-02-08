@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<informant person_id="378">
+<informant><person_id>378</person_id>
   <core_informant/>
   <full_name>Louise Hansen</full_name>
   <last_name>Hansen</last_name>
@@ -9,44 +8,44 @@
   <death_date>N/A</death_date>
   <occupations/>
   <stories>
-    <story story_id="701" secondary_informant="0">
+    <story><story_id>701</story_id><secondary_informant>0</secondary_informant>
       <informant_id>378</informant_id>
       <publication_info>DS_VI_68</publication_info>
       <full_name>378 - 0.00 - DS_VI_68</full_name>
       <url>data/stories/701.dfl</url>
-      <place_recorded id="799">Hurup</place_recorded>
+      <place_recorded><id>799</id>Hurup</place_recorded>
       <places_mentioned>
-        <place id="71">
+        <place><id>71</id>
           <name>Boller</name>
         </place>
-        <place id="629">
-          <name>T&#xE5;rs</name>
+        <place><id>629</id>
+          <name>T&#229;rs</name>
         </place>
       </places_mentioned>
     </story>
   </stories>
   <places>
-    <place type="birth_place">
+    <place><type>birth_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (birth place)</display_name>
     </place>
-    <place type="death_place">
+    <place><type>death_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (death place)</display_name>
     </place>
-    <place type="story_place">
+    <place><type>story_place</type>
       <place_id>799</place_id>
       <name>Hurup</name>
       <display_name>Hurup (stories recorded here)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>629</place_id>
-      <name>T&#xE5;rs</name>
-      <display_name>T&#xE5;rs (mentioned in 1 story)</display_name>
+      <name>T&#229;rs</name>
+      <display_name>T&#229;rs (mentioned in 1 story)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>71</place_id>
       <name>Boller</name>
       <display_name>Boller (mentioned in 1 story)</display_name>

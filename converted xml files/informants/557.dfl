@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<informant person_id="557">
+<informant><person_id>557</person_id>
   <core_informant/>
   <full_name>Kristen Andersen</full_name>
   <last_name>Andersen</last_name>
@@ -9,39 +8,39 @@
   <death_date>N/A</death_date>
   <occupations/>
   <stories>
-    <story story_id="624" secondary_informant="0">
+    <story><story_id>624</story_id><secondary_informant>0</secondary_informant>
       <informant_id>557</informant_id>
       <publication_info>DS_I_50</publication_info>
       <full_name>557 - 0.00 - DS_I_50</full_name>
       <url>data/stories/624.dfl</url>
-      <place_recorded id="915">Vore</place_recorded>
+      <place_recorded><id>915</id>Vore</place_recorded>
       <places_mentioned>
-        <place id="1039">
-          <name>&#xD8;ster Velling</name>
+        <place><id>1039</id>
+          <name>&#216;ster Velling</name>
         </place>
       </places_mentioned>
     </story>
   </stories>
   <places>
-    <place type="birth_place">
+    <place><type>birth_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (birth place)</display_name>
     </place>
-    <place type="death_place">
+    <place><type>death_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (death place)</display_name>
     </place>
-    <place type="story_place">
+    <place><type>story_place</type>
       <place_id>915</place_id>
       <name>Vore</name>
       <display_name>Vore (stories recorded here)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>1039</place_id>
-      <name>&#xD8;ster Velling</name>
-      <display_name>&#xD8;ster Velling (mentioned in 1 story)</display_name>
+      <name>&#216;ster Velling</name>
+      <display_name>&#216;ster Velling (mentioned in 1 story)</display_name>
     </place>
   </places>
 </informant>

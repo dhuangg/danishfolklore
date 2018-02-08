@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<informant person_id="376">
+<informant><person_id>376</person_id>
   <core_informant/>
   <full_name>Lorens Hansen</full_name>
   <last_name>Hansen</last_name>
@@ -9,47 +8,47 @@
   <death_date>N/A</death_date>
   <occupations/>
   <stories>
-    <story story_id="673" secondary_informant="0">
+    <story><story_id>673</story_id><secondary_informant>0</secondary_informant>
       <informant_id>376</informant_id>
       <publication_info>DS_VI_240</publication_info>
       <full_name>376 - 0.00 - DS_VI_240</full_name>
       <url>data/stories/673.dfl</url>
-      <place_recorded id="769">F&#xE6;lsted</place_recorded>
+      <place_recorded><id>769</id>F&#230;lsted</place_recorded>
       <places_mentioned/>
     </story>
-    <story story_id="674" secondary_informant="0">
+    <story><story_id>674</story_id><secondary_informant>0</secondary_informant>
       <informant_id>376</informant_id>
       <publication_info>DS_VI_592</publication_info>
       <full_name>376 - 0.00 - DS_VI_592</full_name>
       <url>data/stories/674.dfl</url>
-      <place_recorded id="769">F&#xE6;lsted</place_recorded>
+      <place_recorded><id>769</id>F&#230;lsted</place_recorded>
       <places_mentioned>
-        <place id="1049">
-          <name>N&#xF8;rup</name>
+        <place><id>1049</id>
+          <name>N&#248;rup</name>
         </place>
       </places_mentioned>
     </story>
   </stories>
   <places>
-    <place type="birth_place">
+    <place><type>birth_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (birth place)</display_name>
     </place>
-    <place type="death_place">
+    <place><type>death_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (death place)</display_name>
     </place>
-    <place type="story_place">
+    <place><type>story_place</type>
       <place_id>769</place_id>
-      <name>F&#xE6;lsted</name>
-      <display_name>F&#xE6;lsted (stories recorded here)</display_name>
+      <name>F&#230;lsted</name>
+      <display_name>F&#230;lsted (stories recorded here)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>1049</place_id>
-      <name>N&#xF8;rup</name>
-      <display_name>N&#xF8;rup (mentioned in 1 story)</display_name>
+      <name>N&#248;rup</name>
+      <display_name>N&#248;rup (mentioned in 1 story)</display_name>
     </place>
   </places>
 </informant>

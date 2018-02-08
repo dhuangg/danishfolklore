@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<informant person_id="324">
+<informant><person_id>324</person_id>
   <core_informant/>
   <full_name>Mikkel Andersen</full_name>
   <last_name>Andersen</last_name>
@@ -9,36 +8,36 @@
   <death_date>N/A</death_date>
   <occupations/>
   <stories>
-    <story story_id="713" secondary_informant="0">
+    <story><story_id>713</story_id><secondary_informant>0</secondary_informant>
       <informant_id>324</informant_id>
       <publication_info>DSnr_VI_534</publication_info>
       <full_name>324 - 0.00 - DSnr_VI_534</full_name>
       <url>data/stories/713.dfl</url>
-      <place_recorded id="91">Brandstrup</place_recorded>
+      <place_recorded><id>91</id>Brandstrup</place_recorded>
       <places_mentioned>
-        <place id="660">
+        <place><id>660</id>
           <name>Troms kirke</name>
         </place>
       </places_mentioned>
     </story>
   </stories>
   <places>
-    <place type="birth_place">
+    <place><type>birth_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (birth place)</display_name>
     </place>
-    <place type="death_place">
+    <place><type>death_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (death place)</display_name>
     </place>
-    <place type="story_place">
+    <place><type>story_place</type>
       <place_id>91</place_id>
       <name>Brandstrup</name>
       <display_name>Brandstrup (stories recorded here)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>660</place_id>
       <name>Troms kirke</name>
       <display_name>Troms kirke (mentioned in 1 story)</display_name>

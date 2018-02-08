@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<informant person_id="371">
+<informant><person_id>371</person_id>
   <core_informant/>
   <full_name>Pastor Constantin Hansen</full_name>
   <last_name>Hansen</last_name>
@@ -9,39 +8,39 @@
   <death_date>N/A</death_date>
   <occupations/>
   <stories>
-    <story story_id="720" secondary_informant="0">
+    <story><story_id>720</story_id><secondary_informant>0</secondary_informant>
       <informant_id>371</informant_id>
       <publication_info>DS_VII_110</publication_info>
       <full_name>371 - 0.00 - DS_VII_110</full_name>
       <url>data/stories/720.dfl</url>
-      <place_recorded id="806">J&#xE6;rnved</place_recorded>
+      <place_recorded><id>806</id>J&#230;rnved</place_recorded>
       <places_mentioned>
-        <place id="1062">
-          <name>V&#xE6;n&#xF8;</name>
+        <place><id>1062</id>
+          <name>V&#230;n&#248;</name>
         </place>
       </places_mentioned>
     </story>
   </stories>
   <places>
-    <place type="birth_place">
+    <place><type>birth_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (birth place)</display_name>
     </place>
-    <place type="death_place">
+    <place><type>death_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (death place)</display_name>
     </place>
-    <place type="story_place">
+    <place><type>story_place</type>
       <place_id>806</place_id>
-      <name>J&#xE6;rnved</name>
-      <display_name>J&#xE6;rnved (stories recorded here)</display_name>
+      <name>J&#230;rnved</name>
+      <display_name>J&#230;rnved (stories recorded here)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>1062</place_id>
-      <name>V&#xE6;n&#xF8;</name>
-      <display_name>V&#xE6;n&#xF8; (mentioned in 1 story)</display_name>
+      <name>V&#230;n&#248;</name>
+      <display_name>V&#230;n&#248; (mentioned in 1 story)</display_name>
     </place>
   </places>
 </informant>

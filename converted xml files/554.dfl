@@ -1,98 +1,46 @@
-<story><story_id>554</story_id>
-  <publication_info>DS_I_717</publication_info>
-  <full_name>128 - 0.00 - DS_I_717</full_name>
-  <informant_id>128</informant_id>
-  <informant_last_name>J&#248;rgensen</informant_last_name>
-  <informant_first_name>Jakob</informant_first_name>
-  <informant_full_name>Jakob J&#248;rgensen</informant_full_name>
-  <order_told>0.00</order_told>
-  <fieldtrip><id/>None recorded</fieldtrip>
+<informant><person_id>554</person_id>
+  <core_informant/>
+  <full_name>J. L. West</full_name>
+  <last_name>West</last_name>
+  <first_name>J. L.</first_name>
+  <gender>N/A</gender>
+  <birth_date>N/A</birth_date>
+  <death_date>N/A</death_date>
+  <occupations/>
+  <stories>
+    <story><story_id>552</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>554</informant_id>
+      <publication_info>DS_VI_66</publication_info>
+      <full_name>554 - 0.00 - DS_VI_66</full_name>
+      <url>data/stories/552.dfl</url>
+      <place_recorded><id>913</id>Voldby</place_recorded>
+      <places_mentioned>
+        <place><id>76</id>
+          <name>Bornholm</name>
+        </place>
+      </places_mentioned>
+    </story>
+  </stories>
   <places>
-    <place><type>place_recorded</type>
-      <place_id>775</place_id>
-      <name>Firg&#229;rde</name>
-      <display_name>Firg&#229;rde (place recorded)</display_name>
+    <place><type>birth_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (birth place)</display_name>
+    </place>
+    <place><type>death_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (death place)</display_name>
+    </place>
+    <place><type>story_place</type>
+      <place_id>913</place_id>
+      <name>Voldby</name>
+      <display_name>Voldby (stories recorded here)</display_name>
     </place>
     <place><type>place_mentioned</type>
-      <place_id>110</place_id>
-      <name>Dakbj&#230;rg</name>
-      <display_name>Dakbj&#230;rg (place mentioned)</display_name>
+      <place_id>76</place_id>
+      <name>Bornholm</name>
+      <display_name>Bornholm (mentioned in 1 story)</display_name>
     </place>
   </places>
-  <stories_mentioned>
-    <story><story_id>180</story_id>
-      <informant_id>241</informant_id>
-      <publication_info>DSnr_I_901</publication_info>
-      <full_name>241 - 4.09 - DSnr_I_901</full_name>
-      <url>data/stories/180.dfl</url>
-    </story>
-    <story><story_id>385</story_id>
-      <informant_id>123</informant_id>
-      <publication_info>DS_I_767</publication_info>
-      <full_name>123 - 2.11 - DS_I_767</full_name>
-      <url>data/stories/385.dfl</url>
-    </story>
-    <story><story_id>790</story_id>
-      <informant_id>382</informant_id>
-      <publication_info>DS_I_898</publication_info>
-      <full_name>382 - 0.00 - DS_I_898</full_name>
-      <url>data/stories/790.dfl</url>
-    </story>
-    <story><story_id>579</story_id>
-      <informant_id>106</informant_id>
-      <publication_info>DS_I_748</publication_info>
-      <full_name>106 - 0.00 - DS_I_748</full_name>
-      <url>data/stories/579.dfl</url>
-    </story>
-    <story><story_id>522</story_id>
-      <informant_id>519</informant_id>
-      <publication_info>DS_I_774</publication_info>
-      <full_name>519 - 0.00 - DS_I_774</full_name>
-      <url>data/stories/522.dfl</url>
-    </story>
-  </stories_mentioned>
-  <fielddiary_page_start>N/A</fielddiary_page_start>
-  <fielddiary_page_end>N/A</fielddiary_page_end>
-  <bibliographic_info/>
-  <bibliography_references/>
-  <annotation/>
-  <danish_manuscript/>
-  <english_manuscript/>
-  <danish_publication>Min moder sagde, at bj&#230;rgfolkene dandsede ved Dakbj&#230;rg. De kunde s&#229;dan se, n&#229;r solen skinnede, hvordan bj&#230;rgfolkene kunde dandse, det var s&#229; smukt, for det var ligesom kramdukker at se p&#229;.
-      De var ude at mede (meje) om h&#246;sten, og s&#229; var der en pige, der havde set det, og hun sagde til de andre, da de skulde hjem til onden: Hun vilde hellere blive ved de Dakbj&#230;rg fruer og dandse med dem, imens de gik hjem. Da de kom tilbage, fandt de hendes lig, hun havde dandset sig ihjel.</danish_publication>
-  <english_publication>My mother said that the mound folk danced near Dakbj&#230;rg. When the sun was shining, they could see how the mound folk danced, it was so beautiful because it was just like watching beautiful dolls. 
-      They were out mowing during harvest and then there was a girl who had seen that, and she said to the others when they were going home to eat lunch: she would rather stay with the Dakbj&#230;rg women and dance with them while they went home. When they came back, they found her corpse, she had danced herself to death.</english_publication>
-  <keywords>
-    <keyword><id>82</id><frequency>1</frequency><keyword>beautiful</keyword>beautiful</keyword>
-    <keyword><id>262</id><frequency>1</frequency><keyword>corpse</keyword>corpse</keyword>
-    <keyword><id>297</id><frequency>4</frequency><keyword>dancing</keyword>dancing</keyword>
-    <keyword><id>317</id><frequency>1</frequency><keyword>death</keyword>death</keyword>
-    <keyword><id>467</id><frequency>2</frequency><keyword>girl</keyword>girl</keyword>
-    <keyword><id>504</id><frequency>1</frequency><keyword>harvest</keyword>harvest</keyword>
-    <keyword><id>537</id><frequency>2</frequency><keyword>home</keyword>home</keyword>
-    <keyword><id>728</id><frequency>1</frequency><keyword>lunch</keyword>lunch</keyword>
-    <keyword><id>803</id><frequency>1</frequency><keyword>mother</keyword>mother</keyword>
-    <keyword><id>806</id><frequency>2</frequency><keyword>mound_folk</keyword>mound folk</keyword>
-    <keyword><id>1217</id><frequency>1</frequency><keyword>sun</keyword>sun</keyword>
-    <keyword><id>1356</id><frequency>1</frequency><keyword>woman</keyword>woman</keyword>
-  </keywords>
-  <etk_index><id>1</id>
-    <heading_danish>Bj&#230;rgfolk</heading_danish>
-    <heading_english>Mound dwellers (Hidden folk)</heading_english>
-  </etk_index>
-  <tango_indices>
-    <tango_index><id>9</id><display_name>People: Farmhand / Shepherd</display_name></tango_index>
-    <tango_index><id>11</id><display_name>People: Girl</display_name></tango_index>
-    <tango_index><id>30</id><display_name>Places: Field</display_name></tango_index>
-    <tango_index><id>38</id><display_name>Places: Mound</display_name></tango_index>
-    <tango_index><id>49</id><display_name>Tools, Items and Conveyances: Food and Drink</display_name></tango_index>
-    <tango_index><id>63</id><display_name>Supernatural Beings: Mound folk</display_name></tango_index>
-    <tango_index><id>82</id><display_name>Actions or events: Dancing</display_name></tango_index>
-    <tango_index><id>83</id><display_name>Actions or events: Death</display_name></tango_index>
-    <tango_index><id>100</id><display_name>Actions or events: Work</display_name></tango_index>
-    <tango_index><id>110</id><display_name>Time, Season, Weather: Noon</display_name></tango_index>
-    <tango_index><id>117</id><display_name>Time, Season, Weather: Fall</display_name></tango_index>
-    <tango_index><id>128</id><display_name>Resolution: Negative</display_name></tango_index>
-  </tango_indices>
-  <genre><id>2</id><name>Legend</name></genre>
-</story>
+</informant>

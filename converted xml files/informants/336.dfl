@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<informant person_id="336">
+<informant><person_id>336</person_id>
   <core_informant/>
   <full_name>Simon Bojsen</full_name>
   <last_name>Bojsen</last_name>
@@ -9,27 +8,27 @@
   <death_date>N/A</death_date>
   <occupations/>
   <stories>
-    <story story_id="817" secondary_informant="0">
+    <story><story_id>817</story_id><secondary_informant>0</secondary_informant>
       <informant_id>336</informant_id>
       <publication_info>DS_VII_310</publication_info>
       <full_name>336 - 0.00 - DS_VII_310</full_name>
       <url>data/stories/817.dfl</url>
-      <place_recorded id="751">Billum</place_recorded>
+      <place_recorded><id>751</id>Billum</place_recorded>
       <places_mentioned/>
     </story>
   </stories>
   <places>
-    <place type="birth_place">
+    <place><type>birth_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (birth place)</display_name>
     </place>
-    <place type="death_place">
+    <place><type>death_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (death place)</display_name>
     </place>
-    <place type="story_place">
+    <place><type>story_place</type>
       <place_id>751</place_id>
       <name>Billum</name>
       <display_name>Billum (stories recorded here)</display_name>

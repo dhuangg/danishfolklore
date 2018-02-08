@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<informant person_id="493">
+<informant><person_id>493</person_id>
   <core_informant/>
   <full_name>Lars Kristian Nielsen</full_name>
   <last_name>Nielsen</last_name>
@@ -9,36 +8,36 @@
   <death_date>N/A</death_date>
   <occupations/>
   <stories>
-    <story story_id="662" secondary_informant="0">
+    <story><story_id>662</story_id><secondary_informant>0</secondary_informant>
       <informant_id>493</informant_id>
       <publication_info>DS_III_2180</publication_info>
       <full_name>493 - 0.00 - DS_III_2180</full_name>
       <url>data/stories/662.dfl</url>
-      <place_recorded id="901">Vangeskrog</place_recorded>
+      <place_recorded><id>901</id>Vangeskrog</place_recorded>
       <places_mentioned>
-        <place id="127">
+        <place><id>127</id>
           <name>Dronninglund</name>
         </place>
       </places_mentioned>
     </story>
   </stories>
   <places>
-    <place type="birth_place">
+    <place><type>birth_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (birth place)</display_name>
     </place>
-    <place type="death_place">
+    <place><type>death_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (death place)</display_name>
     </place>
-    <place type="story_place">
+    <place><type>story_place</type>
       <place_id>901</place_id>
       <name>Vangeskrog</name>
       <display_name>Vangeskrog (stories recorded here)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>127</place_id>
       <name>Dronninglund</name>
       <display_name>Dronninglund (mentioned in 1 story)</display_name>

@@ -1,65 +1,87 @@
-<story><story_id>346</story_id>
-  <publication_info>Lege_0_1949</publication_info>
-  <full_name>90 - 2.14 - Lege_0_1949</full_name>
-  <informant_id>90</informant_id>
-  <informant_last_name>Jensdatter</informant_last_name>
-  <informant_first_name>(Ane) Margrete</informant_first_name>
-  <informant_full_name>(Ane) Margrete Jensdatter</informant_full_name>
-  <order_told>2.14</order_told>
-  <fieldtrip><id>9</id>October 1889</fieldtrip>
-  <fieldtrip_start_date>1889-10-25</fieldtrip_start_date>
-  <fieldtrip_end_date>1889-11-18</fieldtrip_end_date>
+<informant><person_id>346</person_id>
+  <core_informant/>
+  <full_name>Chr. Adolf Christensen</full_name>
+  <last_name>Christensen</last_name>
+  <first_name>Chr. Adolf</first_name>
+  <gender>N/A</gender>
+  <birth_date>N/A</birth_date>
+  <death_date>N/A</death_date>
+  <occupations/>
+  <stories>
+    <story><story_id>483</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>346</informant_id>
+      <publication_info>DS_II_D_48</publication_info>
+      <full_name>346 - 0.00 - DS_II_D_48</full_name>
+      <url>data/stories/483.dfl</url>
+      <place_recorded><id>190</id>Gjedved</place_recorded>
+      <places_mentioned>
+        <place><id>378</id>
+          <name>Liver &#229;</name>
+        </place>
+        <place><id>647</id>
+          <name>Tornby</name>
+        </place>
+        <place><id>266</id>
+          <name>Hj&#248;rring</name>
+        </place>
+      </places_mentioned>
+    </story>
+    <story><story_id>484</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>346</informant_id>
+      <publication_info>DS_IV_1594</publication_info>
+      <full_name>346 - 0.00 - DS_IV_1594</full_name>
+      <url>data/stories/484.dfl</url>
+      <place_recorded><id>190</id>Gjedved</place_recorded>
+      <places_mentioned>
+        <place><id>374</id>
+          <name>Linderumg&#229;rds mark</name>
+        </place>
+        <place><id>673</id>
+          <name>Ugilt</name>
+        </place>
+      </places_mentioned>
+    </story>
+  </stories>
   <places>
-    <place><type>place_recorded</type>
-      <place_id>405</place_id>
-      <name>Mejlby</name>
-      <display_name>Mejlby (place recorded)</display_name>
+    <place><type>birth_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (birth place)</display_name>
+    </place>
+    <place><type>death_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (death place)</display_name>
+    </place>
+    <place><type>story_place</type>
+      <place_id>190</place_id>
+      <name>Gjedved</name>
+      <display_name>Gjedved (stories recorded here)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>673</place_id>
+      <name>Ugilt</name>
+      <display_name>Ugilt (mentioned in 1 story)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>374</place_id>
+      <name>Linderumg&#229;rds mark</name>
+      <display_name>Linderumg&#229;rds mark (mentioned in 1 story)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>266</place_id>
+      <name>Hj&#248;rring</name>
+      <display_name>Hj&#248;rring (mentioned in 1 story)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>647</place_id>
+      <name>Tornby</name>
+      <display_name>Tornby (mentioned in 1 story)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>378</place_id>
+      <name>Liver &#229;</name>
+      <display_name>Liver &#229; (mentioned in 1 story)</display_name>
     </place>
   </places>
-  <stories_mentioned>
-    <story><story_id>345</story_id>
-      <informant_id>90</informant_id>
-      <publication_info>Lege_0_1912</publication_info>
-      <full_name>90 - 2.13 - Lege_0_1912</full_name>
-      <url>data/stories/345.dfl</url>
-    </story>
-    <story><story_id>353</story_id>
-      <informant_id>90</informant_id>
-      <publication_info>Lege_0_1945</publication_info>
-      <full_name>90 - 2.21 - Lege_0_1945</full_name>
-      <url>data/stories/353.dfl</url>
-    </story>
-  </stories_mentioned>
-  <fielddiary_page_start>4785b (3)</fielddiary_page_start>
-  <fielddiary_page_end>4785b (3)</fielddiary_page_end>
-  <bibliographic_info/>
-  <bibliography_references>
-    <reference><id>85</id><category>general</category>
-      <display_string>[Book] Feilberg, Henning F. 1905. &lt;i&gt;Bro-brille-legen, en sammenlignende studie (Bidrag till k&#228;nnedom om de svenska landsm&#229;len ock svenskt folkliv)&lt;/i&gt;. Stockholm: Norstedt.</display_string>
-    </reference>
-  </bibliography_references>
-  <annotation>Like many games, this one includes a rhyme that helps govern the progression of the game. The game is commonly referred to as "Holde for Kongens Port" (Stop at the king's gate), and often starts with the first line, "Bro, bro brille." The game is played in a manner similar to the Anglo-American game, "London bridge is falling down," with the person caught in the middle compared to a sorry gray crow who is placed on a pike. In Denmark, after executions, the head of the victim was placed on a pike, and the game appears to refer to this earlier practice. The pike, usually a small pole in these games, also plays a central role in a well-documented form of tag similar to the Anglo-American "capture the flag."</annotation>
-  <danish_manuscript>Sol og Maane. Holder op. Remme
-remme rok stok Sol og M&#229;n er h&#248;t
-op. Skywter i w&#229; stage, s&#248;lle gr&#229;
-Krage. Hvad vil du ha enten Sol
-eller Maane?
-</danish_manuscript>
-  <english_manuscript>Sun and moon. Stop. Remme remme rok stok, Sun and Moon are high up. Put you on our pike, sorry gray crow. What do you want, the sun or the moon?</english_manuscript>
-  <danish_publication>N&#229;r der leges Sol og M&#229;ne, og der holdes op, siger den f&#248;rste af Raden: Remme remme Rok Stok, Sol og M&#229;&#229;n er h&#246;t op, skywter I w&#229; Stage, s&#246;lle gr&#229; Krage. Hvad vil du ha' enten Sol eller M&#229;ne?</danish_publication>
-  <english_publication>When &#8220;Sun and Moon&#8221; is played, and they stop, the first one in the row says: Remme remme Rok Stok, the Sun and Moon are high up, put you on our pike, sorry gray crow. What do you want, the sun or the moon?</english_publication>
-  <keywords>
-    <keyword><id>283</id><frequency>1</frequency><keyword>crow</keyword>crow</keyword>
-    <keyword><id>797</id><frequency>3</frequency><keyword>moon</keyword>moon</keyword>
-    <keyword><id>1217</id><frequency>3</frequency><keyword>sun</keyword>sun</keyword>
-  </keywords>
-  <etk_index><id>41</id>
-    <heading_danish>Danske B&#248;rnerim, Remser og Lege</heading_danish>
-    <heading_english>Danish Children's Rhymes, Counting-out Rhymes, and Games</heading_english>
-  </etk_index>
-  <tango_indices>
-    <tango_index><id>130</id><display_name>Resolution: None / Unspecified</display_name></tango_index>
-    <tango_index><id>136</id><display_name>Animals: Wild</display_name></tango_index>
-  </tango_indices>
-  <genre><id>14</id><name>Game</name></genre>
-</story>
+</informant>

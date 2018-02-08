@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<informant person_id="488">
+<informant><person_id>488</person_id>
   <core_informant/>
   <full_name>Sognefoged Jens Nielsen</full_name>
   <last_name>Nielsen</last_name>
@@ -9,47 +8,47 @@
   <death_date>N/A</death_date>
   <occupations/>
   <stories>
-    <story story_id="570" secondary_informant="0">
+    <story><story_id>570</story_id><secondary_informant>0</secondary_informant>
       <informant_id>488</informant_id>
       <publication_info>DS_III_122</publication_info>
       <full_name>488 - 0.00 - DS_III_122</full_name>
       <url>data/stories/570.dfl</url>
-      <place_recorded id="821">Lem</place_recorded>
+      <place_recorded><id>821</id>Lem</place_recorded>
       <places_mentioned>
-        <place id="439">
-          <name>N&#xF8;rre Lem</name>
+        <place><id>439</id>
+          <name>N&#248;rre Lem</name>
         </place>
-        <place id="488">
-          <name>R&#xF8;dding</name>
+        <place><id>488</id>
+          <name>R&#248;dding</name>
         </place>
       </places_mentioned>
     </story>
   </stories>
   <places>
-    <place type="birth_place">
+    <place><type>birth_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (birth place)</display_name>
     </place>
-    <place type="death_place">
+    <place><type>death_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (death place)</display_name>
     </place>
-    <place type="story_place">
+    <place><type>story_place</type>
       <place_id>821</place_id>
       <name>Lem</name>
       <display_name>Lem (stories recorded here)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>488</place_id>
-      <name>R&#xF8;dding</name>
-      <display_name>R&#xF8;dding (mentioned in 1 story)</display_name>
+      <name>R&#248;dding</name>
+      <display_name>R&#248;dding (mentioned in 1 story)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>439</place_id>
-      <name>N&#xF8;rre Lem</name>
-      <display_name>N&#xF8;rre Lem (mentioned in 1 story)</display_name>
+      <name>N&#248;rre Lem</name>
+      <display_name>N&#248;rre Lem (mentioned in 1 story)</display_name>
     </place>
   </places>
 </informant>

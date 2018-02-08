@@ -1,102 +1,63 @@
-<story><story_id>418</story_id>
-  <publication_info>DS_II_G356</publication_info>
-  <full_name>123 - 3.15 - DS_II_G356</full_name>
-  <informant_id>123</informant_id>
-  <informant_last_name>Johansen</informant_last_name>
-  <informant_first_name>Peder</informant_first_name>
-  <informant_full_name>Peder Johansen</informant_full_name>
-  <order_told>3.15</order_told>
-  <fieldtrip><id>2</id>Feb 1888</fieldtrip>
-  <fieldtrip_start_date>1888-02-04</fieldtrip_start_date>
-  <fieldtrip_end_date>1888-02-17</fieldtrip_end_date>
+<informant><person_id>418</person_id>
+  <core_informant/>
+  <full_name>Anders J&#248;rgensen</full_name>
+  <last_name>J&#248;rgensen</last_name>
+  <first_name>Anders</first_name>
+  <gender>N/A</gender>
+  <birth_date>N/A</birth_date>
+  <death_date>N/A</death_date>
+  <occupations/>
+  <stories>
+    <story><story_id>458</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>418</informant_id>
+      <publication_info>DS_II_C_25</publication_info>
+      <full_name>418 - 0.00 - DS_II_C_25</full_name>
+      <url>data/stories/458.dfl</url>
+      <place_recorded><id>874</id>S&#248;by</place_recorded>
+      <places_mentioned>
+        <place><id>719</id>
+          <name>Vojens</name>
+        </place>
+      </places_mentioned>
+    </story>
+    <story><story_id>459</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>418</informant_id>
+      <publication_info>DS_IV_1705</publication_info>
+      <full_name>418 - 0.00 - DS_IV_1705</full_name>
+      <url>data/stories/459.dfl</url>
+      <place_recorded><id>874</id>S&#248;by</place_recorded>
+      <places_mentioned>
+        <place><id>997</id>
+          <name>Kobberup</name>
+        </place>
+      </places_mentioned>
+    </story>
+  </stories>
   <places>
-    <place><type>place_recorded</type>
-      <place_id>175</place_id>
-      <name>Fuldbro m&#248;lle</name>
-      <display_name>Fuldbro m&#248;lle (place recorded)</display_name>
+    <place><type>birth_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (birth place)</display_name>
+    </place>
+    <place><type>death_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (death place)</display_name>
+    </place>
+    <place><type>story_place</type>
+      <place_id>874</place_id>
+      <name>S&#248;by</name>
+      <display_name>S&#248;by (stories recorded here)</display_name>
     </place>
     <place><type>place_mentioned</type>
-      <place_id>418</place_id>
-      <name>Moss&#248;</name>
-      <display_name>Moss&#248; (place mentioned)</display_name>
+      <place_id>997</place_id>
+      <name>Kobberup</name>
+      <display_name>Kobberup (mentioned in 1 story)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>719</place_id>
+      <name>Vojens</name>
+      <display_name>Vojens (mentioned in 1 story)</display_name>
     </place>
   </places>
-  <stories_mentioned>
-    <story><story_id>465</story_id>
-      <informant_id>431</informant_id>
-      <publication_info>DS_II_G_334</publication_info>
-      <full_name>431 - 0.00 - DS_II_G_334</full_name>
-      <url>data/stories/465.dfl</url>
-    </story>
-    <story><story_id>559</story_id>
-      <informant_id>440</informant_id>
-      <publication_info>DS_II_G_324</publication_info>
-      <full_name>440 - 0.00 - DS_II_G_324</full_name>
-      <url>data/stories/559.dfl</url>
-    </story>
-    <story><story_id>34</story_id>
-      <informant_id>150</informant_id>
-      <publication_info>DS_III_1712</publication_info>
-      <full_name>150 - 1.31 - DS_III_1712</full_name>
-      <url>data/stories/34.dfl</url>
-    </story>
-    <story><story_id>419</story_id>
-      <informant_id>123</informant_id>
-      <publication_info>DS_III_1779</publication_info>
-      <full_name>123 - 3.16 - DS_III_1779</full_name>
-      <url>data/stories/419.dfl</url>
-    </story>
-    <story><story_id>504</story_id>
-      <informant_id>318</informant_id>
-      <publication_info>DS_II_G_339</publication_info>
-      <full_name>318 - 0.00 - DS_II_G_339</full_name>
-      <url>data/stories/504.dfl</url>
-    </story>
-    <story><story_id>793</story_id>
-      <informant_id>535</informant_id>
-      <publication_info>DS_II_G_340</publication_info>
-      <full_name>535 - 0.00 - DS_II_G_340</full_name>
-      <url>data/stories/793.dfl</url>
-    </story>
-  </stories_mentioned>
-  <fielddiary_page_start>3800b</fielddiary_page_start>
-  <fielddiary_page_end>3801a</fielddiary_page_end>
-  <bibliographic_info/>
-  <bibliography_references/>
-  <annotation>Peder's story of the disappearance of Mos lake borders on the apocryphal. Mos lake is Denmark's fourth largest lake with an area of seventeen square kilometers.
-
-     It is unclear who the Turk to whom he alludes might be, although the Turk is mentioned in numerous other apocryphal legends (DS II G 339). The Turk may be an allusion to stories of Holger Danske and his fight against a Turkish king. Turks were often represented as a frightening, distant yet threatening group. In some legends, there is an implication that the Turkish king would eventually overthrow the Danish crown (DS II G 351). In several legends, the Turks are replaced with Germans, a substitution that resonates with the clear threat of Bismark's Prussia from the 1860s up through the end of the nineteenth century (DS II G 340). The substitution of German for Turk is linguistically simple given the closeness in Danish between the words "tyrkere" (Turk) and "tyskere" (German).
-
-     Given immigration patterns in the past forty years to Denmark, there is a strong possibility that someone from Turkey has swum in the lake. At the same time, it seems somewhat unlikely that any modern Dane of Turkish heritage has cattle that need watering. Mos s&#248; is still quite large and shows no signs of turning into a stream.</annotation>
-  <danish_manuscript>Der gaar et Sagn om Mos S&#248; te den skal for
-
-3801A
-svinde og blive til en lille B&#230;k og s. skal den
-blive til S&#248; igien og s. s. de naar te Moss&#248;
-b&#230;k er bleven til en S&#248; s. skal Tyrken van
-de hans B&#230;ster i den og n&#230;renstid de V&#230;i
-(Vad) Eller s. her hvor a bor, de bliver til
-en stor Skov, s. bliver Verden ikke l&#230;nge.
-</danish_manuscript>
-  <english_manuscript>There's a legend about Mos lake, it's supposed to disappear and become a little stream, and then it's supposed to become a lake again. When that's happened, that Mos lake stream has become a lake, the Turk will water his cattle there. And as soon as the swamps, like here where I live, have become large forests, then the world won't exist much longer.</english_manuscript>
-  <danish_publication>Der g&#229;r et sagn om Mos s&#248;, at den skal forsvinde og blive til en lille b&#230;k, og derefter skal den atter blive til s&#248; igjen. N&#229;r s&#229; det er sket, at Mos-s&#248;-b&#230;k er bleven til s&#248;, s&#229; skal Tyrken vande hans b&#230;ster i den. Og n&#229;rentid de v&#230;i (vad) elle de bliver til stor skov, s&#229; bliver verden ikke l&#230;nge. V&#230;i elle er der, hvor a boer.</danish_publication>
-  <english_publication>There&#8217;s a legend about Mos lake, it's supposed to disappear and become a little stream, and then it's supposed to become a lake again. When that&#8217;s happened, that Mos lake stream has become a lake again, the Turk will water his cattle there. And as soon as the wet ells have become large forests, then the world won&#8217;t have much time. There are wet ells near where I live.</english_publication>
-  <keywords>
-    <keyword><id>190</id><frequency>1</frequency><keyword>cattle</keyword>cattle</keyword>
-    <keyword><id>331</id><frequency>1</frequency><keyword>disappearance</keyword>disappearance</keyword>
-    <keyword><id>438</id><frequency>1</frequency><keyword>forest</keyword>forest</keyword>
-    <keyword><id>679</id><frequency>4</frequency><keyword>lake</keyword>lake</keyword>
-    <keyword><id>705</id><frequency>1</frequency><keyword>legend</keyword>legend</keyword>
-    <keyword><id>1207</id><frequency>2</frequency><keyword>stream</keyword>stream</keyword>
-    <keyword><id>1286</id><frequency>1</frequency><keyword>turk</keyword>turk</keyword>
-    <keyword><id>1320</id><frequency>1</frequency><keyword>water</keyword>water</keyword>
-    <keyword><id>1333</id><frequency>2</frequency><keyword>wet</keyword>wet</keyword>
-    <keyword><id>1363</id><frequency>1</frequency><keyword>world</keyword>world</keyword>
-  </keywords>
-  <etk_index/>
-  <tango_indices>
-    <tango_index><id>10</id><display_name>People: Foreigner</display_name></tango_index>
-    <tango_index><id>128</id><display_name>Resolution: Negative</display_name></tango_index>
-  </tango_indices>
-  <genre><id>2</id><name>Legend</name></genre>
-</story>
+</informant>

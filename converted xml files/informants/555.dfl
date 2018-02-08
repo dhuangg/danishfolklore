@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<informant person_id="555">
+<informant><person_id>555</person_id>
   <core_informant/>
   <full_name>Ole Worm</full_name>
   <last_name>Worm</last_name>
@@ -9,7 +8,7 @@
   <death_date>N/A</death_date>
   <occupations/>
   <stories>
-    <story story_id="768" secondary_informant="0">
+    <story><story_id>768</story_id><secondary_informant>0</secondary_informant>
       <informant_id>555</informant_id>
       <publication_info>DS_II_C_118</publication_info>
       <full_name>555 - 0.00 - DS_II_C_118</full_name>
@@ -18,12 +17,12 @@
     </story>
   </stories>
   <places>
-    <place type="birth_place">
+    <place><type>birth_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (birth place)</display_name>
     </place>
-    <place type="death_place">
+    <place><type>death_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (death place)</display_name>

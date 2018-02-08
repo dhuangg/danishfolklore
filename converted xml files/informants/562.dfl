@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<informant person_id="562">
+<informant><person_id>562</person_id>
   <core_informant/>
   <full_name>Peter (PLJ) Juhl</full_name>
   <last_name>Juhl</last_name>
@@ -9,30 +8,30 @@
   <death_date>N/A</death_date>
   <occupations/>
   <stories>
-    <story story_id="912" secondary_informant="0">
+    <story><story_id>912</story_id><secondary_informant>0</secondary_informant>
       <informant_id>562</informant_id>
       <publication_info>DS_II_F_94</publication_info>
       <full_name>562 - 0.00 - DS_II_F_94</full_name>
       <url>data/stories/912.dfl</url>
-      <place_recorded id="338">K&#xF8;benhavn</place_recorded>
+      <place_recorded><id>338</id>K&#248;benhavn</place_recorded>
       <places_mentioned/>
     </story>
   </stories>
   <places>
-    <place type="birth_place">
+    <place><type>birth_place</type>
       <place_id>919</place_id>
-      <name>Kirke V&#xE6;rl&#xF8;se</name>
-      <display_name>Kirke V&#xE6;rl&#xF8;se (birth place)</display_name>
+      <name>Kirke V&#230;rl&#248;se</name>
+      <display_name>Kirke V&#230;rl&#248;se (birth place)</display_name>
     </place>
-    <place type="death_place">
+    <place><type>death_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (death place)</display_name>
     </place>
-    <place type="story_place">
+    <place><type>story_place</type>
       <place_id>338</place_id>
-      <name>K&#xF8;benhavn</name>
-      <display_name>K&#xF8;benhavn (stories recorded here)</display_name>
+      <name>K&#248;benhavn</name>
+      <display_name>K&#248;benhavn (stories recorded here)</display_name>
     </place>
   </places>
 </informant>

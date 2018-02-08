@@ -1,90 +1,46 @@
-<story><story_id>391</story_id>
-  <publication_info>DS_V_202</publication_info>
-  <full_name>123 - 2.17 - DS_V_202</full_name>
-  <informant_id>123</informant_id>
-  <informant_last_name>Johansen</informant_last_name>
-  <informant_first_name>Peder</informant_first_name>
-  <informant_full_name>Peder Johansen</informant_full_name>
-  <order_told>2.17</order_told>
-  <fieldtrip><id>2</id>Feb 1888</fieldtrip>
-  <fieldtrip_start_date>1888-02-04</fieldtrip_start_date>
-  <fieldtrip_end_date>1888-02-17</fieldtrip_end_date>
+<informant><person_id>391</person_id>
+  <core_informant/>
+  <full_name>Pens. L&#230;rer Ove Holm</full_name>
+  <last_name>Holm</last_name>
+  <first_name>Ove</first_name>
+  <gender>N/A</gender>
+  <birth_date>N/A</birth_date>
+  <death_date>N/A</death_date>
+  <occupations/>
+  <stories>
+    <story><story_id>844</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>391</informant_id>
+      <publication_info>DS_IV_1470</publication_info>
+      <full_name>391 - 0.00 - DS_IV_1470</full_name>
+      <url>data/stories/844.dfl</url>
+      <place_recorded><id>843</id>&#216;rsted</place_recorded>
+      <places_mentioned>
+        <place><id>833</id>
+          <name>Nimtoft</name>
+        </place>
+      </places_mentioned>
+    </story>
+  </stories>
   <places>
-    <place><type>place_recorded</type>
-      <place_id>175</place_id>
-      <name>Fuldbro m&#248;lle</name>
-      <display_name>Fuldbro m&#248;lle (place recorded)</display_name>
+    <place><type>birth_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (birth place)</display_name>
+    </place>
+    <place><type>death_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (death place)</display_name>
+    </place>
+    <place><type>story_place</type>
+      <place_id>843</place_id>
+      <name>&#216;rsted</name>
+      <display_name>&#216;rsted (stories recorded here)</display_name>
     </place>
     <place><type>place_mentioned</type>
-      <place_id>441</place_id>
-      <name>Nyg&#229;rd</name>
-      <display_name>Nyg&#229;rd (place mentioned)</display_name>
+      <place_id>833</place_id>
+      <name>Nimtoft</name>
+      <display_name>Nimtoft (mentioned in 1 story)</display_name>
     </place>
   </places>
-  <stories_mentioned>
-    <story><story_id>233</story_id>
-      <informant_id>235</informant_id>
-      <publication_info>DS_II_H_141</publication_info>
-      <full_name>235 - 1.14 - DS_II_H_141</full_name>
-      <url>data/stories/233.dfl</url>
-    </story>
-    <story><story_id>297</story_id>
-      <informant_id>235</informant_id>
-      <publication_info>MA_II_456</publication_info>
-      <full_name>235 - 2.14 - MA_II_456</full_name>
-      <url>data/stories/297.dfl</url>
-    </story>
-    <story><story_id>666</story_id>
-      <informant_id>492</informant_id>
-      <publication_info>DS_V_215</publication_info>
-      <full_name>492 - 0.00 - DS_V_215</full_name>
-      <url>data/stories/666.dfl</url>
-    </story>
-  </stories_mentioned>
-  <fielddiary_page_start>3777b</fielddiary_page_start>
-  <fielddiary_page_end>3777b</fielddiary_page_end>
-  <bibliographic_info/>
-  <bibliography_references/>
-  <annotation>The headless horse rather than the headless rider is a dominant motif in Danish tradition (see KMP 1.14 and 2.14; DS V 215). The horseman's sudden appearance disrupts Peder's father and uncle's nocturnal hunt and so spooks the dog that they have to call off their hunt. 
-
-      Hunting privileges were usually reserved for the aristocracy and the Crown. Peasants tried to circumvent these laws, but forest rangers were employed by most landowners to prevent poaching. It is not too surprising that the two men encounter a frightening supernatural being while breaking the law late at night out in the woods.</annotation>
-  <danish_manuscript>I Nygaards Skov rider en Rytter paa en hoved
-l&#248;s Hest. Min F. og Morbroder gik meget
-paa Nattejagt og de kom til det. Det
-knasede i L&#248;vet og hug ligesom en Hest
-og de Hunde som de havde med dem kunde
-de ikke faa af Stedet, s. de den Nat
-maatte tage hjem igien.
-</danish_manuscript>
-  <english_manuscript>In Nyg&#229;rd's woods, a horseman rides on a headless horse. My father and my maternal uncle often went out hunting at night and they encountered it. It crackled in the leaves and snorted just like a horse, and they couldn't get the dogs they had with them to move from the spot and so they they had to go back home again that night.</english_manuscript>
-  <danish_publication>I Nyg&#229;rds skov rider en rytter p&#229; en hovedl&#248;s hest. Min fader og morbroder gik meget p&#229; nattejagt, og de kom til det sp&#248;geri. Det knasede i l&#248;vet og hug ligesom en hest, og hunden, de havde med dem, kunde de ikke f&#229; af stedet, s&#229; de den nat m&#229;tte tage hjem igjen.</danish_publication>
-  <english_publication>In Nyg&#229;rd&#8217;s woods, a horseman rides on a headless horse. My father and my maternal uncle often went out hunting at night and they encountered that haunting. It crackled in the leaves and snorted just like a horse, and they couldn&#8217;t get the dog they had with them to move from the spot and so they they had to go back home again that night.</english_publication>
-  <keywords>
-    <keyword><id>343</id><frequency>1</frequency><keyword>dog</keyword>dog</keyword>
-    <keyword><id>399</id><frequency>1</frequency><keyword>father</keyword>father</keyword>
-    <keyword><id>508</id><frequency>1</frequency><keyword>haunting</keyword>haunting</keyword>
-    <keyword><id>515</id><frequency>1</frequency><keyword>headless_horse</keyword>headless horse</keyword>
-    <keyword><id>537</id><frequency>1</frequency><keyword>home</keyword>home</keyword>
-    <keyword><id>545</id><frequency>1</frequency><keyword>horse</keyword>horse</keyword>
-    <keyword><id>546</id><frequency>1</frequency><keyword>horseman</keyword>horseman</keyword>
-    <keyword><id>551</id><frequency>1</frequency><keyword>hunting</keyword>hunting</keyword>
-    <keyword><id>848</id><frequency>2</frequency><keyword>night</keyword>night</keyword>
-    <keyword><id>1030</id><frequency>1</frequency><keyword>riding</keyword>riding</keyword>
-    <keyword><id>1289</id><frequency>1</frequency><keyword>uncle</keyword>uncle</keyword>
-    <keyword><id>1360</id><frequency>1</frequency><keyword>woods</keyword>woods</keyword>
-  </keywords>
-  <etk_index><id>23</id>
-    <heading_danish>Forskjelligt sp&#248;geri og gjenf&#230;rds nedmaning</heading_danish>
-    <heading_english>Revenants and their conjuring</heading_english>
-  </etk_index>
-  <tango_indices>
-    <tango_index><id>31</id><display_name>Places: Forest / Woods</display_name></tango_index>
-    <tango_index><id>59</id><display_name>Supernatural Beings: Ghost / Revenant</display_name></tango_index>
-    <tango_index><id>72</id><display_name>Animals: Farm animal</display_name></tango_index>
-    <tango_index><id>74</id><display_name>Animals: Horse</display_name></tango_index>
-    <tango_index><id>88</id><display_name>Actions or events: Haunting</display_name></tango_index>
-    <tango_index><id>112</id><display_name>Time, Season, Weather: Night </display_name></tango_index>
-    <tango_index><id>129</id><display_name>Resolution: Ambiguous</display_name></tango_index>
-  </tango_indices>
-  <genre><id>2</id><name>Legend</name></genre>
-</story>
+</informant>

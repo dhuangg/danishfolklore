@@ -1,102 +1,46 @@
-<story><story_id>342</story_id>
-  <publication_info>Lege_0_313</publication_info>
-  <full_name>90 - 2.10 - Lege_0_313</full_name>
-  <informant_id>90</informant_id>
-  <informant_last_name>Jensdatter</informant_last_name>
-  <informant_first_name>(Ane) Margrete</informant_first_name>
-  <informant_full_name>(Ane) Margrete Jensdatter</informant_full_name>
-  <order_told>2.10</order_told>
-  <fieldtrip><id>9</id>October 1889</fieldtrip>
-  <fieldtrip_start_date>1889-10-25</fieldtrip_start_date>
-  <fieldtrip_end_date>1889-11-18</fieldtrip_end_date>
+<informant><person_id>342</person_id>
+  <core_informant/>
+  <full_name>Anders Br&#248;sted</full_name>
+  <last_name>Br&#248;sted</last_name>
+  <first_name>Anders</first_name>
+  <gender>N/A</gender>
+  <birth_date>N/A</birth_date>
+  <death_date>N/A</death_date>
+  <occupations/>
+  <stories>
+    <story><story_id>457</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>342</informant_id>
+      <publication_info>DS_II_A_17</publication_info>
+      <full_name>342 - 0.00 - DS_II_A_17</full_name>
+      <url>data/stories/457.dfl</url>
+      <place_recorded><id>834</id>N&#248;rager</place_recorded>
+      <places_mentioned>
+        <place><id>996</id>
+          <name>Vester Alling</name>
+        </place>
+      </places_mentioned>
+    </story>
+  </stories>
   <places>
-    <place><type>place_recorded</type>
-      <place_id>405</place_id>
-      <name>Mejlby</name>
-      <display_name>Mejlby (place recorded)</display_name>
+    <place><type>birth_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (birth place)</display_name>
+    </place>
+    <place><type>death_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (death place)</display_name>
+    </place>
+    <place><type>story_place</type>
+      <place_id>834</place_id>
+      <name>N&#248;rager</name>
+      <display_name>N&#248;rager (stories recorded here)</display_name>
     </place>
     <place><type>place_mentioned</type>
-      <place_id>730</place_id>
-      <name>Vraa</name>
-      <display_name>Vraa (place mentioned)</display_name>
+      <place_id>996</place_id>
+      <name>Vester Alling</name>
+      <display_name>Vester Alling (mentioned in 1 story)</display_name>
     </place>
   </places>
-  <stories_mentioned>
-    <story><story_id>668</story_id>
-      <informant_id>515</informant_id>
-      <publication_info>DS_II_G_219</publication_info>
-      <full_name>515 - 0.00 - DS_II_G_219</full_name>
-      <url>data/stories/668.dfl</url>
-    </story>
-    <story><story_id>679</story_id>
-      <informant_id>473</informant_id>
-      <publication_info>DS_IV_489</publication_info>
-      <full_name>473 - 0.00 - DS_IV_489</full_name>
-      <url>data/stories/679.dfl</url>
-    </story>
-    <story><story_id>601</story_id>
-      <informant_id>419</informant_id>
-      <publication_info>DS_II_G_221</publication_info>
-      <full_name>419 - 0.00 - DS_II_G_221</full_name>
-      <url>data/stories/601.dfl</url>
-    </story>
-  </stories_mentioned>
-  <fielddiary_page_start>4784b</fielddiary_page_start>
-  <fielddiary_page_end>4785a</fielddiary_page_end>
-  <bibliographic_info>Thiele 1818-1823 vol. 1, 159</bibliographic_info>
-  <bibliography_references>
-    <reference><id>598</id><category>general</category>
-      <display_string>[Book] Thiele, Just Matthias. 1818-1823. &lt;i&gt;Danske Folkesagn&lt;/i&gt;. Copenhagen: Andreas Seidelin.</display_string>
-    </reference>
-  </bibliography_references>
-  <annotation>The more common variant of this children's rhyme starts with "Ride, Ride Ranke," where Ranke is apparently the name of a knight (see Thiele 1818-1823, vol. 1, 159; and DS IV 489). The rhyme is usually sung while bouncing a child on one's knee. The rhyme is echoed in stories of the ghostly appearance of a dead lover (BJK 1.04; DS II G 219; DS II G 221). In those stories the work "ranke" appears as "rank" and means "upright" or "proper." Since in the game the child is often playfully dropped between ones legs at the end of the "ride," making it impossible for the child to remain "rank," this secondary reading of "rank/ranke" is also operative.</annotation>
-  <danish_manuscript>Rie rie remse, guldsporer sp&#230;nne
-f&#248;rst m&#230; kvem &#229; s&#229; m&#230; kwam
-
-4785A
-&#229; s&#229; m&#230; lille Barn. Der er ingen
-ander hjem end en gammel gum
-me der sidder i Vraa og spelter Bl&#229;
-og bad sin Datter spinde. Spind spind
-Dattermin i Morgen kommer Frier din,
-F&#229;er h. gaar paa N&#248;rregaard kj&#248;ber en 
-lille Pevverkage til den lille bitte Hanne
-di ander di vel &#229; ha kaag men di
-ska bie te poske te penste te byg
-gen er soe, ti havren er mo, ti 
-ager og eng stor i Blomster,
-</danish_manuscript>
-  <english_manuscript>Ride ride renne, fasten the golden buckles, first with kvemme, and then with kvamme, and then my little baby. No one is home except an old man, who sits in Vr&#229; and spools blue, and asked his daughter to spin: spin, spin, daughter mine, tomorrow your suitors will come, father has gone to N&#248;rreg&#229;rd, buys a little gingerbread for the little bitty Hanne, we want to cook those ducks, but they'll have to wait 'til Easter, 'til Pentecost, 'til the barley is sown, 'til the oats are mowed, 'til the fields and meadow are in flower.</english_manuscript>
-  <danish_publication>Rie rie renne, Guldsporer sp&#230;nde, f&#248;rst m&#230; kvemm, &#229; s&#229; m&#230; kwamm, &#229; s&#229; m&#230; lille Barn. Der er ingen ander hj&#230;mme end en gammel Gumme, der sidder i Vr&#229; og spelter Bl&#229;, og bad sin Datter spinde; spind, spind, Datter min, i Morgen kommer Frier din, F&#229;er han g&#229;r p&#229; N&#246;rreg&#229;rd, kj&#248;ber en lille Pevverkaag til den lille bitte [Hanne], di ander di vil &#229; ha Kaag, men di ska bii te Poske, te Penste, te Byggen &#230;r soe, te Hawren er moe, te Ager og Eng stor i Blomster.</danish_publication>
-  <english_publication>Ride ride renne, fasten the golden buckles, first with kvemme, and then with kvamme, and then my little baby. No one is home except an old man, who sits in Vr&#229; and spools blue, and asked his daughter to spin: spin, spin, daughter mine, tomorrow your suitors will come, father has gone to N&#248;rreg&#229;rd, buys a little gingerbread  for the little bitty [Hanne], we want to cook those ducks, but they&#8217;ll have to wait til Easter, til Pentecost, til the barley is sown, til the oats are mowed, til the fields and meadow are in flower.</english_publication>
-  <keywords>
-    <keyword><id>61</id><frequency>1</frequency><keyword>baby</keyword>baby</keyword>
-    <keyword><id>71</id><frequency>1</frequency><keyword>barley</keyword>barley</keyword>
-    <keyword><id>114</id><frequency>1</frequency><keyword>blue</keyword>blue</keyword>
-    <keyword><id>257</id><frequency>1</frequency><keyword>cooking</keyword>cooking</keyword>
-    <keyword><id>304</id><frequency>2</frequency><keyword>daughter</keyword>daughter</keyword>
-    <keyword><id>361</id><frequency>1</frequency><keyword>duck</keyword>duck</keyword>
-    <keyword><id>370</id><frequency>1</frequency><keyword>easter</keyword>easter</keyword>
-    <keyword><id>399</id><frequency>1</frequency><keyword>father</keyword>father</keyword>
-    <keyword><id>410</id><frequency>1</frequency><keyword>field</keyword>field</keyword>
-    <keyword><id>424</id><frequency>1</frequency><keyword>flower</keyword>flower</keyword>
-    <keyword><id>473</id><frequency>1</frequency><keyword>gold</keyword>gold</keyword>
-    <keyword><id>537</id><frequency>1</frequency><keyword>home</keyword>home</keyword>
-    <keyword><id>764</id><frequency>1</frequency><keyword>meadow</keyword>meadow</keyword>
-    <keyword><id>871</id><frequency>1</frequency><keyword>oats</keyword>oats</keyword>
-    <keyword><id>873</id><frequency>1</frequency><keyword>old</keyword>old</keyword>
-    <keyword><id>1030</id><frequency>2</frequency><keyword>riding</keyword>riding</keyword>
-    <keyword><id>1213</id><frequency>1</frequency><keyword>suitor</keyword>suitor</keyword>
-    <keyword><id>1267</id><frequency>1</frequency><keyword>tomorrow</keyword>tomorrow</keyword>
-  </keywords>
-  <etk_index><id>41</id>
-    <heading_danish>Danske B&#248;rnerim, Remser og Lege</heading_danish>
-    <heading_english>Danish Children's Rhymes, Counting-out Rhymes, and Games</heading_english>
-  </etk_index>
-  <tango_indices>
-    <tango_index><id>49</id><display_name>Tools, Items and Conveyances: Food and Drink</display_name></tango_index>
-    <tango_index><id>122</id><display_name>Time, Season, Weather: Easter</display_name></tango_index>
-    <tango_index><id>130</id><display_name>Resolution: None / Unspecified</display_name></tango_index>
-  </tango_indices>
-  <genre><id>14</id><name>Game</name></genre>
-</story>
+</informant>

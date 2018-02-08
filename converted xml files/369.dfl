@@ -1,206 +1,54 @@
-<story><story_id>369</story_id>
-  <publication_info>JFm_XI_22C</publication_info>
-  <full_name>90 - 4.02 - JFm_XI_22C</full_name>
-  <informant_id>90</informant_id>
-  <informant_last_name>Jensdatter</informant_last_name>
-  <informant_first_name>(Ane) Margrete</informant_first_name>
-  <informant_full_name>(Ane) Margrete Jensdatter</informant_full_name>
-  <order_told>4.02</order_told>
-  <fieldtrip><id>12</id>Photo 1: August 1895</fieldtrip>
-  <fieldtrip_start_date>1895-08-01</fieldtrip_start_date>
-  <fieldtrip_end_date>1895-08-05</fieldtrip_end_date>
+<informant><person_id>369</person_id>
+  <core_informant/>
+  <full_name>Andreas Th&#248;gersen Gr&#248;nborg</full_name>
+  <last_name>Gr&#248;nborg</last_name>
+  <first_name>Andreas Th&#248;gersen</first_name>
+  <gender>N/A</gender>
+  <birth_date>N/A</birth_date>
+  <death_date>N/A</death_date>
+  <occupations/>
+  <stories>
+    <story><story_id>460</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>369</informant_id>
+      <publication_info>DS_III_1238</publication_info>
+      <full_name>369 - 0.00 - DS_III_1238</full_name>
+      <url>data/stories/460.dfl</url>
+      <place_recorded><id>802</id>Hvilsh&#248;j</place_recorded>
+      <places_mentioned>
+        <place><id>236</id>
+          <name>Hammer</name>
+        </place>
+        <place><id>237</id>
+          <name>Hammer bakker</name>
+        </place>
+      </places_mentioned>
+    </story>
+  </stories>
   <places>
-    <place><type>place_recorded</type>
-      <place_id>405</place_id>
-      <name>Mejlby</name>
-      <display_name>Mejlby (place recorded)</display_name>
+    <place><type>birth_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (birth place)</display_name>
+    </place>
+    <place><type>death_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (death place)</display_name>
+    </place>
+    <place><type>story_place</type>
+      <place_id>802</place_id>
+      <name>Hvilsh&#248;j</name>
+      <display_name>Hvilsh&#248;j (stories recorded here)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>237</place_id>
+      <name>Hammer bakker</name>
+      <display_name>Hammer bakker (mentioned in 1 story)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>236</place_id>
+      <name>Hammer</name>
+      <display_name>Hammer (mentioned in 1 story)</display_name>
     </place>
   </places>
-  <stories_mentioned>
-    <story><story_id>221</story_id>
-      <informant_id>235</informant_id>
-      <publication_info>JAH_II_213</publication_info>
-      <full_name>235 - 1.02 - JAH_II_213</full_name>
-      <url>data/stories/221.dfl</url>
-    </story>
-    <story><story_id>325</story_id>
-      <informant_id>90</informant_id>
-      <publication_info>JFm_XI_22C</publication_info>
-      <full_name>90 - 1.02 - JFm_XI_22C</full_name>
-      <url>data/stories/325.dfl</url>
-    </story>
-  </stories_mentioned>
-  <fielddiary_page_start>7051a</fielddiary_page_start>
-  <fielddiary_page_end>7051b</fielddiary_page_end>
-  <bibliographic_info/>
-  <bibliography_references/>
-  <annotation>Fittingly, Margrete concludes her contact with Tang Kristensen by singing one of the ballads that she had first sung to him (AMJ 1.02). This version is shorter than the earlier one. References to the father's gilded lyre are replaced by a reference to his gilded carriage, suggesting that perhaps this is what she had meant all along (Tang Kristensen had interpolated the lyre as the referent in the earlier variant).  Master Ridebold is still sentenced to 12,000 wounds, but in the manuscript, Margrete simply mentions that he rides home to die. Gulenborg, in contrast, rides to Rosenholm. In the published version, Tang Kristensen made Margrete's performance more consistent, sending Gulenborg to Klavsholm (Clausholm), even though there is no mention of that castle in the field diaries.</annotation>
-  <danish_manuscript>H. kom ind til hende og hu stod og kj&#230;mme
-de hendes Haar.
-Hr. Ridenbold kom ridende i Denne
-Kongens gaard -- Udi L&#248;ndom. Der staar
-der stolten Gulenborg og kj&#230;mmer hendes Haar
-For dette var min Tim&#8217; udi min Ungdom
-Og ville I f&#230;ste jer M&#248; med mig
-F&#248;rst sadlet h. den gule og siden den graa
-den gulvest(?) den s&#230;tter h stolling G. paa
-S. red de s. tung udi Rosen[lund]ros hen
-7051B
-Nu h&#248;rer jeg min Faders Bidselst&#230;nger
-klingre
-Nu h&#248;rer keg min Fr. forgyldene Vogn
-dem har ej v&#230;ret brugt sin min Mormor
-hu stod Brud.
-Og h&#248;r du st. G. du holder ved min Hest
-du n&#230;vner ej mit Navn
-S. slog h. de 12000 M&#230;nd dertil hendes Far
-[Og] Det var jo min kj&#230;re Far I slog ihiel
-Der blev et Saar paa ham for hver Mand
-h. slog ihiel
-Der blev st&#230;vnet 12000 Saar paa ham
-S. red h. hjem og d&#248;de der.
-Hu rejste til Rosenholm og de sagde den
-blev bygt til hende.
-Det var jo Kongeb&#248;rn begge to.
-De 12000 Saar paa Hr. Ridbold blev st&#230;vnet.
-</danish_manuscript>
-  <english_manuscript>He came in to her and she stood coming her hair
-
-Master Ridenbold came riding into the King&#8217;s courtyard
-    |: Out in L&#248;ndom
-There stands proud Gulenborg and comes her hair
-   |: That happened in my youth
-And if you want to marry me
-
-First he saddled the gold and then the grey
-he puts proud Gulenborg on the best one
-
-And then they rode so heavily out into Rosenros
-
-Now I hear my father&#8217;s bridle posts clanging
-Now I hear my father&#8217;s gilded wagon
-they haven&#8217;t been used since my grandmother was a bride
-
-And listen proud Gulenborg hold onto my horse
-do not name my name
-
-Then he slay the 12000 men including her father
-(And) that was my dear father you killed
-
-He got a wound for each man he killed
-He was sentenced to 12000 wounds.
-Then he rode home and died there. She traveled to Rosenholm and they say that it was built for her. They were both children of kings. The 12000 wounds on Master Ridebold were sentenced.
-</english_manuscript>
-  <danish_publication>1. Hr. Ridebold kom ridendes i denne Konges Gaard,
-&#8212; Udi L&#248;ndom. &#8212; 
-der stander stolten Gulenborg og kj&#230;mmer hendes Haar. 
-For dette var min Tim' udi min Ungdom.
-
-2. "Og h&#248;r du, stolten Gulenborg, vil du f&#230;ste M&#248; med mig, 
-[saa maa du nu drage af Landet med mig.]
-
-3. Saa samler du dit S&#248;lv og Guld udi Skrin,
-imedens jeg sadler Graagangeren min."
-
-4. Saa sadlet han den gule og siden den graa, 
-den gj&#230;vest' s&#230;tter han stolten Gulenborg paa.
-
-5. Saa red de saa langt udi Rosenvold hen, 
-til de red i tred've Miles Skov.
-
-6. "Hr. Ridebold, Hr. Ridebold, du sover for l&#230;nge, 
-nu h&#248;rer jeg min Faders Bidselst&#230;nger klingre.
-
-7. Nu h&#248;rer jeg min Faders forgyldene Lud,
-den haver ej v&#230;ret brugt, siden min Mormo'r hun stod Brud."
-
-8. "Og h&#248;r du, stolten Gulenborg, du holder ved min Hest, 
-men du n&#230;vner ej mit Navn."
-
-9. Saa gjorde Ridebold sig haard,
-og slog tolvtusend Mand og dertil hendes Faa'r.
-
-10. "Og h&#248;r du, Hr. Ridebold, I styrer nu jer Sind, 
-det var jo min kj&#230;r Fader, som I slog ihjel."
-
-Saa fik han 12000 Saar, et for hver, han havde slaaet ihjel, og saa red de s&#248;rgende hjem. Han kom her til Rosenholm og d&#248;de, men stolten Gulenborg blev sendt til Klasholm (Klavsholm) og d&#248;de der.</danish_publication>
-  <english_publication>1. Master Ridebold came riding into the King&#8217;s courtyard
-   |: Out in L&#248;ndom
-there stands proud Gulenborg and combs her hair
-   |: That happened in my youth
-
-2. And listen proud Gulenborg will you marry me
-[then you must leave the country with me]
-   
-3. Then gather your silver and gold in a chest
-while I saddle my gray steed
-
-4. Then he saddled the gold and then the grey
-he puts proud Gulenborg on the best one
-
-5. Then they rode so far out into Rosenvold
-until they&#8217;d ridden thirty miles in the forest
-
-6. Master Ridebold, Master Ridebold you&#8217;re sleeping too long
-Now I hear my father&#8217;s bridle poles clanking
-
-7. Now I hear my father&#8217;s gilded lyre
-that hasn&#8217;t been used since my grandmother was a bride
-
-8. and listen proud Gulenborg you hold my horse
-but do not name my name
-
-9. and then he made himself so hard
-and killed 12000 men and her father as well
-
-10. and listen Master Ridebold control yourself
-that was my dear father you killed
-
-Then he received 12,000 wounds, one for each he&#8217;d killed and then they rode home in sorrow. He came here to Rosenholm and died but proud Gulenborg was sent to Klasholm (Klavsholm) and died there.
-</english_publication>
-  <keywords>
-    <keyword><id>143</id><frequency>1</frequency><keyword>bride</keyword>bride</keyword>
-    <keyword><id>145</id><frequency>1</frequency><keyword>bridle</keyword>bridle</keyword>
-    <keyword><id>215</id><frequency>1</frequency><keyword>chest</keyword>chest</keyword>
-    <keyword><id>269</id><frequency>1</frequency><keyword>country</keyword>country</keyword>
-    <keyword><id>272</id><frequency>1</frequency><keyword>courtyard</keyword>courtyard</keyword>
-    <keyword><id>317</id><frequency>2</frequency><keyword>death</keyword>death</keyword>
-    <keyword><id>399</id><frequency>4</frequency><keyword>father</keyword>father</keyword>
-    <keyword><id>438</id><frequency>1</frequency><keyword>forest</keyword>forest</keyword>
-    <keyword><id>473</id><frequency>2</frequency><keyword>gold</keyword>gold</keyword>
-    <keyword><id>479</id><frequency>1</frequency><keyword>grandmother</keyword>grandmother</keyword>
-    <keyword><id>494</id><frequency>1</frequency><keyword>hair</keyword>hair</keyword>
-    <keyword><id>537</id><frequency>1</frequency><keyword>home</keyword>home</keyword>
-    <keyword><id>545</id><frequency>1</frequency><keyword>horse</keyword>horse</keyword>
-    <keyword><id>622</id><frequency>3</frequency><keyword>kill</keyword>kill</keyword>
-    <keyword><id>624</id><frequency>1</frequency><keyword>king</keyword>king</keyword>
-    <keyword><id>633</id><frequency>1</frequency><keyword>klavsholm</keyword>Klavsholm</keyword>
-    <keyword><id>753</id><frequency>1</frequency><keyword>marriage</keyword>marriage</keyword>
-    <keyword><id>761</id><frequency>4</frequency><keyword>master_ridebold</keyword>Master Ridebold</keyword>
-    <keyword><id>822</id><frequency>2</frequency><keyword>name</keyword>name</keyword>
-    <keyword><id>971</id><frequency>1</frequency><keyword>pole</keyword>pole</keyword>
-    <keyword><id>1000</id><frequency>5</frequency><keyword>proud_gulenborg</keyword>Proud Gulenborg</keyword>
-    <keyword><id>1030</id><frequency>4</frequency><keyword>riding</keyword>riding</keyword>
-    <keyword><id>1059</id><frequency>2</frequency><keyword>saddle</keyword>saddle</keyword>
-    <keyword><id>1118</id><frequency>1</frequency><keyword>silver</keyword>silver</keyword>
-    <keyword><id>1142</id><frequency>1</frequency><keyword>sleep</keyword>sleep</keyword>
-    <keyword><id>1163</id><frequency>1</frequency><keyword>sorrow</keyword>sorrow</keyword>
-    <keyword><id>1189</id><frequency>1</frequency><keyword>steed</keyword>steed</keyword>
-    <keyword><id>1375</id><frequency>1</frequency><keyword>youth</keyword>youth</keyword>
-  </keywords>
-  <etk_index><id>40</id>
-    <heading_danish>Jyske Folkeminder</heading_danish>
-    <heading_english>Folklore from Jutland</heading_english>
-  </etk_index>
-  <tango_indices>
-    <tango_index><id>1</id><display_name>People: Aristocrat / Royal</display_name></tango_index>
-    <tango_index><id>11</id><display_name>People: Girl</display_name></tango_index>
-    <tango_index><id>34</id><display_name>Places: Manor / Castle</display_name></tango_index>
-    <tango_index><id>54</id><display_name>Tools, Items and Conveyances: Wagon</display_name></tango_index>
-    <tango_index><id>74</id><display_name>Animals: Horse</display_name></tango_index>
-    <tango_index><id>83</id><display_name>Actions or events: Death</display_name></tango_index>
-    <tango_index><id>95</id><display_name>Actions or events: Punishment</display_name></tango_index>
-    <tango_index><id>128</id><display_name>Resolution: Negative</display_name></tango_index>
-  </tango_indices>
-  <genre><id>5</id><name>Ballad</name></genre>
-</story>
+</informant>

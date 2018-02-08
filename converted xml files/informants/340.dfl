@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<informant person_id="340">
+<informant><person_id>340</person_id>
   <core_informant/>
   <full_name>Pastor J. G. O. Brix</full_name>
   <last_name>Brix</last_name>
@@ -9,68 +8,68 @@
   <death_date>N/A</death_date>
   <occupations/>
   <stories>
-    <story story_id="785" secondary_informant="0">
+    <story><story_id>785</story_id><secondary_informant>0</secondary_informant>
       <informant_id>340</informant_id>
       <publication_info>DS_II_G_317</publication_info>
       <full_name>340 - 0.00 - DS_II_G_317</full_name>
       <url>data/stories/785.dfl</url>
-      <place_recorded id="540">Skj&#xF8;dstrup</place_recorded>
+      <place_recorded><id>540</id>Skj&#248;dstrup</place_recorded>
       <places_mentioned>
-        <place id="576">
+        <place><id>576</id>
           <name>Sortholm</name>
         </place>
-        <place id="169">
-          <name>Fovlumkj&#xE6;r</name>
+        <place><id>169</id>
+          <name>Fovlumkj&#230;r</name>
         </place>
-        <place id="195">
-          <name>Gj&#xF8;rringh&#xF8;j</name>
+        <place><id>195</id>
+          <name>Gj&#248;rringh&#248;j</name>
         </place>
-        <place id="572">
-          <name>S&#xF8;nderup</name>
+        <place><id>572</id>
+          <name>S&#248;nderup</name>
         </place>
-        <place id="680">
+        <place><id>680</id>
           <name>Vammen</name>
         </place>
       </places_mentioned>
     </story>
   </stories>
   <places>
-    <place type="birth_place">
+    <place><type>birth_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (birth place)</display_name>
     </place>
-    <place type="death_place">
+    <place><type>death_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (death place)</display_name>
     </place>
-    <place type="story_place">
+    <place><type>story_place</type>
       <place_id>540</place_id>
-      <name>Skj&#xF8;dstrup</name>
-      <display_name>Skj&#xF8;dstrup (stories recorded here)</display_name>
+      <name>Skj&#248;dstrup</name>
+      <display_name>Skj&#248;dstrup (stories recorded here)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>680</place_id>
       <name>Vammen</name>
       <display_name>Vammen (mentioned in 1 story)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>572</place_id>
-      <name>S&#xF8;nderup</name>
-      <display_name>S&#xF8;nderup (mentioned in 1 story)</display_name>
+      <name>S&#248;nderup</name>
+      <display_name>S&#248;nderup (mentioned in 1 story)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>195</place_id>
-      <name>Gj&#xF8;rringh&#xF8;j</name>
-      <display_name>Gj&#xF8;rringh&#xF8;j (mentioned in 1 story)</display_name>
+      <name>Gj&#248;rringh&#248;j</name>
+      <display_name>Gj&#248;rringh&#248;j (mentioned in 1 story)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>169</place_id>
-      <name>Fovlumkj&#xE6;r</name>
-      <display_name>Fovlumkj&#xE6;r (mentioned in 1 story)</display_name>
+      <name>Fovlumkj&#230;r</name>
+      <display_name>Fovlumkj&#230;r (mentioned in 1 story)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>576</place_id>
       <name>Sortholm</name>
       <display_name>Sortholm (mentioned in 1 story)</display_name>

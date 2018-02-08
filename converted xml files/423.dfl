@@ -1,64 +1,54 @@
-<story><story_id>423</story_id>
-  <publication_info>DS_II_E_186</publication_info>
-  <full_name>123 - 3.20 - DS_II_E_186</full_name>
-  <informant_id>123</informant_id>
-  <informant_last_name>Johansen</informant_last_name>
-  <informant_first_name>Peder</informant_first_name>
-  <informant_full_name>Peder Johansen</informant_full_name>
-  <order_told>3.20</order_told>
-  <fieldtrip><id>2</id>Feb 1888</fieldtrip>
-  <fieldtrip_start_date>1888-02-04</fieldtrip_start_date>
-  <fieldtrip_end_date>1888-02-17</fieldtrip_end_date>
+<informant><person_id>423</person_id>
+  <core_informant/>
+  <full_name>L&#230;rer S. J&#248;rgensen</full_name>
+  <last_name>J&#248;rgensen</last_name>
+  <first_name>S.</first_name>
+  <gender>N/A</gender>
+  <birth_date>N/A</birth_date>
+  <death_date>N/A</death_date>
+  <occupations/>
+  <stories>
+    <story><story_id>846</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>423</informant_id>
+      <publication_info>DS_III_531</publication_info>
+      <full_name>423 - 0.00 - DS_III_531</full_name>
+      <url>data/stories/846.dfl</url>
+      <place_recorded><id>810</id>Kistrup, Assens</place_recorded>
+      <places_mentioned>
+        <place><id>854</id>
+          <name>Ringe, Fyn</name>
+        </place>
+        <place><id>983</id>
+          <name>Nyborg</name>
+        </place>
+      </places_mentioned>
+    </story>
+  </stories>
   <places>
-    <place><type>place_recorded</type>
-      <place_id>175</place_id>
-      <name>Fuldbro m&#248;lle</name>
-      <display_name>Fuldbro m&#248;lle (place recorded)</display_name>
+    <place><type>birth_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (birth place)</display_name>
+    </place>
+    <place><type>death_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (death place)</display_name>
+    </place>
+    <place><type>story_place</type>
+      <place_id>810</place_id>
+      <name>Kistrup, Assens</name>
+      <display_name>Kistrup, Assens (stories recorded here)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>983</place_id>
+      <name>Nyborg</name>
+      <display_name>Nyborg (mentioned in 1 story)</display_name>
+    </place>
+    <place><type>place_mentioned</type>
+      <place_id>854</place_id>
+      <name>Ringe, Fyn</name>
+      <display_name>Ringe, Fyn (mentioned in 1 story)</display_name>
     </place>
   </places>
-  <stories_mentioned>
-    <story><story_id>266</story_id>
-      <informant_id>235</informant_id>
-      <publication_info>Unpub_KMP_146</publication_info>
-      <full_name>235 - 1.46 - Unpub_KMP_146</full_name>
-      <url>data/stories/266.dfl</url>
-    </story>
-  </stories_mentioned>
-  <fielddiary_page_start>3802b</fielddiary_page_start>
-  <fielddiary_page_end>3802b</fielddiary_page_end>
-  <bibliographic_info/>
-  <bibliography_references/>
-  <annotation>Stories about caterpillars and other insects are widely attested. Certain caterpillars were considered to be as dangerous as snakes. Moths and other insects were at the very least a nuisance and, in some cases, a direct threat to the crops and harvested grain. Although caterpillars can inflict a painful bite, there are no truly poisonous caterpillars in Denmark.</annotation>
-  <danish_manuscript>Hvor &#198;ven (&#216;wer ell. T&#230;wer) bider, det kan
-ikke l&#230;ges. Forhen gik en hellere imod en
-Hugorm end imod en &#198;w. For et &#198;w-
-bid det svinder et Mske efter, men et
-Hugormbid det kan gj&#248;re det af strags. 
-Den kan bide i en H&#248;l&#233; saadan at en
-kan h&#248;re te en bider. 
-</danish_manuscript>
-  <english_manuscript>You can't cure a hawk-moth caterpillar bite. It used to be that people would rather confront a viper than a hawk-moth caterpillar. A hawk moth caterpillar bite wastes a person away, but a viper bite can kill a person quickly. It can bite a hay scythe so hard that you can hear that it's biting.</english_manuscript>
-  <danish_publication>Hvor &#230;ven bider, det kan ikke l&#230;ges. Forhen gik &#233;n hellere imod en hugorm end imod en &#230;ve. For et &#230;vebid det svinder et menneske efter, men et hugormebid det kan gj&#248;re det af straks. Den kan bide i en h&#248;l&#233;, s&#229;dan at &#233;n kan h&#248;re, te den bider.</danish_publication>
-  <english_publication>You can&#8217;t cure a hawk-moth caterpillar bite. Before, people would rather confront a viper than a caterpillar. A hawk moth caterpillar bite wastes a person away, but a viper bite can kill a person quickly. It can bite a hay scythe so hard that you can hear that it&#8217;s biting.</english_publication>
-  <keywords>
-    <keyword><id>188</id><frequency>3</frequency><keyword>caterpillar</keyword>caterpillar</keyword>
-    <keyword><id>289</id><frequency>1</frequency><keyword>cure</keyword>cure</keyword>
-    <keyword><id>509</id><frequency>2</frequency><keyword>hawk</keyword>hawk</keyword>
-    <keyword><id>511</id><frequency>1</frequency><keyword>hay</keyword>hay</keyword>
-    <keyword><id>622</id><frequency>1</frequency><keyword>kill</keyword>kill</keyword>
-    <keyword><id>802</id><frequency>2</frequency><keyword>moth</keyword>moth</keyword>
-    <keyword><id>1078</id><frequency>1</frequency><keyword>scythe</keyword>scythe</keyword>
-    <keyword><id>1303</id><frequency>2</frequency><keyword>viper</keyword>viper</keyword>
-  </keywords>
-  <etk_index><id>6</id>
-    <heading_danish>Lindorme og sm&#229;kryb</heading_danish>
-    <heading_english>Wiverns and small creepy-crawlies</heading_english>
-  </etk_index>
-  <tango_indices>
-    <tango_index><id>52</id><display_name>Tools, Items and Conveyances: Tools</display_name></tango_index>
-    <tango_index><id>76</id><display_name>Animals: Serpent / Snake</display_name></tango_index>
-    <tango_index><id>130</id><display_name>Resolution: None / Unspecified</display_name></tango_index>
-    <tango_index><id>135</id><display_name>Animals: Insects</display_name></tango_index>
-  </tango_indices>
-  <genre><id>1</id><name>Belief</name></genre>
-</story>
+</informant>

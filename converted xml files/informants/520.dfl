@@ -1,7 +1,6 @@
-<?xml version="1.0"?>
-<informant person_id="520">
+<informant><person_id>520</person_id>
   <core_informant/>
-  <full_name>L&#xE6;rer A. C. Poulsen</full_name>
+  <full_name>L&#230;rer A. C. Poulsen</full_name>
   <last_name>Poulsen</last_name>
   <first_name>A. C.</first_name>
   <gender>N/A</gender>
@@ -9,69 +8,69 @@
   <death_date>N/A</death_date>
   <occupations/>
   <stories>
-    <story story_id="438" secondary_informant="0">
+    <story><story_id>438</story_id><secondary_informant>0</secondary_informant>
       <informant_id>520</informant_id>
       <publication_info>DS_III_128</publication_info>
       <full_name>520 - 0.00 - DS_III_128</full_name>
       <url>data/stories/438.dfl</url>
-      <place_recorded id="111">Dalby</place_recorded>
+      <place_recorded><id>111</id>Dalby</place_recorded>
       <places_mentioned>
-        <place id="32">
+        <place><id>32</id>
           <name>Andrup</name>
         </place>
-        <place id="360">
-          <name>Langkj&#xE6;r</name>
+        <place><id>360</id>
+          <name>Langkj&#230;r</name>
         </place>
-        <place id="592">
+        <place><id>592</id>
           <name>Stepping</name>
         </place>
       </places_mentioned>
     </story>
-    <story story_id="453" secondary_informant="0">
+    <story><story_id>453</story_id><secondary_informant>0</secondary_informant>
       <informant_id>520</informant_id>
       <publication_info>DS_I_542</publication_info>
       <full_name>520 - 0.00 - DS_I_542</full_name>
       <url>data/stories/453.dfl</url>
-      <place_recorded id="111">Dalby</place_recorded>
+      <place_recorded><id>111</id>Dalby</place_recorded>
       <places_mentioned>
-        <place id="402">
+        <place><id>402</id>
           <name>Martofte</name>
         </place>
       </places_mentioned>
     </story>
   </stories>
   <places>
-    <place type="birth_place">
+    <place><type>birth_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (birth place)</display_name>
     </place>
-    <place type="death_place">
+    <place><type>death_place</type>
       <place_id>N/A</place_id>
       <name>N/A</name>
       <display_name>N/A (death place)</display_name>
     </place>
-    <place type="story_place">
+    <place><type>story_place</type>
       <place_id>111</place_id>
       <name>Dalby</name>
       <display_name>Dalby (stories recorded here)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>402</place_id>
       <name>Martofte</name>
       <display_name>Martofte (mentioned in 1 story)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>592</place_id>
       <name>Stepping</name>
       <display_name>Stepping (mentioned in 1 story)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>360</place_id>
-      <name>Langkj&#xE6;r</name>
-      <display_name>Langkj&#xE6;r (mentioned in 1 story)</display_name>
+      <name>Langkj&#230;r</name>
+      <display_name>Langkj&#230;r (mentioned in 1 story)</display_name>
     </place>
-    <place type="place_mentioned">
+    <place><type>place_mentioned</type>
       <place_id>32</place_id>
       <name>Andrup</name>
       <display_name>Andrup (mentioned in 1 story)</display_name>

@@ -1,186 +1,65 @@
-<story><story_id>182</story_id>
-  <publication_info>DSnr_II_B_212</publication_info>
-  <full_name>241 - 4.11 - DSnr_II_B_212</full_name>
-  <informant_id>241</informant_id>
-  <informant_last_name>Pedersen</informant_last_name>
-  <informant_first_name>Jens Peter</informant_first_name>
-  <informant_full_name>Jens Peter Pedersen</informant_full_name>
-  <order_told>4.11</order_told>
-  <fieldtrip><id>8</id>May-June 1898</fieldtrip>
-  <fieldtrip_start_date>1898-05-23</fieldtrip_start_date>
-  <fieldtrip_end_date>1898-06-08</fieldtrip_end_date>
+<informant><person_id>182</person_id>
+  <core_informant/>
+  <full_name>Niels Madsen</full_name>
+  <last_name>Madsen</last_name>
+  <first_name>Niels</first_name>
+  <gender>m</gender>
+  <birth_date>0000-00-00</birth_date>
+  <death_date>0000-00-00</death_date>
+  <occupations>
+    <occupation><occupation_id>73</occupation_id>Snedker</occupation>
+  </occupations>
+  <stories>
+    <story><story_id>749</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>182</informant_id>
+      <publication_info>DS_V_1002</publication_info>
+      <full_name>182 - 0.00 - DS_V_1002</full_name>
+      <url>data/stories/749.dfl</url>
+      <place_recorded><id>93</id>Bratten</place_recorded>
+      <places_mentioned>
+        <place><id>36</id>
+          <name>As&#229;</name>
+        </place>
+      </places_mentioned>
+    </story>
+    <story><story_id>750</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>182</informant_id>
+      <publication_info>DS_V_412</publication_info>
+      <full_name>182 - 0.00 - DS_V_412</full_name>
+      <url>data/stories/750.dfl</url>
+      <place_recorded><id>93</id>Bratten</place_recorded>
+      <places_mentioned>
+        <place><id>93</id>
+          <name>Bratten</name>
+        </place>
+      </places_mentioned>
+    </story>
+  </stories>
   <places>
-    <place><type>place_recorded</type>
-      <place_id>306</place_id>
-      <name>Ilbj&#230;rge</name>
-      <display_name>Ilbj&#230;rge (place recorded)</display_name>
+    <place><type>birth_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (birth place)</display_name>
+    </place>
+    <place><type>death_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (death place)</display_name>
+    </place>
+    <place><type>story_place</type>
+      <place_id>93</place_id>
+      <name>Bratten</name>
+      <display_name>Bratten (stories recorded here)</display_name>
     </place>
     <place><type>place_mentioned</type>
-      <place_id>551</place_id>
-      <name>Skroll&#248;s hede</name>
-      <display_name>Skroll&#248;s hede (place mentioned)</display_name>
+      <place_id>93</place_id>
+      <name>Bratten</name>
+      <display_name>Bratten (mentioned in 1 story)</display_name>
     </place>
     <place><type>place_mentioned</type>
-      <place_id>585</place_id>
-      <name>Stempeg&#229;rd</name>
-      <display_name>Stempeg&#229;rd (place mentioned)</display_name>
-    </place>
-    <place><type>place_mentioned</type>
-      <place_id>586</place_id>
-      <name>Stenb&#230;k</name>
-      <display_name>Stenb&#230;k (place mentioned)</display_name>
-    </place>
-    <place><type>place_mentioned</type>
-      <place_id>73</place_id>
-      <name>B&#248;rglum</name>
-      <display_name>B&#248;rglum (place mentioned)</display_name>
-    </place>
-    <place><type>place_mentioned</type>
-      <place_id>143</place_id>
-      <name>Em</name>
-      <display_name>Em (place mentioned)</display_name>
-    </place>
-    <place><type>place_mentioned</type>
-      <place_id>722</place_id>
-      <name>Vollerup</name>
-      <display_name>Vollerup (place mentioned)</display_name>
+      <place_id>36</place_id>
+      <name>As&#229;</name>
+      <display_name>As&#229; (mentioned in 1 story)</display_name>
     </place>
   </places>
-  <stories_mentioned>
-    <story><story_id>183</story_id>
-      <informant_id>241</informant_id>
-      <publication_info>Unpub_JPP_411</publication_info>
-      <full_name>241 - 4.11 - Unpub_JPP_411</full_name>
-      <url>data/stories/183.dfl</url>
-    </story>
-    <story><story_id>518</story_id>
-      <informant_id>388</informant_id>
-      <publication_info>DS_II_B_183</publication_info>
-      <full_name>388 - 0.00 - DS_II_B_183</full_name>
-      <url>data/stories/518.dfl</url>
-    </story>
-    <story><story_id>494</story_id>
-      <informant_id>505</informant_id>
-      <publication_info>DS_II_B_146</publication_info>
-      <full_name>505 - 0.00 - DS_II_B_146</full_name>
-      <url>data/stories/494.dfl</url>
-    </story>
-    <story><story_id>781</story_id>
-      <informant_id>467</informant_id>
-      <publication_info>DS_II_B_214</publication_info>
-      <full_name>467 - 0.00 - DS_II_B_214</full_name>
-      <url>data/stories/781.dfl</url>
-    </story>
-    <story><story_id>514</story_id>
-      <informant_id>429</informant_id>
-      <publication_info>DS_II_B_185</publication_info>
-      <full_name>429 - 0.00 - DS_II_B_185</full_name>
-      <url>data/stories/514.dfl</url>
-    </story>
-    <story><story_id>703</story_id>
-      <informant_id>413</informant_id>
-      <publication_info>DS_II_B_211</publication_info>
-      <full_name>413 - 0.00 - DS_II_B_211</full_name>
-      <url>data/stories/703.dfl</url>
-    </story>
-    <story><story_id>737</story_id>
-      <informant_id>358</informant_id>
-      <publication_info>DS_II_B_188</publication_info>
-      <full_name>358 - 0.00 - DS_II_B_188</full_name>
-      <url>data/stories/737.dfl</url>
-    </story>
-  </stories_mentioned>
-  <fielddiary_page_start>7807b</fielddiary_page_start>
-  <fielddiary_page_end>7808a</fielddiary_page_end>
-  <bibliographic_info>Feilberg 1918
-</bibliographic_info>
-  <bibliography_references>
-    <reference><id>93</id><category>general</category>
-      <display_string>[Book] Feilberg, Henning F. 1918. &lt;i&gt;Nissens historie (Danmarks folkeminder)&lt;/i&gt;. Copenhagen: Det Sch&#248;nbergske forlag.</display_string>
-    </reference>
-    <reference><id>759</id><category>general</category>
-      <display_string>[Book section] Lindow, John. 1975. The Male Focus of Scandinavian Household Spirits. In &lt;i&gt;Papers IV : The 8th Congress for the International Society for Folk Narrative Research&lt;/i&gt;: 35-46. Bergen: Folkekultur.</display_string>
-    </reference>
-  </bibliography_references>
-  <annotation>Playing tricks on the nisse usually leads to retributive acts. Many stories attest to the contractual arrangement between a nisse and his farmer, in which the farmer provides the nisse with one humble meal a year (porridge and butter), and possibly a new set of clothes (DS II B 146). In return, the nisse guarantees if not the wealth then at least the success of the farm in the coming year. The contract stands as an extreme version of the standard contract between farmhands and farmers. In this context, it is worth noting that the term "nis" is a diminutive for the name "Niels," a common name for farmhands. The story also reflects the ambiguity related to negotiating contracts or engaging in transactions with members of an outside group.
-
-     In this story, the nisse believes the farmer has underpaid him for his work. Other stories consider what happens when the farmer overpays, usually by giving the nisse clothes that are too nice for his social status (farmhand) (DS II B 214).
-
-     The story of a nisse who kills the cow after not finding butter in his porridge is very common (DS II B 185). In some variants, the new cow tries to get back to its old farm or is otherwise confused about its new surroundings (DS II B 211). In some cases, the new cow is better than the one it replaced (DS II B 188). The stolen cow always comes from a neighboring parish, or even further afield. Theft outside of the community is apparently less problematic, perhaps because it does not impact the immediate economy. Crossing parish lines guarantees that the theft affects outsiders.</annotation>
-  <danish_manuscript>Der var en Gaardbo paa Stempegaard i
-B&#248;rglum Sogn -- det er den ene af de to
-Gaarde af det Navn og h. havde en r&#248;d
-Ko at passe og den skaff. h. Foder til
-S. var det en Bestemmelse, at h. hver Aft
-skulde have s&#248;de Gr&#248;d og Sm&#248;r i Gr&#248;den
-og det fik h. jo i flere Aar. S. var det en
-Aften, Konen vilde have ham lidt til
-Bedste og s. kom hu Sm&#248;r i Bunden
-af Fadet og Gr&#248;d ovenpaa. N gb h.
-bliver jo s gal over, at der var ikke
-Sm&#248;r i Gr&#248;den og h. gaar ud i Kostal-
-den og slaar den r&#248;de Ko ihjel. S gaar
-h. jo ind og fryder sig over det. Men da
-h. havde spist Gr&#248;den finder h. sm&#248;r
-ret paa Bunden af Fadet og fortryder
-det lige godt og vidste nu at der om 
-i Vollerup, nogle Steder der ligger nord
-derfra i Em Sogn (?) der stod en r&#248;d
-Ko akkurat Magen til den h havde sla-
-gen ihjel. S. tog h. den d&#248;de Ko paa
-
-7808A
-Nakken og rejser over en Hede der kaldes Skr&#248;l
-l&#248;s Hede imellem Stenb&#230;kgrd og Vollerup
-der er fuld af Sten og Skidt. H. bar den d&#248;de
-Ko ud og tr&#230;kk. levende ind og satte i Steden
-for 2. S. kom h. til Vollerup med d&#248;de
-Ko. Andendagen gik h. og snakk. med sig
-selv: Aaj, Skr&#248;ll&#248;s Hede wa l&#229;ng &#229;
-d&#230;j r&#248;&#248; Ko wa t&#229;ng, &#229; mi N&#248;g, hu
-bar a. H. gik jo og ynkede sig selv.</danish_manuscript>
-  <english_manuscript>There was a gaardbo in Stempegaard in B&#248;rglum parish--it was in one of the two farms that had that name, and he had a red cow he was supposed to take care of, and he procured food for it. Now there was a condition that he was to have sweet porridge with butter in it every evening and he got this for many years. But then one evening, the wife wanted to play a little trick on him and so she put the butter on the bottom of the bowl and the porridge on top of it. Well, the gaardbo gets so angry that there wasn't butter in the porridge and he goes out into the cow barn and kills the red cow. Then he goes back inside and is delighted with what he's done. But when he'd eaten the porridge, he finds the butter at the bottom of the bowl and he now regrets what he's done. Now he knew that over in Vollerup--those places north in Em parish--there was a red cow there exactly like the one that he'd killed. Then he puts the dead cow up on his shoulders and went over the heath that's called Skr&#248;ll&#248;s heath between Stenb&#230;k farm and Vollerup, that's full of stones and other junk. He pulls the live cow out and carries the dead cow in and puts it in place of the other one. That's how he came to Vollerup with the dead cow. The next day he went and talked to himself, "Oh, yeah, Skr&#248;ll&#248;s heath was long, and the red cow heavy, oh my back, I carried it." He went and complained.</english_manuscript>
-  <danish_publication>Der var en Gaardbo i Stempegaard i B&#248;rglum Sogn &#8212; det var da i den ene af de to Gaarde af det Navn, og han havde en r&#248;d Ko at passe, og den skaffede han Foder til. Nu var det en Bestemmelse, at han hver Aften skulde have s&#248;de Gr&#248;d og Sm&#248;r i Gr&#248;den, og det fik han jo i flere Aar. Men saa var det en Aften, Konen vilde have ham lidt til Bedste, og saa kom hun Sm&#248;r i Bunden af Fadet og Gr&#248;d ovenpaa. Naa, Gaardboen han bliver jo saa gal over, at der var ikke Sm&#248;r i Gr&#248;den, og han gaar ud i Kostalden og slaar den r&#248;de Ko ihjel. Derefter gaar han ind og fryder sig over, hvad han har gjort. Men da han havde spist Gr&#248;den, finder han Sm&#248;rret paa Bunden af Fadet og fortryder det nu lige godt. Nu vidste han, at der ovre i Vollerup &#8212; saadan kaldes nogle Steder, der ligger nord derfra i Em Sogn, der stod en r&#248;d Ko, akkurat Magen til den, han havde slagen ihjel. Saa tog han den d&#248;de Ko paa Nakken og rejste over en Hede, der kaldes Skr&#248;ll&#248;s Hede imellem Stenb&#230;kgaard og Vollerup, der var fuld af Sten og Skidt. Han tr&#230;kkede den levende Ko ud og bar den d&#248;de ind og satte i Steden for den anden, og saa rejste han tilbage igjen til Stempegaard med Koen og satte den ind. Andendagen gik han og snakkede med sig selv: "Aaja, Skr&#248;ll&#248;s Heje wa lang, &#229; d&#230;j r&#248;&#248; Ko wa t&#229;ng, &#229;&#229; mi N&#248;g, hu bor a." Han gik jo og ynkede sig selv, det havde gjort ondt i hans Ryg, og saa hylrede han over sig selv.</danish_publication>
-  <english_publication>There was a gaardbo in Stempegaard in B&#248;rglum parish&#8212;it was in one of the two farms that had that name, and he had a red cow he was supposed to take care of, and he procured food for it. Now there was a condition that he was to have sweet porridge with butter in it every evening and he got this for many years. But then one evening the farmwife wanted to play a little trick on him and so she put the butter on the bottom of the bowl and the porridge on top of it. Well, the gaardbo gets so angry that there wasn&#8217;t butter in the porridge and he goes out into the cow shed and kills the red cow. Then he goes back inside and is delighted with what he&#8217;s done. But when he&#8217;d eaten the porridge, he finds the butter at the bottom of the bowl and he now regrets what he&#8217;s done. Now he knew that over in Vollerup&#8212;that&#8217;s what those places north in Em parish are called&#8212;there was a red cow there exactly like the one that he&#8217;d killed. Then he puts the dead cow up on his shoulders and went over the heath that&#8217;s called Skr&#248;ll&#248;s heath between Stenb&#230;k farm and Vollerup, it was filled with stones and other junk. He pulls the live cow out and carries the dead cow in and puts it in place of the other one, and then he went back again to Stempegaard with the live cow and put it in the barn. The next day he went and talked with himself, &#8220;Oh, yeah, Skr&#248;ll&#248;s heath was long, and the red cow heavy, oh my back, I carried it.&#8221; He went and complained, his back really hurt, and he went about whining.</english_publication>
-  <keywords>
-    <keyword><id>36</id><frequency>1</frequency><keyword>angry</keyword>angry</keyword>
-    <keyword><id>72</id><frequency>1</frequency><keyword>barn</keyword>barn</keyword>
-    <keyword><id>128</id><frequency>2</frequency><keyword>bowl</keyword>bowl</keyword>
-    <keyword><id>163</id><frequency>4</frequency><keyword>butter</keyword>butter</keyword>
-    <keyword><id>274</id><frequency>9</frequency><keyword>cow</keyword>cow</keyword>
-    <keyword><id>306</id><frequency>1</frequency><keyword>day</keyword>day</keyword>
-    <keyword><id>317</id><frequency>2</frequency><keyword>death</keyword>death</keyword>
-    <keyword><id>386</id><frequency>2</frequency><keyword>evening</keyword>evening</keyword>
-    <keyword><id>394</id><frequency>2</frequency><keyword>farm</keyword>farm</keyword>
-    <keyword><id>431</id><frequency>1</frequency><keyword>food</keyword>food</keyword>
-    <keyword><id>517</id><frequency>3</frequency><keyword>heath</keyword>heath</keyword>
-    <keyword><id>622</id><frequency>2</frequency><keyword>kill</keyword>kill</keyword>
-    <keyword><id>822</id><frequency>1</frequency><keyword>name</keyword>name</keyword>
-    <keyword><id>863</id><frequency>1</frequency><keyword>north</keyword>north</keyword>
-    <keyword><id>903</id><frequency>1</frequency><keyword>parish</keyword>parish</keyword>
-    <keyword><id>977</id><frequency>4</frequency><keyword>porridge</keyword>porridge</keyword>
-    <keyword><id>1021</id><frequency>4</frequency><keyword>red</keyword>red</keyword>
-    <keyword><id>1109</id><frequency>1</frequency><keyword>shoulder</keyword>shoulder</keyword>
-    <keyword><id>1195</id><frequency>1</frequency><keyword>stone</keyword>stone</keyword>
-    <keyword><id>1282</id><frequency>1</frequency><keyword>trickery</keyword>trickery</keyword>
-    <keyword><id>1343</id><frequency>1</frequency><keyword>wife</keyword>wife</keyword>
-  </keywords>
-  <etk_index><id>3</id>
-    <heading_danish>Nisser</heading_danish>
-    <heading_english>Household spirits</heading_english>
-  </etk_index>
-  <tango_indices>
-    <tango_index><id>8</id><display_name>People: Farmwife</display_name></tango_index>
-    <tango_index><id>25</id><display_name>Places: Barn</display_name></tango_index>
-    <tango_index><id>32</id><display_name>Places: Heath</display_name></tango_index>
-    <tango_index><id>49</id><display_name>Tools, Items and Conveyances: Food and Drink</display_name></tango_index>
-    <tango_index><id>65</id><display_name>Supernatural Beings: Nisse</display_name></tango_index>
-    <tango_index><id>70</id><display_name>Animals: Cow</display_name></tango_index>
-    <tango_index><id>72</id><display_name>Animals: Farm animal</display_name></tango_index>
-    <tango_index><id>97</id><display_name>Actions or events: Theft</display_name></tango_index>
-    <tango_index><id>98</id><display_name>Actions or events: Transaction</display_name></tango_index>
-    <tango_index><id>100</id><display_name>Actions or events: Work</display_name></tango_index>
-    <tango_index><id>127</id><display_name>Resolution: Positive</display_name></tango_index>
-  </tango_indices>
-  <genre><id>2</id><name>Legend</name></genre>
-</story>
+</informant>

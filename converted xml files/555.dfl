@@ -1,91 +1,31 @@
-<story><story_id>555</story_id>
-  <publication_info>DS_II_F_71</publication_info>
-  <full_name>68 - 0.00 - DS_II_F_71</full_name>
-  <informant_id>68</informant_id>
-  <informant_last_name>Hansen</informant_last_name>
-  <informant_first_name>Mikkel</informant_first_name>
-  <informant_full_name>Mikkel Hansen</informant_full_name>
-  <order_told>0.00</order_told>
-  <secondary_informants>
-    <informant><id>25</id>Jens Nielsen B&#230;k</informant>
-  </secondary_informants>
-  <fieldtrip><id/>None recorded</fieldtrip>
-  <places/>
-  <stories_mentioned>
-    <story><story_id>856</story_id>
-      <informant_id>328</informant_id>
-      <publication_info>DS_II_F_65</publication_info>
-      <full_name>328 - 0.00 - DS_II_F_65</full_name>
-      <url>data/stories/856.dfl</url>
+<informant><person_id>555</person_id>
+  <core_informant/>
+  <full_name>Ole Worm</full_name>
+  <last_name>Worm</last_name>
+  <first_name>Ole</first_name>
+  <gender>N/A</gender>
+  <birth_date>N/A</birth_date>
+  <death_date>N/A</death_date>
+  <occupations/>
+  <stories>
+    <story><story_id>768</story_id><secondary_informant>0</secondary_informant>
+      <informant_id>555</informant_id>
+      <publication_info>DS_II_C_118</publication_info>
+      <full_name>555 - 0.00 - DS_II_C_118</full_name>
+      <url>data/stories/768.dfl</url>
+      <places_mentioned/>
     </story>
-    <story><story_id>784</story_id>
-      <informant_id>467</informant_id>
-      <publication_info>DS_II_D_16</publication_info>
-      <full_name>467 - 0.00 - DS_II_D_16</full_name>
-      <url>data/stories/784.dfl</url>
-    </story>
-    <story><story_id>849</story_id>
-      <informant_id>444</informant_id>
-      <publication_info>DS_II_F_73</publication_info>
-      <full_name>444 - 0.00 - DS_II_F_73</full_name>
-      <url>data/stories/849.dfl</url>
-    </story>
-    <story><story_id>866</story_id>
-      <informant_id/>
-      <publication_info>DS_II_F_101</publication_info>
-      <full_name>0 - 0.00 - DS_II_F_101</full_name>
-      <url>data/stories/866.dfl</url>
-    </story>
-    <story><story_id>407</story_id>
-      <informant_id>123</informant_id>
-      <publication_info>DS_II_F_78</publication_info>
-      <full_name>123 - 3.04 - DS_II_F_78</full_name>
-      <url>data/stories/407.dfl</url>
-    </story>
-    <story><story_id>497</story_id>
-      <informant_id>465</informant_id>
-      <publication_info>DS_II_F_62</publication_info>
-      <full_name>465 - 0.00 - DS_II_F_62</full_name>
-      <url>data/stories/497.dfl</url>
-    </story>
-  </stories_mentioned>
-  <fielddiary_page_start>N/A</fielddiary_page_start>
-  <fielddiary_page_end>N/A</fielddiary_page_end>
-  <bibliographic_info/>
-  <bibliography_references/>
-  <annotation/>
-  <danish_manuscript/>
-  <english_manuscript/>
-  <danish_publication>En karl, der var ilde plaget af mareridt, fik en aften drengen til at hj&#230;lpe sig. Han stoppede alle huller ind til kammeret s&#229; n&#230;r som et, for der skulde maren komme igjennem, mente han. S&#229; skulde drengen rejse sig, n&#229;r han m&#230;rkede, det blev galt, og stoppe det hul ogs&#229;. Dern&#230;st skulde han kalde p&#229; karlen, s&#229; han kunde komme til sig selv igjen. Det gjorde drengen ogs&#229;, og om morgenen l&#229; der en pige ved dem i sengen. Der var ingen, der kjendte hende, og heller ikke vidste hun, hvor hun var kommen fra, eller nogen ting. Den karl var mandens s&#246;n i g&#229;rden, og s&#229; giftede han sig med pigen og fik g&#229;rden, og de havde mange b&#246;rn sammen. S&#229; var det en dag, han vilde til at vise hende det hul, hun var kommen ind ad, og s&#229; smut' hun ud af det igjen, og han s&#229; hende aldrig mere.</danish_publication>
-  <english_publication>A farmhand who was seriously plagued by nightmares got the hired boy to help him one night. He blocked all the holes into the room except for one because the mare was supposed to come in through it, he thought. Then the boy was to get up when he noticed something was wrong and block that hole too. Then he was to call to the farmhand so he could come to himself again. The boy did this too, and in the morning there was a girl with them in the bed. Nobody knew her and she didn&#8217;t know where she had come from or anything else for that matter. The farmhand was the son of the farm owner and he married the girl and inherited the farm and they had a lot of kids together. Then one day he wanted to show her the hole that she had come in through and then she scooted back out of it and he never saw her again.</english_publication>
-  <keywords>
-    <keyword><id>83</id><frequency>1</frequency><keyword>bed</keyword>bed</keyword>
-    <keyword><id>130</id><frequency>3</frequency><keyword>boy</keyword>boy</keyword>
-    <keyword><id>306</id><frequency>1</frequency><keyword>day</keyword>day</keyword>
-    <keyword><id>394</id><frequency>2</frequency><keyword>farm</keyword>farm</keyword>
-    <keyword><id>395</id><frequency>3</frequency><keyword>farm_hand</keyword>farmhand</keyword>
-    <keyword><id>467</id><frequency>2</frequency><keyword>girl</keyword>girl</keyword>
-    <keyword><id>558</id><frequency>1</frequency><keyword>inheritance</keyword>inheritance</keyword>
-    <keyword><id>744</id><frequency>1</frequency><keyword>mare</keyword>mare</keyword>
-    <keyword><id>753</id><frequency>1</frequency><keyword>marriage</keyword>marriage</keyword>
-    <keyword><id>801</id><frequency>1</frequency><keyword>morning</keyword>morning</keyword>
-    <keyword><id>848</id><frequency>1</frequency><keyword>night</keyword>night</keyword>
-    <keyword><id>852</id><frequency>1</frequency><keyword>nightmare</keyword>nightmare</keyword>
-    <keyword><id>891</id><frequency>1</frequency><keyword>owner</keyword>owner</keyword>
-    <keyword><id>1154</id><frequency>1</frequency><keyword>son</keyword>son</keyword>
-  </keywords>
-  <etk_index><id>7</id>
-    <heading_danish>Varulve og marer</heading_danish>
-    <heading_english>Werewolves and nightmares</heading_english>
-  </etk_index>
-  <tango_indices>
-    <tango_index><id>4</id><display_name>People: Boy</display_name></tango_index>
-    <tango_index><id>9</id><display_name>People: Farmhand / Shepherd</display_name></tango_index>
-    <tango_index><id>11</id><display_name>People: Girl</display_name></tango_index>
-    <tango_index><id>29</id><display_name>Places: Farm</display_name></tango_index>
-    <tango_index><id>61</id><display_name>Supernatural Beings: Mare</display_name></tango_index>
-    <tango_index><id>112</id><display_name>Time, Season, Weather: Night </display_name></tango_index>
-    <tango_index><id>128</id><display_name>Resolution: Negative</display_name></tango_index>
-  </tango_indices>
-  <genre><id>2</id><name>Legend</name></genre>
-</story>
+  </stories>
+  <places>
+    <place><type>birth_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (birth place)</display_name>
+    </place>
+    <place><type>death_place</type>
+      <place_id>N/A</place_id>
+      <name>N/A</name>
+      <display_name>N/A (death place)</display_name>
+    </place>
+  </places>
+</informant>
