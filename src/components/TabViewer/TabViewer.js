@@ -2,9 +2,13 @@
  * Created by danielhuang on 1/28/18.
  */
 import React, { Component } from 'react';
-import Navigator from '../Navigator/Navigator';
+import Navigation from '../Navigation/Navigation';
 import StoryView from '../StoryView/StoryView';
-import {getStoryByID, getPeopleByID} from "./model";
+import PlaceView from '../PlaceView/PlaceView';
+import PeopleView from '../PeopleView/PeopleView';
+import FieldtripView from '../FieldtripView/FieldtripView';
+import BookView from '../BookView/BookView';
+import {getStoryByID, getPeopleByID, getPlacesByID, getFieldtripsByID} from "./model";
 import './TabViewer.css'
 
 class TabViewer extends Component {
@@ -17,17 +21,17 @@ class TabViewer extends Component {
             inView:[]
         };
         this.handleStoryID = this.handleStoryID.bind(this);
-        this.handlePPSID = this.handlePPSID.bind(this);
+        this.handleID = this.handleID.bind(this);
         this.tabController = this.tabController.bind(this);
         this.switchTab = this.switchTab.bind(this);
         this.closeTab = this.closeTab.bind(this);
         this.renderPDF = this.renderPDF.bind(this);
-        this.renderPPF = this.renderPPF.bind(this);
+        this.renderPPFS = this.renderPPFS.bind(this);
     }
 
     componentWillMount(){
-        var navigatorObject = {
-            jsx: <Navigator addStoryID={this.handleStoryID} addPPSID={this.handlePPSID}/>,
+        var navigationObject = {
+            jsx: <Navigation addID={this.handleID}/>,
             active: true,
             id:0,
             name:'Home',
@@ -35,27 +39,28 @@ class TabViewer extends Component {
         };
         this.setState((prevState)=>{
             var newState = prevState.views;
-            newState.push(navigatorObject);
+            newState.push(navigationObject);
             return {views:newState, inView:newState}
         });
     }
 
-
-    renderStory(id){
-        var storyObject = getStoryByID(id);
-        return <StoryView story={storyObject}/>;
-    }
-    renderPPF(id,type,Name){
+    renderPPFS(id,type){
         if(type==='People'){
-            getPeopleByID(id);
-            return <div className='item'><h1>{Name}</h1></div>
+            var personObject = getPeopleByID(id);
+            return <PeopleView person={personObject} addID={this.handleID}/>
         } else if(type==='Places'){
-
+            var place = getPlacesByID(id);
+            return <PlaceView place={place} addID={this.handleID}/>
         } else if(type==='Fieldtrips'){
-
+            var fieldtrip = getFieldtripsByID(id);
+            return <FieldtripView fieldtrip={fieldtrip} addID={this.handleID}/>
+        } else if(type==='Stories'){
+            var storyObject = getStoryByID(id);
+            return <StoryView story={storyObject} addID={this.handleID}/>;
         }
     }
     //TODO:figure out a better way of calling this function
+    //update views with PDF views
     renderPDF(filepath, name){
         var nameUpdated = true;
         if(this.state.inView.name === name){
@@ -70,8 +75,8 @@ class TabViewer extends Component {
         if(name !== undefined && nameUpdated){
             var PDFObject = {
                 name:name,
-                pdf:filepath,
-                jsx:<div><h1>{name}</h1><h4>{filepath}</h4></div>,
+                url:filepath,
+                jsx:<BookView url={filepath} name={name}>{name}</BookView>,
                 active:true
             };
             this.setState((prevState)=>{
@@ -108,15 +113,25 @@ class TabViewer extends Component {
            }
         });
     }
-    handlePPSID(InputID, Name, Type){
+    handleID(InputID, Name, Type){
         console.log(InputID,Name, Type);
-        if(Type==='Stories'){
-            this.handleStoryID(InputID,Name);
+        //check if input id is already in views
+        var inView = false;
+        var viewIndex = -1;
+        this.state.views.forEach((view,i)=>{
+            if(view['id']===InputID && view['type']===Type){
+                inView = true;
+                viewIndex = i;
+            }
+        });
+        if(inView){
+            //if it's already in views, make it in view
+            this.setState((prevState)=>{
+                return {inView:[prevState['views'][viewIndex]]}
+            });
         } else {
             var itemObject = {
-                //TODO: create people, places, and fieldtrip views
-                //TODO: create associated people, places, stories navigator
-                jsx:this.renderPPF(InputID,Type,Name),
+                jsx:this.renderPPFS(InputID,Type,Name),
                 id:InputID,
                 active:true,
                 name:Name,
@@ -170,38 +185,46 @@ class TabViewer extends Component {
     }
 
     closeTab(view){
-        console.log('closing tab!');
+        console.log('closing tab!',this.state.views,view);
         //find 'view' in this.state.views and .inView, and delete it. if .inView then default to home tab
-        this.state.views.forEach((currentView)=>{
-            if(currentView === view){
-                this.setState((prevState)=>{
-                    var newState = prevState;
-                    var removeViewIndex = newState.views.indexOf(view);
-                    newState.views.splice(removeViewIndex,1);
-                    if(newState.inView[0] === view){
-                        newState.views[0].active = true;
-                        return {
-                            views:newState.views,
-                            inView:[newState.views[0]]
-                        }
-                    }
-                },()=>{
-                    console.log(this.state.views)
-                });
+        this.setState((prevState)=>{
+            var newState = prevState;
+            var removeViewIndex = -1;
+            this.state.views.forEach((currentView,i)=>{
+                if(currentView['name'] === view['name']){
+                    removeViewIndex = i;
+                }
+            });
+            newState.views.splice(removeViewIndex,1);
+            if(newState.inView[0]['name'] === view['name']){ // is current view being closed?
+                return {
+                    views:newState.views,
+                    inView:[newState.views[0]]
+                }
+            } else { // if current view isn't being closed, don't change what's inView
+                return {
+                    views:newState.views,
+                }
             }
-        });
+
+        })
     }
+
+    renderTabs(){
+        this.renderPDF(this.props.menuItem.url,this.props.menuItem.name);
+        return this.state.inView.map((view, i)=>{ return <div key={i}>{view.jsx}</div> });
+    }
+
     render() {
         return (
             <div className="TabViewer grid-container full">
                 <div className="view">
-                    {this.state.inView.map((view, i)=>{ return <div key={i}>{view.jsx}</div> })}
-                    {this.renderPDF(this.props.menuItem.pdf,this.props.menuItem.name)}
+                    {this.renderTabs.bind(this)()}
                 </div>
                 <ul className="tabs">
                     {this.state.views.map((view,i)=>{
                         return <li onClick={(event)=>{event.preventDefault();this.switchTab(view);}}
-                                   key={i} className={`${view.active ? 'active' : ''}`}>
+                                   key={i} className={`${view.name === this.state.inView[0].name ? 'active' : ''}`}>
                             {view.name}
                             <img src="https://png.icons8.com/material/50/000000/delete-sign.png" alt="Close Icon"
                                  className={`closeIcon ${view.name === 'Home'? 'noClose':''}`} onClick={(event)=>{event.preventDefault(); this.closeTab(view)}}/>

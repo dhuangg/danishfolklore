@@ -1,0 +1,25 @@
+.SearchComponent{
+    padding-top:3vh;
+    height:40vh;
+    border: 1px solid #d2d2d2;
+    margin-bottom:10%;
+}
+.SearchComponent input[type=text]{
+    background-color:transparent;
+    color:white;
+    font-size:2em;
+    padding:3px;
+    height:1.6em;
+}
+.suggestions{
+    display:none;
+    height:20vh;
+    overflow-y:scroll;
+    background-color:white;
+    margin:-20% 4% 4% 4%;
+    padding:2%;
+    width:100%;
+}
+.suggestions.active{
+    display:block;
+}

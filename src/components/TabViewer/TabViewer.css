@@ -36,3 +36,9 @@
 .view{
     height:89vh;
 }
+.associated-items{
+    cursor:pointer;
+}
+.pdfViewer .mgrpdf__wrapper canvas{
+    height:87vh !important;
+}
