@@ -15,18 +15,14 @@ class App extends Component {
     }
 
     menuHandler(dataObject){
-        this.setState((prevState)=>{
-            var newState = prevState;
-            newState.menuItem = dataObject;
-            return {menuItem:newState.menuItem}
-        });
+        this.refs.tabViewer.renderPDF(dataObject.url, dataObject.name);
     }
 
     render() {
         return (
             <div className="App grid-container full">
                 <Heading sendData={this.menuHandler}/>
-                <TabViewer menuItem={this.state.menuItem}/>
+                <TabViewer ref="tabViewer" menuItem={this.state.menuItem}/>
             </div>
         );
     }

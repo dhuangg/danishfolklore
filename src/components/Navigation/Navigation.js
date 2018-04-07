@@ -30,17 +30,78 @@ class Navigation extends Component {
             toSelect:false,
             timeFilterOn:false,
             displayOntology:'',
+            lastIDKey:'',
+            lastDisplayKey:'',
         };
         this.displayItems = this.displayItems.bind(this)
     }
 
+    componentWillMount(){
+        const cachedState = localStorage.getItem('state');
+        if(cachedState && localStorage.getItem('lastIDKey') !== 'undefined'){
+            const path = localStorage.getItem('path');
+            const lists = localStorage.getItem('lists');
+            const displayItemsList = localStorage.getItem('displayItemsList');
+            const itemsList = localStorage.getItem('itemsList');
+            const fromDate = localStorage.getItem('fromDate');
+            const toDate = localStorage.getItem('toDate');
+            const fromSelect = localStorage.getItem('fromSelect');
+            const toSelect = localStorage.getItem('toSelect');
+            const timeFilterOn = localStorage.getItem('timeFilterOn');
+            const displayOntology = JSON.parse(localStorage.getItem('displayOntology'));
+            const lastIDKey = JSON.parse(localStorage.getItem('lastIDKey'));
+            const lastDisplayKey = JSON.parse(localStorage.getItem('lastDisplayKey'));
+            this.setState({
+                path:JSON.parse(path),
+                lists:JSON.parse(lists),
+                displayOntology:displayOntology,
+                itemsList:JSON.parse(itemsList),
+                lastIDKey:lastIDKey,
+                lastDisplayKey:lastDisplayKey,
+                displayItemsList:JSON.parse(itemsList).map((itemInList,i)=>{
+                    return <li key={i} className={displayOntology}
+                               onClick={(e)=>{ e.preventDefault();
+                                   this.handleIDQuery(itemInList[lastIDKey],itemInList[lastDisplayKey],displayOntology)}}>
+                        {itemInList[lastDisplayKey]}
+                    </li>
+                }),
+                fromDate:JSON.parse(fromDate),
+                toDate:JSON.parse(toDate),
+                fromSelect:JSON.parse(fromSelect),
+                toSelect:JSON.parse(toSelect),
+                timeFilterOn:false,
+            });
+        }
+    }
+
     displayList(list, displayKey, idKey, ontology){
+        this.setState((prevState)=>{
+            return {
+                displayItemsList: list.map((itemInList,i)=>{
+                    return <li key={i} className={prevState.displayOntology}
+                               onClick={(e)=>{ e.preventDefault();
+                                   this.handleIDQuery(itemInList[idKey],itemInList[displayKey],this.state.displayOntology)}}>
+                        <span>
+                            <img className={"convo-icon " + prevState.displayOntology} src="https://png.icons8.com/metro/32/000000/chat.png" alt="story"/>
+                            <img className={"person-icon " + prevState.displayOntology} src="https://png.icons8.com/windows/32/000000/contacts.png" alt="person"/>
+                            <img className={"location-icon " + prevState.displayOntology} src="https://png.icons8.com/windows/32/000000/marker.png" alt="location"/>
+                        </span> {itemInList[displayKey]}
+                    </li>
+                }),
+                lastIDKey:idKey,
+                lastDisplayKey:displayKey,
+            }
+        });
         if(ontology === 'undefined'){
             return list.map((item,i)=>{
                 return <li key={i} className={this.state.displayOntology}
                            onClick={(e)=>{ e.preventDefault();
                                this.handleIDQuery(item[idKey],item[displayKey],this.state.displayOntology)}}>
-                    {item[displayKey]}
+                    <span>
+                        <img className={"convo-icon " + this.state.displayOntology} src="https://png.icons8.com/metro/32/000000/chat.png" alt="story"/>
+                        <img className={"person-icon " + this.state.displayOntology} src="https://png.icons8.com/windows/32/000000/contacts.png" alt="person"/>
+                        <img className={"location-icon " + this.state.displayOntology} src="https://png.icons8.com/windows/32/000000/marker.png" alt="location"/>
+                    </span> {item[displayKey]}
                 </li>
             });
         } else {
@@ -48,7 +109,11 @@ class Navigation extends Component {
                 return <li key={i} className={ontology}
                            onClick={(e)=>{ e.preventDefault();
                                this.handleIDQuery(item[idKey],item[displayKey],ontology)}}>
-                    {item[displayKey]}
+                    <span>
+                        <img className={"convo-icon " + this.state.displayOntology} src="https://png.icons8.com/metro/32/000000/chat.png" alt="story"/>
+                        <img className={"person-icon " + this.state.displayOntology} src="https://png.icons8.com/windows/32/000000/contacts.png" alt="person"/>
+                        <img className={"location-icon " + this.state.displayOntology} src="https://png.icons8.com/windows/32/000000/marker.png" alt="location"/>
+                    </span> {item[displayKey]}
                 </li>
             });
         }
@@ -62,6 +127,19 @@ class Navigation extends Component {
     displayItems(items, ontology){
         var displayKey = ontologyToDisplayKey[ontology];
         var idKey = ontologyToID[ontology];
+        localStorage.setItem('state', JSON.stringify(this.state));
+        localStorage.setItem('path', JSON.stringify(this.state['path']));
+        localStorage.setItem('lists', JSON.stringify(this.state['lists']));
+        localStorage.setItem('displayItemsList', JSON.stringify(this.state['displayItemsList']));
+        localStorage.setItem('itemsList', JSON.stringify(items));
+        localStorage.setItem('fromDate', JSON.stringify(this.state['fromDate']));
+        localStorage.setItem('toDate', JSON.stringify(this.state['toDate']));
+        localStorage.setItem('fromSelect', JSON.stringify(this.state['fromSelect']));
+        localStorage.setItem('toSelect', JSON.stringify(this.state['toSelect']));
+        localStorage.setItem('timeFilterOn', JSON.stringify(this.state['timeFilterOn']));
+        localStorage.setItem('displayOntology', JSON.stringify(ontology));
+        localStorage.setItem('lastIDKey', JSON.stringify(idKey));
+        localStorage.setItem('lastDisplayKey',JSON.stringify(displayKey));
         this.setState(()=>{
             return {
                 displayOntology:ontology,
@@ -115,7 +193,6 @@ class Navigation extends Component {
 
     //sets time filters
     timeFilterHandler(){
-        // console.log(this.refs.fromDate.value,this.refs.toDate.value,this.state.timeFilterOn);
         var fromDateForm = parseInt(this.refs.fromDate.value);
         var toDateForm = parseInt(this.refs.toDate.value);
         //check if the dates are valid dates (4 digits, between 1887 and 1899)
@@ -174,7 +251,7 @@ class Navigation extends Component {
                         <SearchComponent handleDisplayItems={this.displayItems.bind(this)}/>
                         <NavigatorComponent handleDisplayItems={this.displayItems.bind(this)}/>
                     </div>
-                    <div className="medium-4 cell AssociatedStoriesViewer">
+                    <div className="medium-5 cell AssociatedStoriesViewer">
                         <form className="time-filter grid-x">
                             <div className="medium-2 cell text"><b>From</b></div>
                             <div className="medium-2 cell">
@@ -203,10 +280,14 @@ class Navigation extends Component {
                                        id="myRange"/>
                             </div>
                             <div className="medium-3 medium-offset-1 cell">
-                                <input type="checkbox" name="Time Filter Switch" checked={this.state.timeFilterOn}
-                                       className="timeSwitch"
-                                       onChange={this.timeFilterHandler.bind(this)} ref="TimeFilterOn"/>&nbsp;
-                                <span style={{fontSize:".8em"}}>Enable Timeline</span><br/>
+                                <div className="switch">
+                                    <input className="switch-input" id="exampleSwitch" type="checkbox" checked={this.state.timeFilterOn}
+                                           name="exampleSwitch" onChange={this.timeFilterHandler.bind(this)} ref="TimeFilterOn"/>
+                                        <label className="switch-paddle" htmlFor="exampleSwitch"><br/>
+                                            <span style={{fontSize:".8em",color:'black',width:'150%'}}>Timeline</span>
+                                            <span className="show-for-sr">Enable Timeline</span>
+                                        </label>
+                                </div>
                             </div>
                         </form>
                         <div className="stories-container">

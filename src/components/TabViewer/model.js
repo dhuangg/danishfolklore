@@ -32,7 +32,8 @@ export function getPeopleByID(person_id){
 
 export function getPlacesByID(place_id){
     var placeObject = placesData[place_id];
-    if(placeObject.people !== null && placeObject.people !== []){
+    console.log(placeObject.people);
+    if(placeObject.people !== null && placeObject.people !== [] && typeof placeObject.people !== 'undefined'){
         placeObject['people'] = arrayTransformation(placesData[place_id].people.person);
     } else {
         delete placeObject.people
@@ -45,7 +46,6 @@ export function getPlacesByID(place_id){
     } else if(place_id in placesMentionedData){
         placeObject['storiesMentioned'] = arrayTransformation(placesMentionedData[place_id].stories.story);
     }
-    console.log('Get Places by ID',placeObject);
     return placeObject;
 }
 
@@ -57,7 +57,6 @@ export function getFieldtripsByID(fieldtrip_id){
         fieldtripObject['places_visited'] = arrayTransformation(fieldtripObject['places_visited'].place);
         fieldtripObject['stories_collected'] = arrayTransformation(fieldtripObject['stories_collected'].story);
     }
-    console.log('Get Fieldtrips by ID',fieldtripObject);
     return fieldtripObject;
 }
 

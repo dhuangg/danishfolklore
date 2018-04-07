@@ -18,7 +18,7 @@ const data = {
     fieldtrips:dataFieldtrips.fieldtrip,
     people: informants.informant,
     places: places.place,
-    stories: storySearch.story
+    stories: storySearch.story,
 };
 
 //return array of same key:pair value (i.e. gets me a list of all children of "Places")
@@ -74,7 +74,8 @@ export function getList(ontology){
 }
 
 export function getKeywords(){
-    return keywords.children;
+    var keywordsAll = keywords['children'].concat(ListModel['Stories']['children']);
+    return keywordsAll;
 }
 
 const keywords = {
@@ -84,7 +85,7 @@ const keywords = {
 
 export const ontologyToDisplayKey = {
     'ETK Indice':'heading_english',
-    'Tangherlini Indices':'type',
+    'Tangherlini Index':'type',
     'Fieldtrips':'fieldtrip_name',
     'Genres':'name',
     'People':'full_name',
@@ -181,8 +182,8 @@ const ListModel = {
         children:getSiblings(data.genre,'name',true),
         level:2
     },
-    'Tangherlini Indices':{
-        name:'Tangherlini Indices',
+    'Tangherlini Index':{
+        name:'Tangherlini Index',
         children:getSiblings(data.tango,'type',true),
         level:2
     },
@@ -196,6 +197,7 @@ export const ontologyToID = {
 };
 
 export function dateFilterHelper(startDate, endDate, ontology){
+    console.log(startDate,endDate,ontology);
     //go through fieldtrips to see which fieldtrips fit within dates
     var fieldtripsInDates = [];
     data.fieldtrips.forEach((fieldtrip)=>{
@@ -235,6 +237,7 @@ export function dateFilterHelper(startDate, endDate, ontology){
                     });
                 }
             });
+            console.log(UniqueItems);
             return UniqueItems;
         }
     } else {

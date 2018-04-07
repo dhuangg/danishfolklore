@@ -55,7 +55,6 @@ class Heading extends Component {
         this.menuToggle();
     }
 
-    //TODO: create clickHandler for menu item click
     render() {
         return (
             <div className="Heading grid-x grid-padding-x">
@@ -67,16 +66,14 @@ class Heading extends Component {
                     </div>
                 </div>
                 <div className="medium-offset-7 large-offset-8 Hamburger-Menu medium-1 cell" onClick={this.menuToggle}>
-                    <div></div>
-                    <div></div>
-                    <div></div>
+                    <img src="https://png.icons8.com/wired/64/ffffff/book.png"
+                         style={{height:"2.9em", paddingTop:"7px", paddingLeft:"10px"}}
+                         alt="book"/>
                 </div>
                 <div className={`Menu ${this.state.menuActive ? 'active' : ''}`}>
                     <div className="solid">
                         <div className="Hamburger-Menu" onClick={this.menuToggle}>
-                            <div></div>
-                            <div></div>
-                            <div></div>
+                            <img src="https://png.icons8.com/wired/50/ffffff/literature.png" style={{height:"2.9em", paddingTop:"5px"}} alt="open book"/>
                         </div>
                         <ul className="list">
                             {this.state.menuList.map((menuItem,i)=>{

@@ -20,11 +20,12 @@ class SearchComponent extends Component {
             shouldSort: true,
             threshold: .2,
             location: 0,
-            distance: 1000,
+            distance: 10000,
             maxPatternLength: 64,
             minMatchCharLength: 1,
             keys:[
-                "keyword_name"
+                "search_string",
+                "keyword_name",
             ]
         });
     }
@@ -38,24 +39,27 @@ class SearchComponent extends Component {
     }
 
     handleSearch(selectedItem){
-        //console.log(selectedItem);
-        var storiesList = [];
-        var placesList = [];
-        if(typeof selectedItem['stories']['story'] !== 'undefined'){
-            storiesList = arrayTransformation(selectedItem['stories']['story']);
+        // check if selectedItem is a story or keyword
+        if('story_id' in selectedItem){
+            this.props.handleDisplayItems([selectedItem],'Stories');
+        } else if('keyword_id' in selectedItem){
+            var storiesList = [];
+            var placesList = [];
+            if(typeof selectedItem['stories']['story'] !== 'undefined'){
+                storiesList = arrayTransformation(selectedItem['stories']['story']);
+            }
+            if(typeof selectedItem['places']['place'] !== 'undefined'){
+                placesList = arrayTransformation(selectedItem['places']['place']);
+            }
+            var itemsList = storiesList.concat(placesList);
+            //console.log(itemsList);
+            this.props.handleDisplayItems(storiesList,'Stories');
+            this.setState({searching:false, searchTerm:selectedItem['keyword_name']});
         }
-        if(typeof selectedItem['places']['place'] !== 'undefined'){
-            placesList = arrayTransformation(selectedItem['places']['place']);
-        }
-        var itemsList = storiesList.concat(placesList);
-        //console.log(itemsList);
-        this.props.handleDisplayItems(storiesList,'Stories');
-        this.setState({searching:false, searchTerm:selectedItem['keyword_name']});
     }
 
     handleFuzzySearch(){
         var input = this.refs.searchString.value;
-        console.log(this.fuse);
         if (input === '') {
             this.setState({
                 results: this.data.slice(0, 100),
@@ -80,16 +84,22 @@ class SearchComponent extends Component {
     renderSuggestions(){
         if(typeof this.state.results !== 'undefined'){
             return this.state.results.map((keyword,i)=>{
+                var displayKey = '';
+                if('keyword_name' in keyword){
+                    displayKey = 'keyword_name';
+                } else if ('search_string' in keyword) {
+                    displayKey = 'search_string';
+                }
                 return <li key={i} style={{cursor:'pointer'}}
-                           onClick={(e)=>{e.preventDefault();this.handleSearch.bind(this)(keyword)}}>{keyword['keyword_name']}</li>
+                           onClick={(e)=>{e.preventDefault();this.handleSearch.bind(this)(keyword)}}>{keyword[displayKey]}</li>
             });
         }
     }
 
     render() {
         return (
-            <div className="SearchComponent grid-x grid-padding-x">
-                <form className="cell">
+            <div className="SearchComponent grid-x">
+                <form className="cell wrapper">
                     <input type="text" ref="searchString" placeholder="Search Term" value={this.state.searchTerm}
                            onClick={(e)=>{
                                e.preventDefault();
@@ -98,10 +108,13 @@ class SearchComponent extends Component {
                                this.setState({searching:true});
                            }}
                            onChange={this.handleFuzzySearch.bind(this)}/>
+                    <ul className={`suggestions ${this.state.searching ? 'active' : ''}`}>
+                        {this.renderSuggestions.bind(this)()}
+                    </ul>
                 </form>
-                <ul className={`suggestions ${this.state.searching ? 'active' : ''}`}>
-                    {this.renderSuggestions.bind(this)()}
-                </ul>
+                <div className="cell filters">
+
+                </div>
             </div>
         );
     }

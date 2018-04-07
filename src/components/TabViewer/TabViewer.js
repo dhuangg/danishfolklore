@@ -20,7 +20,6 @@ class TabViewer extends Component {
             storyPath:'',
             inView:[]
         };
-        this.handleStoryID = this.handleStoryID.bind(this);
         this.handleID = this.handleID.bind(this);
         this.tabController = this.tabController.bind(this);
         this.switchTab = this.switchTab.bind(this);
@@ -37,6 +36,10 @@ class TabViewer extends Component {
             name:'Home',
             type:'home'
         };
+        // const cachedState = localStorage.getItem('views');
+        // const cachedInView = localStorage.getItem('inView');
+        // console.log(JSON.parse(cachedState));
+        //TODO: save tabs on refresh
         this.setState((prevState)=>{
             var newState = prevState.views;
             newState.push(navigationObject);
@@ -59,7 +62,6 @@ class TabViewer extends Component {
             return <StoryView story={storyObject} addID={this.handleID}/>;
         }
     }
-    //TODO:figure out a better way of calling this function
     //update views with PDF views
     renderPDF(filepath, name){
         var nameUpdated = true;
@@ -92,27 +94,6 @@ class TabViewer extends Component {
     //7)A catch all function will take in an ID and name of the selected object
     // depending on what was selected (story, people, places, fieldtrips) add a different type of object to add to views and inView
 
-    handleStoryID(InputStoryID,StoryName){
-        console.log('This is the story ID!',InputStoryID);
-        var storyObject = {
-            jsx:this.renderStory(InputStoryID),
-            id:InputStoryID,
-            active:true,
-            name:StoryName,
-            type:'story'
-        };
-        this.setState((prevState)=>{
-            var newStoryViews = prevState.views;
-            newStoryViews.forEach((view)=>{
-                view.active = false;
-            });
-            newStoryViews.push(storyObject);
-           return {
-               views:newStoryViews,
-               inView:[storyObject]
-           }
-        });
-    }
     handleID(InputID, Name, Type){
         console.log(InputID,Name, Type);
         //check if input id is already in views
@@ -147,6 +128,8 @@ class TabViewer extends Component {
                     views:newViews,
                     inView:[itemObject]
                 }
+            },()=>{
+                localStorage.setItem('views',JSON.stringify(this.state.views));
             });
         }
     }
@@ -181,6 +164,8 @@ class TabViewer extends Component {
             } else {
                 return{ views:newViews }
             }
+        },()=>{
+            localStorage.setItem('inView',JSON.stringify(this.state.inView));
         });
     }
 
@@ -206,12 +191,13 @@ class TabViewer extends Component {
                     views:newState.views,
                 }
             }
-
+        },()=>{
+            localStorage.setItem('views',JSON.stringify(this.state.views));
         })
     }
 
     renderTabs(){
-        this.renderPDF(this.props.menuItem.url,this.props.menuItem.name);
+        // this.renderPDF(this.props.menuItem.url,this.props.menuItem.name);
         return this.state.inView.map((view, i)=>{ return <div key={i}>{view.jsx}</div> });
     }
 

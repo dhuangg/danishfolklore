@@ -23,16 +23,35 @@ class Navigation extends Component {
     }
 
     componentWillMount(){
-        this.setState(()=>{
-            return{
-                navigators:[
-                    {name:'Data Navigator', tabClass:'tab cell medium-6 dataNavView active'},
-                    {name:'Topic & Index Navigator', tabClass:'tab cell medium-6 TINavView'}
-                ],
-                dataNav:['People','Places','Stories'],
-                TINav:['ETK Indice','Tangherlini Indices','Fieldtrips','Genres']
-            }
-        });
+        const prevState = JSON.parse(localStorage.getItem('NavCompState'));
+        // console.log(prevState);
+        if(prevState){
+            this.setState(()=>{
+                return{
+                    navigators:[
+                        {name:'Data Navigator', tabClass:'tab cell medium-6 dataNavView active'},
+                        {name:'Topic & Index Navigator', tabClass:'tab cell medium-6 TINavView'}
+                    ],
+                    dataNav:['People','Places','Stories'],
+                    TINav:['ETK Indice','Tangherlini Index','Fieldtrips','Genres'],
+                    displayItemsList:prevState.displayItemsList,
+                    dataNavView:prevState.dataNavView,
+                    dropdownLists:prevState.dropdownLists,
+                }
+            });
+        } else {
+            this.setState(()=>{
+                return{
+                    navigators:[
+                        {name:'Data Navigator', tabClass:'tab cell medium-6 dataNavView active'},
+                        {name:'Topic & Index Navigator', tabClass:'tab cell medium-6 TINavView'}
+                    ],
+                    dataNav:['People','Places','Stories'],
+                    TINav:['ETK Indice','Tangherlini Index','Fieldtrips','Genres'],
+                }
+            });
+        }
+
     }
 
     handleTabClick(nav){
@@ -64,8 +83,7 @@ class Navigation extends Component {
 
     //level 2 = indices, people, places, stories
     handleLevelTwoClick(ontology){
-        //reset results display
-        this.props.handleDisplayItems([],'');
+        this.props.handleDisplayItems([],''); //reset results display
         var itemsList = getList(ontology);
         var listObject = {};
         var isPPSF = (ontology === 'People' || ontology === 'Places' || ontology === 'Stories' || ontology === 'Fieldtrips');
@@ -95,8 +113,8 @@ class Navigation extends Component {
                 itemsList.unshift(selectObject);
             }
         }
-        if(ontology !== 'Tangherlini Indices' && !isPPSF) {
-            //if it is an indice that isn't a tango indice
+        if(ontology !== 'Tangherlini Index' && !isPPSF) {
+            //if it is an indice that isn't a tango index
             listObject = {
                 selectValue:selectString,
                 displayKey:displayKey,
@@ -108,7 +126,7 @@ class Navigation extends Component {
         } else if (!isPPSF) {
             //ontology === tangherlini indices
             var tangoTypesList = Object.keys(tangoTypes);
-            tangoTypesList.unshift('[Select an Indice]');
+            tangoTypesList.unshift('[Select a Class]');
             listObject = {
                 selectValue:selectString,
                 displayKey:displayKey,
@@ -131,6 +149,7 @@ class Navigation extends Component {
                 return {dropdownLists:newDropdownList}
             });
             this.props.handleDisplayItems(storiesList,'Stories');
+            localStorage.setItem('navCompState',this.state);
         } else if(isTango){
             //need to make second dropdown list with those types
             this.setState((oldState)=>{
@@ -152,12 +171,12 @@ class Navigation extends Component {
             });
         }
     }
-    //TODO: fix tab highlight
+
     render() {
         var ontologyType = this.state.dataNavView ? 'dataNav' : 'TINav';
         return (
             <div className="NavigatorComponent">
-                <div className="navigator-tabs grid-x">
+                <div className="navigator-tabs grid-x ">
                     {this.state.navigators.map((nav,i)=>{
                         return <div className={nav['tabClass']} key={i}
                                     onClick={(e)=>{e.preventDefault;this.handleTabClick(nav)}}>
@@ -165,7 +184,7 @@ class Navigation extends Component {
                         </div>
                     })}
                 </div>
-                <div className="navigator-options-wrapper">
+                <div className="navigator-options-wrapper ">
                     <div className={`cell ${this.state.dataNavView ? 'active dataNavView' : 'TINavView active'}`}>
                         <ul className="ontologyList">
                             {this.state[ontologyType].map((ontology, i)=>{

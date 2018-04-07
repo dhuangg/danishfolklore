@@ -1,29 +1,30 @@
 
 .NavigatorComponent{
-    background-color:white;
-    height:43%;
+    background-color:#F2F2F2;
+    height:48%;
+    margin-top:10%;
 }
 .navigator-tabs .tab{
     cursor:pointer;
     display:block;
-    background-color: lightgrey;
+    background-color: #7F7F7F;
     padding:1%;
     font-weight:bold;
     text-align:center;
 }
 .navigator-options-wrapper{
-    margin:3%;
+    margin:2%;
     border:1px solid #d2d2d2;
     height:78%;
 }
 .dataNavView, .TINavView{
-    padding:6% 0 0 3%;
+    padding:6% 0 0 ;
     display:none;
 }
-.dataNavView.active, .TINavView.active{  display:block; background-color:white; }
-.tab.dataNavView.active, .tab.TINavView.active{ background-color:white; }
+.dataNavView.active, .TINavView.active{  display:block; background-color:#F2F2F2; }
+.tab.dataNavView.active, .tab.TINavView.active{ background-color:#F2F2F2; }
 .ontology{  cursor:pointer;  }
-.ontologyList{list-style: none; margin:0;}
+.ontologyList{list-style: none; margin:0; padding:0;}
 .ontologyList li{
     background:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH4SURBVEhL3dZNSBVRGIfxa1pkSEIURBtplRtJciEkuW9VGwsVJGgjFLVwo5CCG4NAF65CcNMuXUZB2Aek4NIQooI+FpHSIjIixULzeQZnGMfrzJ17XfWHHzhnZs5759x5z7WwRxrQj2f4gjX8wgdM4RrqUHaO4wH+4l+GH+hDNXKlFctwkt+4j4s4gSocgk/agxmEBV+gHiWlGSvwxsc4iaxcwGd4zzwOIzUHsQhvmISfvtT4gd7Be+86kBaXwgst5vLkzVn8gS+M3/GeeQoLdQVH5eUhnOMVrqIGu/IVXpT6aTJyHc4Reovz2BEfeRO5X9NYLiFeSLZIN6K8hydOB0fl5TaShWSxNgSZgIN3gqPyModkkdBrHEDQQy7dd9iQeXMFxQrEuRkEGYUDVj/lQIlph7tIcuKkWwhi/zyCg26iWU92FMOwf5KTFjOAKBZz+TzR5MB2XN8zcN/zNXbT/YnkZGk6EcXvykF3ZbclcxlvkLwxj1VEPWoPPYcnRuDav9w+rtQ4orghhic+xv5eQi/GYmN5LOAIonxC/AK/qyGEv6Lu6Pewgfh1aWZxDDtyDk7kk3WgFsVil9uc9l2xyeNuoOK4Xd2E/ef/EN+QLDSNfY9L7Eu0jrCQy7xrB9+vNOIJwmI2fyWbdWbsyUH4arc48L+lUNgCqdPt42awD2MAAAAASUVORK5CYII=')no-repeat left top;
     height:1.5em;

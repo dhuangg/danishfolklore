@@ -57,7 +57,7 @@ class PeopleView extends Component {
         var storiesList = this.props.person['stories'];
         if(placesList !== [] && storiesList !== []){
             return <div>
-                {this.renderStory}
+                {this.renderStory()}
                 {this.renderPlace()}
             </div>
         } else if(placesList !== []){
@@ -66,7 +66,7 @@ class PeopleView extends Component {
             </div>
         } else if(storiesList !== []){
             return <div>
-                {this.renderStory}
+                {this.renderStory()}
             </div>
         }
     }
